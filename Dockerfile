@@ -1,9 +1,16 @@
-from joyzoursky/python-chromedriver:3.9
+FROM joyzoursky/python-chromedriver:3.9
+WORKDIR /src/app
+# Install system dependencies
+RUN apt-get update && apt-get install -y \
+    gcc \
+    python3-dev \
+    libffi-dev \
+    libssl-dev
 
 COPY . .
-RUN pip install -r ./requirements.txt
-
-ENV FILE="data/dict_smart_query_keyword.json"
+RUN python -m pip install --upgrade pip
+RUN pip install --no-cache-dir -r ./requirements.txt
 
 COPY data/data_jobs.json /mnt/
+COPY src/app/dict_smart_query_keyword.json .
 CMD ["python", "main.py"]
