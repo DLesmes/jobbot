@@ -81,17 +81,16 @@ def pilot():
     info = f"[PILOT] running scraping loop]"
     logging.info(info)
     map_countries_keywords = dict(open_json(settings.MAP_COUNTRIES_KEYWORDS))
-    #map_countries_keywords = {
-    #    "colombia": "data scientist",
-    #    "colombia": "machine learning",
-    #    "colombia": "machine learning engineer",
-    #    "colombia": "artificial intelligence engineer",
-    #    "colombia": "artificial intelligence developer"
-    #}
+    print(map_countries_keywords)
     for country, cargo in map_countries_keywords.items():
         print(
-            'CARGO.################',
-            cargo
+            '#'*10,
+            'CARGO',
+            cargo,
+            "\n",
+            '#'*10,
+            'Country',
+            country
         )
         queries = [
             Query(
