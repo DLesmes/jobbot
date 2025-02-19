@@ -1,0 +1,5 @@
+services:
+  scraper:
+    build: .
+    volumes:
+      - ./data:/mnt
