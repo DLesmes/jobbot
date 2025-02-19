@@ -9,5 +9,5 @@ def save_json(pathfile:str, list_dicts):
 
 def open_json(pathfile:str):
     print(f'reading file at: {pathfile}')
-    loaded_file = json.load(open(pathfile, 'rb'))
+    loaded_file = json.load(open(pathfile, 'r'))
     return loaded_file

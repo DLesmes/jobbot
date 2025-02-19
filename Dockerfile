@@ -12,5 +12,5 @@ RUN python -m pip install --upgrade pip
 RUN pip install --no-cache-dir -r ./requirements.txt
 
 COPY data/data_jobs.json /mnt/
-COPY src/app/dict_smart_query_keyword.json .
+COPY data/dict_smart_query_keyword.json /mnt/
 CMD ["python", "main.py"]

@@ -80,41 +80,37 @@ def pilot():
     
     info = f"[PILOT] running scraping loop]"
     logging.info(info)
-    map_countries_keywords = dict(open_json(settings.MAP_COUNTRIES_KEYWORDS))
-    print(map_countries_keywords)
-    for country, cargo in map_countries_keywords.items():
-        print(
-            '#'*10,
-            'CARGO',
-            cargo,
-            "\n",
-            '#'*10,
-            'Country',
-            country
-        )
-        queries = [
-            Query(
-                query=f'{cargo}',
-                options=QueryOptions(
-                    locations=[country],
-                    optimize=False,
-                    limit=int(settings.NUM_VACANCIES),
-                    filters=QueryFilters(
-                        relevance=RelevanceFilters.RECENT,
-                        time=TimeFilters.DAY,
-                        type=[
-                            TypeFilters.FULL_TIME
-                        ],
-                        experience=[
-                            ExperienceLevelFilters.ENTRY_LEVEL,
-                            ExperienceLevelFilters.ASSOCIATE,
-                            ExperienceLevelFilters.MID_SENIOR
-                        ]
+    map_countries_keywords = open_json(settings.MAP_COUNTRIES_KEYWORDS)
+    if isinstance(map_countries_keywords, list):
+        print('[1]',type(map_countries_keywords))
+        print('[2]',map_countries_keywords)
+        for query_keyword in map_countries_keywords:
+            cargo = query_keyword["role"]
+            country = query_keyword["country"]
+            print(f"{'#'*10} CARGO: {cargo}\n{'#'*10}' COUNTRY: {country}")
+            queries = [
+                Query(
+                    query=f'{cargo}',
+                    options=QueryOptions(
+                        locations=[country],
+                        optimize=False,
+                        limit=int(settings.NUM_VACANCIES),
+                        filters=QueryFilters(
+                            relevance=RelevanceFilters.RECENT,
+                            time=TimeFilters.DAY,
+                            type=[
+                                TypeFilters.FULL_TIME
+                            ],
+                            experience=[
+                                ExperienceLevelFilters.ENTRY_LEVEL,
+                                ExperienceLevelFilters.ASSOCIATE,
+                                ExperienceLevelFilters.MID_SENIOR
+                            ]
+                        )
                     )
                 )
-            )
-        ]
-        scraper.run(queries)
+            ]
+            scraper.run(queries)
 
 if __name__== '__main__':
     pilot()
