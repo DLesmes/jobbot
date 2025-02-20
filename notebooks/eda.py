@@ -7,6 +7,16 @@ import pandas as pd
 #Graph
 import seaborn  as sns
 import matplotlib.pyplot as plt
+# root path
+import sys
+import os
+
+# Add the project root directory to sys.path
+project_root = os.path.abspath(os.path.join(os.path.dirname(__file__), ".."))
+sys.path.append(project_root)
+
+# Now you can import from src
+from src.app.utils import open_json
 #%% [markdown]
 # # data
 df = pd.read_json('../data/data_jobs.json')
@@ -85,9 +95,12 @@ plt.title("'publication_date'")
 #%%[markdown]
 # # knowledge based filters
 # %%
-seniority_criteria = ["Mid-Senior level", "Associate"]
-location_criteria = ["Bogota, D.C., Capital District, Colombia", "Colombia", "Bogotá, Capital District, Colombia"]
-work_modality_criteria = ["Full-time"]
+#%%
+job_seeker = open_json('../data/job_seekers.json')
+job_seeker[0].keys()
+seniority_criteria = job_seeker[0]['seniority']
+location_criteria = job_seeker[0]['location']
+work_modality_criteria = job_seeker[0]['work_modality_english']
 excluded_companies = ["BairesDev"]
 # %%
 df_filtered = df[
@@ -138,4 +151,4 @@ x = np.array(list(a['count']))
 sns.barplot(x=x, y=y, palette="rocket", hue=y, legend=False)
 plt.grid(True)
 plt.title("'publication_date'")
-#%%
+# %%
