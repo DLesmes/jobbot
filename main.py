@@ -1,7 +1,7 @@
 from src.app.services.preprocesor import Preprocesor
 preprocesor = Preprocesor()
-from src.app.clients.clip import Clip
-clip = Clip()
+#from src.app.clients.clip import Clip
+#clip = Clip()
 
 
 if __name__== '__main__':

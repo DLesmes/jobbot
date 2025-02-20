@@ -13,4 +13,4 @@ RUN pip install --no-cache-dir -r ./requirements.txt
 
 COPY data/data_jobs.json /mnt/
 COPY data/dict_smart_query_keyword.json /mnt/
-CMD ["python", "scraper/main.py"]
+CMD ["python", "scraper.py"]
