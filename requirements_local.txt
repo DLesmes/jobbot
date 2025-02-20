@@ -19,3 +19,5 @@ transformers == 4.38.0
 # fastapi
 fastapi==0.89.0
 uvicorn==0.20.0
+# uuid
+shortuuid == 1.0.13

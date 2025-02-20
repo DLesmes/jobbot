@@ -8,3 +8,4 @@ class Settings:
     NUM_VACANCIES = os.environ["NUM_VACANCIES"]
     FILTER_PARAMS = os.environ["FILTER_PARAMS"]
     DATA_JOBS = os.environ["DATA_JOBS"]
+    JOB_OFFERS = os.environ["JOB_OFFERS"]
