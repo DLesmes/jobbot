@@ -31,7 +31,7 @@ class Preprocesor:
         print(df.shape)
         return df
     
-    def tagger(self):
+    def augment(self):
         df_raw = self.extract(path=self.data_jobs)
         # setting the id
         df_raw['job_id'] = df_raw['link'].apply(
@@ -42,6 +42,20 @@ class Preprocesor:
                 )
             )
         )
+        # setting remote
+        df_raw['remote'] = False
+        df_raw['remote'] = (
+            df_raw['description'].str.contains(
+                'remote',
+                case=False,
+                na=False
+            ) |
+            df_raw['vacancy_name'].str.contains(
+                'remote',
+                case=False,
+                na=False
+            )
+        )
         df_preprocessed = self.extract(path=self.job_offers)
         df_concated = pd.concat([df_raw,df_preprocessed])
         df_concated.drop_duplicates(
@@ -49,11 +63,16 @@ class Preprocesor:
             inplace=True,
             ignore_index=True
         )
+        df_concated.dropna(
+            subset=['remote'],
+            inplace=True,
+            ignore_index=True
+        )
         print(df_concated.shape)
         return df_concated
     
     def transform(self):
-        df = self.tagger()
+        df = self.augment()
         # filter by fake companies
         df = df[~df["company"].isin(self.filter_params)].copy()
         # droping the query params
