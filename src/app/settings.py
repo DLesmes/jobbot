@@ -9,3 +9,4 @@ class Settings:
     FILTER_PARAMS = os.environ["FILTER_PARAMS"]
     DATA_JOBS = os.environ["DATA_JOBS"]
     JOB_OFFERS = os.environ["JOB_OFFERS"]
+    MODEL_ID = os.environ["MODEL_ID"]
