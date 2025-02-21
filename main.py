@@ -9,7 +9,7 @@ embeder = Embeder()
 
 if __name__== '__main__':
     #preprocesor.run()
-    df_embed = embeder.jobs()
+    df_embed = embeder.users()
     print(df_embed.shape)
     print(len(df_embed['embed'][0]))
     
