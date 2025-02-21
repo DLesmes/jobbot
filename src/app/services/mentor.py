@@ -64,7 +64,6 @@ class Mentor():
             df_jobs_scored = pd.DataFrame(list_dict_jobs_scored)
             print(f'user scores: {row['user_id']}',df_jobs_scored.score.value_counts)
             df_jobs_scored = df_jobs_scored[df_jobs_scored['score']>=0.7].copy()
-            df_jobs_scored.sort_values(by=['score'], ascending=False)
             df_jobs_scored['match_id'] = row['user_id']+df_jobs_scored['job_id']
             df_jobs_scored['match_date'] = datetime.today().strftime("%Y-%m-%d")
             tmp_dict_matches = df_jobs_scored[['match_id','match_date','score']].to_dict(orient='records')

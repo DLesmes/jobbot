@@ -50,6 +50,8 @@ class Retriever():
     """
     def __init__(self):
         self.embedding_path = settings.EMBEDDING_PATH
+        self.job_offers = settings.JOB_OFFERS
+        self.matches = settings.MATCHES
     
     def _get_specific_file_paths(self, specfic_file:str):
         """
@@ -108,4 +110,29 @@ class Retriever():
             df_last_embeds = pd.DataFrame(columns=[dict_ids[embed_type],'embed'])
         
         return df_last_embeds
+    
+    def get_last_matches(self, user_id):
+        dict_jobs = open_json(self.job_offers)
+        df_jobs = pd.DataFrame(dict_jobs)
+        dict_matches = open_json(self.matches)
+        df_matches = pd.DataFrame(dict_matches)
+        df_matches['user_id'] = df_matches['match_id'].apply(lambda x: str(x)[:33])
+        df_matches['job_id'] = df_matches['match_id'].apply(lambda x: str(x)[33:])
+        df_filtered = df_matches[df_matches['user_id']==user_id].copy()
+        df_filtered.index = df_filtered.job_id
+        dict_filtered = df_filtered['score'].to_dict()
+        df_jobs['score'] = df_jobs['job_id'].map(dict_filtered)
+        df_jobs.dropna(
+            subset=['score'],
+            inplace=True,
+            ignore_index=True
+        )
+        df_jobs.sort_values(
+            by=['score'],
+            ascending=False,
+            inplace=True
+        )
+        print(df_jobs.link)
+        dict_jobs = df_jobs.to_dict(orient='records')
+        return dict_jobs
     
