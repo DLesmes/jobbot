@@ -13,3 +13,6 @@ class Settings:
     MODEL_ID = os.environ["MODEL_ID"]
     EMBEDDING_PATH = os.environ["EMBEDDING_PATH"]
     MATCHES = os.environ["MATCHES"]
+    SIMILARITY_THRESHOLD = os.environ["SIMILARITY_THRESHOLD"]
+    USERS_IDS = os.environ["USERS_IDS"]
+    OUTPUT_MATCHES = os.environ["OUTPUT_MATCHES"]

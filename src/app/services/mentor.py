@@ -22,6 +22,7 @@ class Mentor():
         self.job_seekers = settings.JOB_SEEKERS
         self.matches = settings.MATCHES
         self.filter_params = ast.literal_eval(settings.FILTER_PARAMS)
+        self.similarity_threshold = float(settings.SIMILARITY_THRESHOLD)
 
     def knowledge_based_filter(self, user_id):
         # user customization
@@ -62,11 +63,12 @@ class Mentor():
                 for job in list_dict_jobs
             ]
             df_jobs_scored = pd.DataFrame(list_dict_jobs_scored)
-            print(f'user scores: {row['user_id']}',df_jobs_scored.score.value_counts)
-            df_jobs_scored = df_jobs_scored[df_jobs_scored['score']>=0.7].copy()
+            print(f'{'#'*10} user scores: {row['user_id']}\n',df_jobs_scored.score.value_counts)
+            df_jobs_scored = df_jobs_scored[df_jobs_scored['score']>=self.similarity_threshold].copy()
             df_jobs_scored['match_id'] = row['user_id']+df_jobs_scored['job_id']
             df_jobs_scored['match_date'] = datetime.today().strftime("%Y-%m-%d")
-            tmp_dict_matches = df_jobs_scored[['match_id','match_date','score']].to_dict(orient='records')
+            df_matches = df_jobs_scored[['match_id','match_date','score']].copy()
+            tmp_dict_matches = df_matches.to_dict(orient='records')
             dict_matches = dict_matches + tmp_dict_matches
         return dict_matches
     

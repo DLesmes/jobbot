@@ -90,7 +90,7 @@ class Embeder():
             df_missing_embeds['embed'] = list(embedings)
             df_missing_embeds = df_missing_embeds[['job_id','embed']].copy()
             # For NumPy arrays (GPU tensors)
-            tensors = torch.stack(df_embeds['embed'].tolist()).cpu()  # Move to CPU
+            tensors = torch.stack(df_missing_embeds['embed'].tolist()).cpu()  # Move to CPU
             df_missing_embeds['embed'] = tensors.numpy().tolist()
         else:
             df_missing_embeds = pd.DataFrame(columns=['job_id','embed'])
