@@ -4,6 +4,7 @@ import os
 import json
 from datetime import datetime
 # vector management
+import numpy as np
 import pandas as pd
 import pyarrow as pa
 import pyarrow.parquet as pq
@@ -34,6 +35,15 @@ def get_file_paths(directory):
             file_paths.append(filepath)
 
     return file_paths
+
+def cosine_similarity_numpy(vec1, vec2):
+    # Convert inputs to NumPy arrays if they are lists
+    vec1 = np.array(vec1) if isinstance(vec1, list) else vec1
+    vec2 = np.array(vec2) if isinstance(vec2, list) else vec2
+    dot_product = np.dot(vec1, vec2)
+    norm_vec1 = np.linalg.norm(vec1)
+    norm_vec2 = np.linalg.norm(vec2)
+    return round(dot_product / (norm_vec1 * norm_vec2),4)
 
 class Retriever():
     """

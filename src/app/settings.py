@@ -12,3 +12,4 @@ class Settings:
     JOB_SEEKERS = os.environ["JOB_SEEKERS"]
     MODEL_ID = os.environ["MODEL_ID"]
     EMBEDDING_PATH = os.environ["EMBEDDING_PATH"]
+    MATCHES = os.environ["MATCHES"]

@@ -9,7 +9,7 @@ import pyarrow as pa
 import pyarrow.parquet as pq
 
 # repo imports
-from src.app.utils import (open_json)
+from src.app.utils import open_json
 from src.app.settings import Settings
 settings = Settings()
 from src.app.utils import Retriever
