@@ -25,10 +25,17 @@ class Embeder():
         self.root = settings.EMBEDDING_PATH
         self.job_offers = settings.JOB_OFFERS
         self.job_seekers = settings.JOB_SEEKERS
+        self.embedding_path = settings.EMBEDDING_PATH
         self.today = datetime.today().strftime("%Y-%m-%d")
-        self.files_list = get_file_paths(settings.EMBEDDING_PATH)
-        self.dirs_list = [dir.split('/')[-2] for dir in self.files_list]
     
+    def _get_specific_file_paths(self, specfic_file:str):
+        """
+        """
+        files_list = get_file_paths(self.embedding_path)
+        files_list = [doc for doc in files_list if doc.endswith(specfic_file)]
+        dirs_list = [dir.split('/')[-2] for dir in files_list]
+        return dirs_list
+
     def _parse_date(self, date_str: str):
         """
         Parse a date string and return None for invalid dates.
@@ -44,15 +51,16 @@ class Embeder():
         except ValueError:
             return None
 
-    def get_last_run(self):
+    def get_last_run(self, specfic_file:str):
         """
         Get the most recent valid date as a string in YYYY-MM-DD format.
         
         Returns:
             Optional[str]: Most recent valid date or None if no valid dates.
         """
+        dirs_list = self._get_specific_file_paths(specfic_file)
         # Convert strings to datetime objects, filtering out None values
-        date_objects = [dt for dt in (self._parse_date(date) for date in self.dirs_list) if dt is not None]
+        date_objects = [dt for dt in (self._parse_date(date) for date in dirs_list) if dt is not None]
         
         # Return the most recent date or None if no valid dates
         return max(date_objects).strftime("%Y-%m-%d") if date_objects else None
@@ -62,7 +70,7 @@ class Embeder():
         available_users_list = open_json(self.job_seekers)
         df_available_users = pd.DataFrame(available_users_list)
         # previows jobs
-        last_run = self.get_last_run()
+        last_run = self.get_last_run('users.parquet')
         if last_run is not None:
             last_run_path = f'{self.root}{last_run}/users.parquet'
             if os.path.exists(last_run_path):
@@ -111,10 +119,10 @@ class Embeder():
 
     def jobs(self):
         # new jobs
-        available_jobs_list = open_json(self)
+        available_jobs_list = open_json(self.job_offers)
         df_available_jobs = pd.DataFrame(available_jobs_list)
         # previows jobs
-        last_run = self.get_last_run()
+        last_run = self.get_last_run('jobs.parquet')
         if last_run is not None:
             last_run_path = f'{self.root}{last_run}/jobs.parquet'
             table_last_embeds = pq.read_table(last_run_path)
