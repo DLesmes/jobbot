@@ -9,4 +9,6 @@ class Settings:
     FILTER_PARAMS = os.environ["FILTER_PARAMS"]
     DATA_JOBS = os.environ["DATA_JOBS"]
     JOB_OFFERS = os.environ["JOB_OFFERS"]
+    JOB_SEEKERS = os.environ["JOB_SEEKERS"]
     MODEL_ID = os.environ["MODEL_ID"]
+    EMBEDDING_PATH = os.environ["EMBEDDING_PATH"]
