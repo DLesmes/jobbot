@@ -1,3 +1,4 @@
+# 🚀 Current Job Offers Recommendations!
 | **Job offer** | **publication_date** | **Score** |
 |---|---|---|
 | [💎 Senior Data Scientist](https://co.linkedin.com/jobs/view/senior-data-scientist-at-epam-systems-4024721309) | 2025-02-18 | 0.8255✊ |
@@ -61,45 +62,45 @@
 | [💎 Business Development Leader | Centroamérica](https://co.linkedin.com/jobs/view/business-development-leader-centroam%C3%A9rica-at-people-experts-psic%C3%B3logos-empresariales-4161469037) | 2025-02-21 | 0.7197✊ |
 | [💎 Arquitecto de software](https://co.linkedin.com/jobs/view/arquitecto-de-software-at-confidential-jobs-4160579903) | 2025-02-20 | 0.7164✊ |
 | [💎 Líder de cambio , transformación cultural organizacional](https://co.linkedin.com/jobs/view/l%C3%ADder-de-cambio-transformaci%C3%B3n-cultural-organizacional-at-corporaci%C3%B3n-unificada-nacional-de-educaci%C3%B3n-superior-cun-4160585115) | 2025-02-20 | 0.7158✊ |
-| [💎 Lead .NET Developer (Azure)](https://co.linkedin.com/jobs/view/lead-net-developer-azure-at-epam-systems-4110433310) | 2025-02-21 | 0.7157✊ |
+| [💎 Senior Python Developer](https://co.linkedin.com/jobs/view/senior-python-developer-at-epam-systems-4157759270) | 2025-02-18 | 0.7157✊ |
+| [💎 Senior Python Software Engineer](https://co.linkedin.com/jobs/view/senior-python-software-engineer-at-epam-systems-4157755546) | 2025-02-18 | 0.7157✊ |
+| [💎 Senior Python Developer - AWS](https://co.linkedin.com/jobs/view/senior-python-developer-aws-at-epam-systems-4157753645) | 2025-02-18 | 0.7157✊ |
+| [💎 Senior Python Developer (AWS)](https://co.linkedin.com/jobs/view/senior-python-developer-aws-at-epam-systems-4157753688) | 2025-02-18 | 0.7157✊ |
+| [💎 Senior Python Developer](https://co.linkedin.com/jobs/view/senior-python-developer-at-epam-systems-4157758320) | 2025-02-18 | 0.7157✊ |
+| [💎 Senior Python Developer](https://co.linkedin.com/jobs/view/senior-python-developer-at-epam-systems-4157756574) | 2025-02-18 | 0.7157✊ |
+| [💎 Senior Python Developer](https://co.linkedin.com/jobs/view/senior-python-developer-at-epam-systems-4157759292) | 2025-02-18 | 0.7157✊ |
+| [💎 Senior Python Developer](https://co.linkedin.com/jobs/view/senior-python-developer-at-epam-systems-4157754625) | 2025-02-18 | 0.7157✊ |
+| [💎 Senior Python Developer (AWS)](https://co.linkedin.com/jobs/view/senior-python-developer-aws-at-epam-systems-4157760233) | 2025-02-18 | 0.7157✊ |
+| [💎 Senior Python Developer](https://co.linkedin.com/jobs/view/senior-python-developer-at-epam-systems-4157756548) | 2025-02-18 | 0.7157✊ |
+| [💎 Senior Python Developer](https://co.linkedin.com/jobs/view/senior-python-developer-at-epam-systems-4157752902) | 2025-02-18 | 0.7157✊ |
+| [💎 Senior Python Developer](https://co.linkedin.com/jobs/view/senior-python-developer-at-epam-systems-4157755569) | 2025-02-18 | 0.7157✊ |
+| [💎 Senior Python Developer](https://co.linkedin.com/jobs/view/senior-python-developer-at-epam-systems-4157758325) | 2025-02-18 | 0.7157✊ |
+| [💎 Senior Python Developer](https://co.linkedin.com/jobs/view/senior-python-developer-at-epam-systems-4157758226) | 2025-02-18 | 0.7157✊ |
+| [💎 Senior Python Developer](https://co.linkedin.com/jobs/view/senior-python-developer-at-epam-systems-4157758234) | 2025-02-18 | 0.7157✊ |
+| [💎 Lead Data Scientist](https://co.linkedin.com/jobs/view/lead-data-scientist-at-epam-systems-4157759286) | 2025-02-18 | 0.7157✊ |
+| [💎 Senior Python Developer](https://co.linkedin.com/jobs/view/senior-python-developer-at-epam-systems-4157756562) | 2025-02-18 | 0.7157✊ |
+| [💎 Senior Python Developer](https://co.linkedin.com/jobs/view/senior-python-developer-at-epam-systems-4157753623) | 2025-02-18 | 0.7157✊ |
 | [💎 Senior Data Engineer](https://co.linkedin.com/jobs/view/senior-data-engineer-at-epam-systems-4157844395) | 2025-02-18 | 0.7157✊ |
 | [💎 Data Engineer](https://co.linkedin.com/jobs/view/data-engineer-at-epam-systems-4157843405) | 2025-02-18 | 0.7157✊ |
-| [💎 Senior Python Developer](https://co.linkedin.com/jobs/view/senior-python-developer-at-epam-systems-4157756574) | 2025-02-18 | 0.7157✊ |
-| [💎 Senior Python Developer - AWS](https://co.linkedin.com/jobs/view/senior-python-developer-aws-at-epam-systems-4157756534) | 2025-02-18 | 0.7157✊ |
-| [💎 Senior Python Developer](https://co.linkedin.com/jobs/view/senior-python-developer-at-epam-systems-4157757415) | 2025-02-18 | 0.7157✊ |
-| [💎 Senior Python Developer](https://co.linkedin.com/jobs/view/senior-python-developer-at-epam-systems-4157758255) | 2025-02-18 | 0.7157✊ |
 | [💎 Senior Python Developer](https://co.linkedin.com/jobs/view/senior-python-developer-at-epam-systems-4157758221) | 2025-02-18 | 0.7157✊ |
-| [💎 Lead Data Scientist](https://co.linkedin.com/jobs/view/lead-data-scientist-at-epam-systems-4157759286) | 2025-02-18 | 0.7157✊ |
-| [💎 Senior Python Software Engineer](https://co.linkedin.com/jobs/view/senior-python-software-engineer-at-epam-systems-4157752906) | 2025-02-18 | 0.7157✊ |
-| [💎 Senior Python Developer](https://co.linkedin.com/jobs/view/senior-python-developer-at-epam-systems-4157759308) | 2025-02-18 | 0.7157✊ |
-| [💎 Senior Python Developer](https://co.linkedin.com/jobs/view/senior-python-developer-at-epam-systems-4157753614) | 2025-02-18 | 0.7157✊ |
-| [💎 Senior Java Full-stack Developer](https://co.linkedin.com/jobs/view/senior-java-full-stack-developer-at-epam-systems-4110427994) | 2025-02-21 | 0.7157✊ |
-| [💎 Senior Python Developer](https://co.linkedin.com/jobs/view/senior-python-developer-at-epam-systems-4157756562) | 2025-02-18 | 0.7157✊ |
-| [💎 Senior Data Scientist](https://co.linkedin.com/jobs/view/senior-data-scientist-at-epam-systems-4157756486) | 2025-02-18 | 0.7157✊ |
-| [💎 Senior Python Developer](https://co.linkedin.com/jobs/view/senior-python-developer-at-epam-systems-4157753651) | 2025-02-18 | 0.7157✊ |
-| [💎 Senior Python Developer](https://co.linkedin.com/jobs/view/senior-python-developer-at-epam-systems-4157759270) | 2025-02-18 | 0.7157✊ |
-| [💎 Senior Python Developer](https://co.linkedin.com/jobs/view/senior-python-developer-at-epam-systems-4157758320) | 2025-02-18 | 0.7157✊ |
-| [💎 Senior Python Software Engineer](https://co.linkedin.com/jobs/view/senior-python-software-engineer-at-epam-systems-4157755546) | 2025-02-18 | 0.7157✊ |
-| [💎 Senior Python Developer (AWS)](https://co.linkedin.com/jobs/view/senior-python-developer-aws-at-epam-systems-4157753688) | 2025-02-18 | 0.7157✊ |
-| [💎 Senior Python Developer (AWS)](https://co.linkedin.com/jobs/view/senior-python-developer-aws-at-epam-systems-4157760233) | 2025-02-18 | 0.7157✊ |
-| [💎 Senior Python Developer](https://co.linkedin.com/jobs/view/senior-python-developer-at-epam-systems-4157753623) | 2025-02-18 | 0.7157✊ |
+| [💎 Senior Python Developer](https://co.linkedin.com/jobs/view/senior-python-developer-at-epam-systems-4157757415) | 2025-02-18 | 0.7157✊ |
+| [💎 Senior Python Developer - AWS](https://co.linkedin.com/jobs/view/senior-python-developer-aws-at-epam-systems-4157756534) | 2025-02-18 | 0.7157✊ |
 | [💎 Backend Engineer - Implementations - Python, React, Flask](https://co.linkedin.com/jobs/view/backend-engineer-implementations-python-react-flask-at-terminal-4158283729) | 2025-02-20 | 0.7157✊ |
-| [💎 Senior Python Developer](https://co.linkedin.com/jobs/view/senior-python-developer-at-epam-systems-4157752902) | 2025-02-18 | 0.7157✊ |
-| [💎 Senior Python Developer](https://co.linkedin.com/jobs/view/senior-python-developer-at-epam-systems-4157758234) | 2025-02-18 | 0.7157✊ |
+| [💎 Senior Python Developer](https://co.linkedin.com/jobs/view/senior-python-developer-at-epam-systems-4157759308) | 2025-02-18 | 0.7157✊ |
+| [💎 Senior Python Developer](https://co.linkedin.com/jobs/view/senior-python-developer-at-epam-systems-4157758255) | 2025-02-18 | 0.7157✊ |
 | [💎 Senior .NET Developer](https://co.linkedin.com/jobs/view/senior-net-developer-at-epam-systems-4110431301) | 2025-02-21 | 0.7157✊ |
 | [💎 Senior Cloud Engineer](https://co.linkedin.com/jobs/view/senior-cloud-engineer-at-epam-systems-4160399651) | 2025-02-20 | 0.7157✊ |
 | [💎 .NET Development Team Lead](https://co.linkedin.com/jobs/view/net-development-team-lead-at-epam-systems-4110434118) | 2025-02-21 | 0.7157✊ |
 | [💎 Senior Java Full Stack Developer](https://co.linkedin.com/jobs/view/senior-java-full-stack-developer-at-epam-systems-4138066580) | 2025-02-21 | 0.7157✊ |
 | [💎 .NET Development Team Lead](https://co.linkedin.com/jobs/view/net-development-team-lead-at-epam-systems-4110427941) | 2025-02-21 | 0.7157✊ |
-| [💎 Senior Python Developer](https://co.linkedin.com/jobs/view/senior-python-developer-at-epam-systems-4157759292) | 2025-02-18 | 0.7157✊ |
+| [💎 Senior Python Developer](https://co.linkedin.com/jobs/view/senior-python-developer-at-epam-systems-4157753651) | 2025-02-18 | 0.7157✊ |
 | [💎 Senior .NET Developer](https://co.linkedin.com/jobs/view/senior-net-developer-at-epam-systems-4110428860) | 2025-02-21 | 0.7157✊ |
 | [💎 .NET Development Team Lead (Angular)](https://co.linkedin.com/jobs/view/net-development-team-lead-angular-at-epam-systems-4110433295) | 2025-02-21 | 0.7157✊ |
-| [💎 Senior Python Developer](https://co.linkedin.com/jobs/view/senior-python-developer-at-epam-systems-4157756548) | 2025-02-18 | 0.7157✊ |
-| [💎 Senior Python Developer - AWS](https://co.linkedin.com/jobs/view/senior-python-developer-aws-at-epam-systems-4157753645) | 2025-02-18 | 0.7157✊ |
-| [💎 Senior Python Developer](https://co.linkedin.com/jobs/view/senior-python-developer-at-epam-systems-4157754625) | 2025-02-18 | 0.7157✊ |
-| [💎 Senior Python Developer](https://co.linkedin.com/jobs/view/senior-python-developer-at-epam-systems-4157755569) | 2025-02-18 | 0.7157✊ |
-| [💎 Senior Python Developer](https://co.linkedin.com/jobs/view/senior-python-developer-at-epam-systems-4157758325) | 2025-02-18 | 0.7157✊ |
-| [💎 Senior Python Developer](https://co.linkedin.com/jobs/view/senior-python-developer-at-epam-systems-4157758226) | 2025-02-18 | 0.7157✊ |
+| [💎 Senior Data Scientist](https://co.linkedin.com/jobs/view/senior-data-scientist-at-epam-systems-4157756486) | 2025-02-18 | 0.7157✊ |
+| [💎 Senior Python Software Engineer](https://co.linkedin.com/jobs/view/senior-python-software-engineer-at-epam-systems-4157752906) | 2025-02-18 | 0.7157✊ |
+| [💎 Lead .NET Developer (Azure)](https://co.linkedin.com/jobs/view/lead-net-developer-azure-at-epam-systems-4110433310) | 2025-02-21 | 0.7157✊ |
+| [💎 Senior Python Developer](https://co.linkedin.com/jobs/view/senior-python-developer-at-epam-systems-4157753614) | 2025-02-18 | 0.7157✊ |
+| [💎 Senior Java Full-stack Developer](https://co.linkedin.com/jobs/view/senior-java-full-stack-developer-at-epam-systems-4110427994) | 2025-02-21 | 0.7157✊ |
 | [💎 Senior Manager - Client Services](https://co.linkedin.com/jobs/view/senior-manager-client-services-at-taskus-4139002000) | 2025-02-21 | 0.7141✊ |
 | [💎 Ingeniero en sistemas operativos e hipervisores](https://co.linkedin.com/jobs/view/ingeniero-en-sistemas-operativos-e-hipervisores-at-open-group-s-a-s-4159001170) | 2025-02-20 | 0.7141✊ |
 | [💎 NodeJS Developer](https://co.linkedin.com/jobs/view/nodejs-developer-at-applaudo-4160598371) | 2025-02-21 | 0.7119✊ |

@@ -48,7 +48,7 @@ def cosine_similarity_numpy(vec1, vec2):
 def create_job_markdown_table(job_list):
     # Table header
     markdown = "# 🚀 Current Job Offers Recommendations!\n"
-    markdown = "| **Job offer** | **publication_date** | **Score** |\n"
+    markdown += "| **Job offer** | **publication_date** | **Score** |\n"
     markdown += "|---|---|---|\n"
     
     # Process each job entry
