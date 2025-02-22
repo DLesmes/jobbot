@@ -10,7 +10,12 @@ from src.app.services.embeder import Embeder
 embeder = Embeder()
 from src.app.services.mentor import Mentor
 mentor = Mentor()
-from src.app.utils import Retriever, save_json
+from src.app.utils import (
+    Retriever,
+    save_json,
+    create_job_markdown_table,
+    save_markdown_to_file
+)
 retriever = Retriever()
 
 class Seeker():
@@ -22,8 +27,8 @@ class Seeker():
 
     def run(self):
         preprocesor.run()
-        _ = embeder.users()
-        __ = embeder.jobs()
+        #embeder.users()
+        #embeder.jobs()
         mentor.save_matches()
         for user_id in self.user_ids:
             matches = retriever.get_last_matches(user_id)
@@ -32,9 +37,11 @@ class Seeker():
                 {
                     "link":job['link'],
                     "score":job['score'],
-                    #"match_date":job['match_date']
+                    "job_offer":job['vacancy_name'],
+                    "publication_date":job['publication_date']
                 } for job in matches
             ]
-            output_path = f'{self.output}/{user_id}.json'
-            save_json(output_path, links)
+            recommendations = create_job_markdown_table(links)
+            output_path = f'{self.output}/{user_id}.md'
+            save_markdown_to_file(recommendations, output_path)
         

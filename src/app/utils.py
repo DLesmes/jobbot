@@ -45,6 +45,39 @@ def cosine_similarity_numpy(vec1, vec2):
     norm_vec2 = np.linalg.norm(vec2)
     return round(dot_product / (norm_vec1 * norm_vec2),4)
 
+def create_job_markdown_table(job_list):
+    # Table header
+    markdown = "# 🚀 Current Job Offers Recommendations!\n"
+    markdown = "| **Job offer** | **publication_date** | **Score** |\n"
+    markdown += "|---|---|---|\n"
+    
+    # Process each job entry
+    for job in job_list:
+        # Extract values from dictionary
+        link = job.get('link', '')
+        score = job.get('score', 0)
+        job_offer = job.get('job_offer', '')
+        publication_date = job.get('publication_date', '')
+        
+        # Format the job offer column with emoji and hyperlink
+        job_offer_formatted = f"[💎 {job_offer}]({link})"
+        
+        # Format score with emoji
+        score_formatted = f"{score}✊"
+        
+        # Add row to table
+        markdown += f"| {job_offer_formatted} | {publication_date} | {score_formatted} |\n"
+    
+    return markdown
+
+def save_markdown_to_file(markdown_content:str, filename:str):
+    try:
+        with open(filename, 'w', encoding='utf-8') as file:
+            file.write(markdown_content)
+        print(f"Successfully saved markdown to {filename}")
+    except Exception as e:
+        print(f"Error saving markdown file: {e}")
+
 class Retriever():
     """
     """

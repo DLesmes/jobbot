@@ -66,8 +66,6 @@ class Embeder():
         today_path_file = f'{today_path}/users.parquet'
         print(f'storing file at {today_path_file}')
         pq.write_table(table_embeds, today_path_file)
-        
-        return df_embeds
 
     def jobs(self):
         # new jobs
@@ -108,6 +106,4 @@ class Embeder():
         today_path_file = f'{today_path}/jobs.parquet'
         print(f'storing file at {today_path_file}')
         pq.write_table(table_embeds, today_path_file)
-        
-        return df_embeds
     
