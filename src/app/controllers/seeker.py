@@ -27,12 +27,11 @@ class Seeker():
 
     def run(self):
         preprocesor.run()
-        #embeder.users()
-        #embeder.jobs()
+        embeder.users()
+        embeder.jobs()
         mentor.save_matches()
         for user_id in self.user_ids:
             matches = retriever.get_last_matches(user_id)
-            print(matches)
             links = [
                 {
                     "link":job['link'],
@@ -41,6 +40,7 @@ class Seeker():
                     "publication_date":job['publication_date']
                 } for job in matches
             ]
+            print(links)
             recommendations = create_job_markdown_table(links)
             output_path = f'{self.output}/{user_id}.md'
             save_markdown_to_file(recommendations, output_path)

@@ -62,12 +62,12 @@ class Mentor():
                 }
                 for job in list_dict_jobs
             ]
-            df_jobs_scored = pd.DataFrame(list_dict_jobs_scored)
-            print(f'{'#'*10} user scores: {row['user_id']}\n',df_jobs_scored.score.value_counts)
-            df_jobs_scored = df_jobs_scored[df_jobs_scored['score']>=self.similarity_threshold].copy()
-            df_jobs_scored['match_id'] = row['user_id']+df_jobs_scored['job_id']
-            df_jobs_scored['match_date'] = datetime.today().strftime("%Y-%m-%d")
-            df_matches = df_jobs_scored[['match_id','match_date','score']].copy()
+            df_matches = pd.DataFrame(list_dict_jobs_scored)
+            print(f'{'#'*10} user scores: {row['user_id']}\n',df_matches.score.value_counts)
+            df_matches = df_matches[df_matches['score']>=self.similarity_threshold].copy()
+            df_matches['match_id'] = row['user_id']+df_matches['job_id']
+            df_matches['match_date'] = datetime.today().strftime("%Y-%m-%d")
+            df_matches = df_matches[['match_id','match_date','score','publication_date']].copy()
             tmp_dict_matches = df_matches.to_dict(orient='records')
             dict_matches = dict_matches + tmp_dict_matches
         return dict_matches

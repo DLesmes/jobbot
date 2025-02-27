@@ -151,21 +151,24 @@ class Retriever():
         df_matches = pd.DataFrame(dict_matches)
         df_matches['user_id'] = df_matches['match_id'].apply(lambda x: str(x)[:33])
         df_matches['job_id'] = df_matches['match_id'].apply(lambda x: str(x)[33:])
-        df_filtered = df_matches[df_matches['user_id']==user_id].copy()
-        df_filtered.index = df_filtered.job_id
-        dict_filtered = df_filtered['score'].to_dict()
-        df_jobs['score'] = df_jobs['job_id'].map(dict_filtered)
+        df_matches_user = df_matches[df_matches['user_id']==user_id].copy()
+        df_matches_user.index = df_matches_user.job_id
+        dict_matches_user = df_matches_user['score'].to_dict()
+        df_jobs['score'] = df_jobs['job_id'].map(dict_matches_user)
         df_jobs.dropna(
             subset=['score'],
             inplace=True,
             ignore_index=True
         )
         df_jobs.sort_values(
-            by=['score'],
-            ascending=False,
+            by=[
+                'score',
+                'publication_date'
+                
+            ],
+            ascending=[0,0],
             inplace=True
         )
         print(df_jobs.link)
         dict_jobs = df_jobs.to_dict(orient='records')
         return dict_jobs
-    
