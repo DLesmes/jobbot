@@ -65,7 +65,7 @@ def create_job_markdown_table(job_list):
         job_offer_formatted = f"[{job_offer}]({link})"
         
         # Format score with emoji
-        score_formatted = f"{score*100:2f}"
+        score_formatted = f"{score*100:.2f}%"
         
         # Add row to table
         markdown += f"| {job_offer_formatted} | {score_formatted} | {publication_date} |\n"
