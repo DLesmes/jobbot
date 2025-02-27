@@ -2,6 +2,7 @@
 #base
 import os
 import json
+import re
 from datetime import datetime
 # vector management
 import numpy as np
@@ -47,8 +48,8 @@ def cosine_similarity_numpy(vec1, vec2):
 
 def create_job_markdown_table(job_list):
     # Table header
-    markdown = "# 🚀 Current Job Offers Recommendations!\n"
-    markdown += "| **Job offer** | **publication_date** | **Score** |\n"
+    markdown = "# 🚀 Latest Job Offers Recommendations!\n"
+    markdown += "| 🗃️ **Job offer** | 🌡️**Score** | 🗓️ **publication_date** |\n"
     markdown += "|---|---|---|\n"
     
     # Process each job entry
@@ -60,13 +61,14 @@ def create_job_markdown_table(job_list):
         publication_date = job.get('publication_date', '')
         
         # Format the job offer column with emoji and hyperlink
-        job_offer_formatted = f"[💎 {job_offer}]({link})"
+        job_offer = re.sub(r"[\[\]\|\(\)]", "", job_offer)
+        job_offer_formatted = f"[{job_offer}]({link})"
         
         # Format score with emoji
-        score_formatted = f"{score}✊"
+        score_formatted = f"{score*100:2f}"
         
         # Add row to table
-        markdown += f"| {job_offer_formatted} | {publication_date} | {score_formatted} |\n"
+        markdown += f"| {job_offer_formatted} | {score_formatted} | {publication_date} |\n"
     
     return markdown
 
@@ -172,3 +174,4 @@ class Retriever():
         print(df_jobs.link)
         dict_jobs = df_jobs.to_dict(orient='records')
         return dict_jobs
+    
