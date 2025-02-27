@@ -28,10 +28,10 @@ class Seeker():
         self.output = settings.OUTPUT_MATCHES
 
     def run(self):
-        preprocesor.run()
-        expirer.update()
+        #preprocesor.run()
+        #expirer.update()
         embeder.users()
-        embeder.jobs()
+        #embeder.jobs()
         mentor.save_matches()
         for user_id in self.user_ids:
             matches = retriever.get_last_matches(user_id)

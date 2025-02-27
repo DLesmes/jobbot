@@ -8,20 +8,15 @@
 | [Senior Software Engineer, Developer Platform](https://co.linkedin.com/jobs/view/senior-software-engineer-developer-platform-at-veho-4139534542) | 80.66% | 2025-02-21 |
 | [Python Data Engineer](https://co.linkedin.com/jobs/view/python-data-engineer-at-agileengine-4160258883) | 80.62% | 2025-02-20 |
 | [Senior Ruby Developer](https://co.linkedin.com/jobs/view/senior-ruby-developer-at-endava-4154035090) | 79.71% | 2025-02-20 |
-| [Frontend Developer - Remote - Colombia](https://co.linkedin.com/jobs/view/frontend-developer-remote-colombia-at-fullstack-labs-4160912011) | 79.69% | 2025-02-21 |
 | [Senior Full stack Developer](https://co.linkedin.com/jobs/view/senior-full-stack-developer-at-loymark-4160618329) | 79.36% | 2025-02-21 |
 | [Backend developer](https://co.linkedin.com/jobs/view/backend-developer-at-parser-4160562230) | 79.12% | 2025-02-20 |
 | [Coordinador a Científico de Datos](https://co.linkedin.com/jobs/view/coordinador-a-cient%C3%ADfico-de-datos-at-empresa-confidencial-4160265004) | 78.30% | 2025-02-20 |
-| [Software Engineer](https://co.linkedin.com/jobs/view/software-engineer-at-floowi-inc-4160577032) | 78.27% | 2025-02-20 |
 | [Senior Staff Engineer - AI/ML QA Engineer](https://co.linkedin.com/jobs/view/senior-staff-engineer-ai-ml-qa-engineer-at-nagarro-4160638067) | 78.13% | 2025-02-21 |
 | [Gerente de proyectos - Back up y medios físicos de almacenamiento](https://co.linkedin.com/jobs/view/gerente-de-proyectos-back-up-y-medios-f%C3%ADsicos-de-almacenamiento-at-confidential-jobs-4160578704) | 78.11% | 2025-02-20 |
 | [Senior Developer – Build Scalable & High-Quality Software!](https://co.linkedin.com/jobs/view/senior-developer-%E2%80%93-build-scalable-high-quality-software%21-at-sysman-4160537224) | 77.88% | 2025-02-20 |
 | [React frontend developer IRC256829](https://co.linkedin.com/jobs/view/react-frontend-developer-irc256829-at-globallogic-4160234370) | 77.68% | 2025-02-20 |
-| [Desarrollador Frontend Semi Senior](https://co.linkedin.com/jobs/view/desarrollador-frontend-semi-senior-at-sii-group-colombia-4161546441) | 76.98% | 2025-02-21 |
-| [Data Engineer](https://co.linkedin.com/jobs/view/data-engineer-at-lean-solutions-group-4161521778) | 76.60% | 2025-02-21 |
 | [Recruiter - Talent Sourcing](https://co.linkedin.com/jobs/view/recruiter-talent-sourcing-at-bench-talent-cloud-4161513429) | 76.24% | 2025-02-21 |
 | [React Developer - Remote](https://co.linkedin.com/jobs/view/react-developer-remote-at-indi-staffing-services-4160392156) | 76.06% | 2025-02-20 |
-| [Solutions Data Analyst](https://co.linkedin.com/jobs/view/solutions-data-analyst-at-turnkey-tech-staffing-4161437824) | 75.95% | 2025-02-21 |
 | [Senior Data Integration Engineer](https://co.linkedin.com/jobs/view/senior-data-integration-engineer-at-turnkey-tech-staffing-4161516107) | 75.95% | 2025-02-21 |
 | [SAP Integrations Consultant](https://co.linkedin.com/jobs/view/sap-integrations-consultant-at-emapta-global-4160269529) | 75.90% | 2025-02-21 |
 | [Digital Marketing Team Lead, Shared Services](https://co.linkedin.com/jobs/view/digital-marketing-team-lead-shared-services-at-nielseniq-4138387002) | 75.80% | 2025-02-21 |
