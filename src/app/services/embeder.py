@@ -74,7 +74,6 @@ class Embeder():
         df_available_jobs = pd.DataFrame(available_jobs_list)
         # previows jobs
         df_last_embeds = retriever.get_last_embed('jobs')
-        df_last_embeds = df_last_embeds[df_last_embeds['job_id'].isin(df_available_jobs['job_id'])].copy()
         
         missing_embeds = list(set(df_available_jobs.job_id)-set(df_last_embeds.job_id))
         if len(missing_embeds) > 0:
