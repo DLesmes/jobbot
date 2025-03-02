@@ -28,8 +28,8 @@ class Seeker():
         self.output = settings.OUTPUT_MATCHES
 
     def run(self):
-        #preprocesor.run()
-        #expirer.update()
+        preprocesor.run()
+        expirer.update()
         embeder.users()
         embeder.jobs()
         mentor.save_matches()

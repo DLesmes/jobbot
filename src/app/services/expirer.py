@@ -117,9 +117,12 @@ class Expirer:
         df_raw.reset_index(drop=True, inplace=True)
         available_dict = {job['job_id']:job['available'] for job in available}
 
-        df_raw['available_reviewed'] = df_raw.job_id.map(available_dict)
-        ind = df_raw[df_raw['available'] != False].index
-        df_raw.loc[ind, 'available'] = df_raw.loc[ind, 'available_reviewed']
+        if 'available' not in df_raw.columns:
+            df_raw['available'] = df_raw.job_id.map(available_dict)
+        else:
+            ind = df_raw[df_raw['available'] != False].index
+            df_raw['available_reviewed'] = df_raw.job_id.map(available_dict)
+            df_raw.loc[ind, 'available'] = df_raw.loc[ind, 'available_reviewed']
         df_updated = df_raw[df_raw['available']==True].copy()
         dict_df_updated = df_updated.to_dict(orient='records')
         print(f'final available offers {len(dict_df_updated)}')

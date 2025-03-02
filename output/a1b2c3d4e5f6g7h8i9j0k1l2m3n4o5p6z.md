@@ -1,75 +1,95 @@
 # 🚀 Latest Job Offers Recommendations!
 | 🗃️ **Job offer** | 🌡️**Score** | 🗓️ **publication_date** |
 |---|---|---|
+| [Ingeniero de Confiabilidad II](https://co.linkedin.com/jobs/view/ingeniero-de-confiabilidad-ii-at-meds-asesorias-s-a-s-4170340484) | 83.96% | 2025-03-01 |
 | [Analista de operaciones](https://co.linkedin.com/jobs/view/analista-de-operaciones-at-branova-limited-4169190516) | 82.62% | 2025-02-28 |
-| [Analista contable y financiero](https://co.linkedin.com/jobs/view/analista-contable-y-financiero-at-osti-est-sas-4169464540) | 82.55% | 2025-02-27 |
-| [Profesional de Selección](https://co.linkedin.com/jobs/view/profesional-de-selecci%C3%B3n-at-ipm-international-project-management-4170113420) | 82.26% | 2025-02-27 |
-| [Auxiliar administrativo/a investigación y desarrollo](https://co.linkedin.com/jobs/view/auxiliar-administrativo-a-investigaci%C3%B3n-y-desarrollo-at-uniremington-4170109952) | 82.18% | 2025-02-27 |
-| [Analista de contabilidad](https://co.linkedin.com/jobs/view/analista-de-contabilidad-at-padova-4145965348) | 81.66% | 2025-02-27 |
-| [Ingeniero en áreas de tecnología](https://co.linkedin.com/jobs/view/ingeniero-en-%C3%A1reas-de-tecnolog%C3%ADa-at-alianza-temporales-sas-4169464547) | 81.28% | 2025-02-27 |
-| [Auxiliar de soporte técnico](https://co.linkedin.com/jobs/view/auxiliar-de-soporte-t%C3%A9cnico-at-syscom-colombia-4170155860) | 80.81% | 2025-02-27 |
-| [Ayudante de obra - Sin experiencia Bogotá](https://co.linkedin.com/jobs/view/ayudante-de-obra-sin-experiencia-bogot%C3%A1-at-agencia-de-empleo-colsubsidio-4170179017) | 80.47% | 2025-02-27 |
-| [Administrador punto de venta](https://co.linkedin.com/jobs/view/administrador-punto-de-venta-at-agencia-de-empleo-colsubsidio-4170173821) | 80.25% | 2025-02-27 |
-| [Asesor comercial Call Center](https://co.linkedin.com/jobs/view/asesor-comercial-call-center-at-groupcos-4169464548) | 80.05% | 2025-02-27 |
-| [Asesor seguimiento docente](https://co.linkedin.com/jobs/view/asesor-seguimiento-docente-at-ingenieria-4166272264) | 80.00% | 2025-02-27 |
-| [Aprendiz Sena Técnico en Construcción de Edificaciones](https://co.linkedin.com/jobs/view/aprendiz-sena-t%C3%A9cnico-en-construcci%C3%B3n-de-edificaciones-at-los-tres-elefantes-s-a-4169188569) | 79.99% | 2025-02-28 |
-| [Analista de planificación financiera-Traslado a Panamá](https://co.linkedin.com/jobs/view/analista-de-planificaci%C3%B3n-financiera-traslado-a-panam%C3%A1-at-darnel-group-4169968175) | 79.87% | 2025-02-27 |
-| [Ingeniero/a de ambientes](https://co.linkedin.com/jobs/view/ingeniero-a-de-ambientes-at-periferia-it-group-4168702869) | 79.86% | 2025-02-27 |
-| [Ingeniero/a Eléctrico, Electrónico, Mecánico o Industrial Junior](https://co.linkedin.com/jobs/view/ingeniero-a-el%C3%A9ctrico-electr%C3%B3nico-mec%C3%A1nico-o-industrial-junior-at-ingenieria-4166268976) | 79.73% | 2025-02-27 |
-| [Representante de Ventas y/o especialista Clínico](https://co.linkedin.com/jobs/view/representante-de-ventas-y-o-especialista-cl%C3%ADnico-at-imp-colombia-4169941051) | 79.44% | 2025-02-27 |
-| [Desarrollador de software junior .NET](https://co.linkedin.com/jobs/view/desarrollador-de-software-junior-net-at-neotecnolog%C3%ADas-4170678644) | 79.36% | 2025-02-28 |
-| [Coordinador de compras Experiencia a nivel transversal](https://co.linkedin.com/jobs/view/coordinador-de-compras-experiencia-a-nivel-transversal-at-cienogroup-4169461636) | 79.20% | 2025-02-27 |
-| [Auxiliar de empaque](https://co.linkedin.com/jobs/view/auxiliar-de-empaque-at-agencia-de-empleo-colsubsidio-4170176584) | 79.18% | 2025-02-27 |
-| [Analista de operaciones - Bogotá.](https://co.linkedin.com/jobs/view/analista-de-operaciones-bogot%C3%A1-at-agil-chile-4170136017) | 79.16% | 2025-02-27 |
-| [Aprendiz Etapa Productiva Tecnologías de la Información](https://co.linkedin.com/jobs/view/aprendiz-etapa-productiva-tecnolog%C3%ADas-de-la-informaci%C3%B3n-at-uniremington-4169464506) | 79.07% | 2025-02-27 |
-| [Analista de gestión del cambio](https://co.linkedin.com/jobs/view/analista-de-gesti%C3%B3n-del-cambio-at-confidencial-4170158825) | 78.84% | 2025-02-27 |
-| [Desarrollador .NET - Colombia](https://co.linkedin.com/jobs/view/desarrollador-net-colombia-at-nexos-software-4166262182) | 78.75% | 2025-02-27 |
-| [SAP Solution Architect](https://co.linkedin.com/jobs/view/sap-solution-architect-at-ey-4168129783) | 78.73% | 2025-02-27 |
-| [Auxiliar Servicio al Cliente](https://co.linkedin.com/jobs/view/auxiliar-servicio-al-cliente-at-colserauto-s-a-4170111724) | 78.35% | 2025-02-27 |
-| [Coordinador logístico y servicios generales](https://co.linkedin.com/jobs/view/coordinador-log%C3%ADstico-y-servicios-generales-at-tous-jewelry-4168161724) | 78.31% | 2025-02-27 |
-| [Senior Specialist Consultant](https://co.linkedin.com/jobs/view/senior-specialist-consultant-at-nextant-4168733725) | 78.31% | 2025-02-27 |
-| [Especialista en Base de datos COSMOS DB](https://co.linkedin.com/jobs/view/especialista-en-base-de-datos-cosmos-db-at-xpertgroup-4169915615) | 78.16% | 2025-02-27 |
-| [Modalidad de trabajo hibrido, Asesor comercial, Lunes a Viernes ¡40 horas semanales!](https://co.linkedin.com/jobs/view/modalidad-de-trabajo-hibrido-asesor-comercial-lunes-a-viernes-%C2%A140-horas-semanales%21-at-heatron-4169462638) | 78.12% | 2025-02-27 |
-| [Asesor Comercial Call Center / Lunes a Viernes + 40 horas + Comisiones sin techo!](https://co.linkedin.com/jobs/view/asesor-comercial-call-center-lunes-a-viernes-%2B-40-horas-%2B-comisiones-sin-techo%21-at-heatron-4169466304) | 78.12% | 2025-02-27 |
-| [solicitamos urgente¡¡ Asesor sac, soporte factura call center](https://co.linkedin.com/jobs/view/solicitamos-urgente%C2%A1%C2%A1-asesor-sac-soporte-factura-call-center-at-inmobiliaria-zalama-agentes-de-la-propiedad-inmobiliaria-sl-4170107998) | 78.03% | 2025-02-27 |
-| [Auxiliar Control de Calidad](https://co.linkedin.com/jobs/view/auxiliar-control-de-calidad-at-alianza-temporales-sas-4169463633) | 78.01% | 2025-02-27 |
-| [Administrador CRM Junior](https://co.linkedin.com/jobs/view/administrador-crm-junior-at-empresa-confidencial-4169944598) | 77.81% | 2025-02-27 |
-| [Ingeniero de Datos - Bogotá, Colombia](https://co.linkedin.com/jobs/view/ingeniero-de-datos-bogot%C3%A1-colombia-at-nexos-software-4166261411) | 77.79% | 2025-02-27 |
-| [Analista de Soluciones TI - Medellín, Antioquia, Colombia](https://co.linkedin.com/jobs/view/analista-de-soluciones-ti-medell%C3%ADn-antioquia-colombia-at-nexos-software-4166255970) | 77.79% | 2025-02-27 |
-| [Asistente Ejecutivo](https://co.linkedin.com/jobs/view/asistente-ejecutivo-at-hablax-inc-4167898067) | 77.74% | 2025-02-27 |
-| [Analista de Auditoria de Sistemas y Ciberseguridad](https://co.linkedin.com/jobs/view/analista-de-auditoria-de-sistemas-y-ciberseguridad-at-bdo-en-colombia-4169462641) | 77.43% | 2025-02-27 |
-| [Asesor servicio al cliente Sin Experiencia](https://co.linkedin.com/jobs/view/asesor-servicio-al-cliente-sin-experiencia-at-groupcos-4169466261) | 77.24% | 2025-02-27 |
-| [Ingeniero/a de Producto](https://co.linkedin.com/jobs/view/ingeniero-a-de-producto-at-co%C3%A9xito-4170108979) | 77.23% | 2025-02-27 |
-| [Líder Técnico - Colombia](https://co.linkedin.com/jobs/view/l%C3%ADder-t%C3%A9cnico-colombia-at-seti-s-a-s-4168504584) | 77.12% | 2025-02-28 |
-| [Científico de Datos - Bogotá, Colombia](https://co.linkedin.com/jobs/view/cient%C3%ADfico-de-datos-bogot%C3%A1-colombia-at-procibern%C3%A9tica-4166259587) | 77.12% | 2025-02-27 |
-| [Asistente Comercial en Atracción de clientes Bogotá](https://co.linkedin.com/jobs/view/asistente-comercial-en-atracci%C3%B3n-de-clientes-bogot%C3%A1-at-osti-est-sas-4169462703) | 77.11% | 2025-02-27 |
-| [Auxiliar de Nómina](https://co.linkedin.com/jobs/view/auxiliar-de-n%C3%B3mina-at-consical-s-a-s-4170601972) | 77.06% | 2025-02-28 |
-| [Junior Web Developer](https://co.linkedin.com/jobs/view/junior-web-developer-at-uhura-group-4169024080) | 77.00% | 2025-02-27 |
-| [Consultor de implementación de software](https://co.linkedin.com/jobs/view/consultor-de-implementaci%C3%B3n-de-software-at-data-tecnologia-sas-4169938961) | 76.96% | 2025-02-27 |
-| [Mecanico/a especializado/a en montacargas / Siberia](https://co.linkedin.com/jobs/view/mecanico-a-especializado-a-en-montacargas-siberia-at-dharmachakra-4170114405) | 76.91% | 2025-02-27 |
-| [Técnico de mantenimiento](https://co.linkedin.com/jobs/view/t%C3%A9cnico-de-mantenimiento-at-branova-limited-4169187765) | 76.89% | 2025-02-28 |
-| [Técnico de mantenimiento en redes](https://co.linkedin.com/jobs/view/t%C3%A9cnico-de-mantenimiento-en-redes-at-talento-fundaci%C3%B3n-santa-fe-de-bogot%C3%A1-4169190486) | 76.87% | 2025-02-28 |
-| [INFORMADOR DE USUARIOS](https://co.linkedin.com/jobs/view/informador-de-usuarios-at-keralty-4168672660) | 76.84% | 2025-02-27 |
-| [Accounting Analyst](https://co.linkedin.com/jobs/view/accounting-analyst-at-td-synnex-multi-country-area-espa%C3%B1ol-4170153712) | 76.78% | 2025-02-27 |
-| [ingeniero de fiabilidad de sitio](https://co.linkedin.com/jobs/view/ingeniero-de-fiabilidad-de-sitio-at-bits-americas-s-a-s-4168606560) | 76.74% | 2025-02-27 |
-| [Asesor Servicio al cliente //contact center](https://co.linkedin.com/jobs/view/asesor-servicio-al-cliente-contact-center-at-asturias-corporaci%C3%B3n-universitaria-4169466280) | 76.73% | 2025-02-27 |
-| [Ingenieroa de Desarrollo - Bogotá, Colombia](https://co.linkedin.com/jobs/view/ingeniero-a-de-desarrollo-bogot%C3%A1-colombia-at-procibern%C3%A9tica-4166259584) | 76.70% | 2025-02-27 |
-| [Data Architect](https://co.linkedin.com/jobs/view/data-architect-at-nateevo-4170104775) | 76.55% | 2025-02-27 |
-| [Técnico en sistemas](https://co.linkedin.com/jobs/view/t%C3%A9cnico-en-sistemas-at-eticos-ltda-4169468236) | 76.55% | 2025-02-27 |
-| [Asesor call center/ Lunes viernes, sábado hasta medio día/ 3 meses de exp.](https://co.linkedin.com/jobs/view/asesor-call-center-lunes-viernes-s%C3%A1bado-hasta-medio-d%C3%ADa-3-meses-de-exp-at-brm-s-a-s-4170112492) | 76.45% | 2025-02-27 |
-| [Líder Técnico Mobile](https://co.linkedin.com/jobs/view/l%C3%ADder-t%C3%A9cnico-mobile-at-vass-4144413141) | 76.39% | 2025-02-27 |
-| [Analista de impuestos](https://co.linkedin.com/jobs/view/analista-de-impuestos-at-hogar-y-moda-4169468203) | 76.39% | 2025-02-27 |
-| [Desarrollador de Integraciones y Automatización](https://co.linkedin.com/jobs/view/desarrollador-de-integraciones-y-automatizaci%C3%B3n-at-kuno-transformaci%C3%B3n-digital-4169962863) | 76.39% | 2025-02-27 |
-| [Gerente general Hotelero](https://co.linkedin.com/jobs/view/gerente-general-hotelero-at-jalo-4169464510) | 76.24% | 2025-02-27 |
-| [Auxiliar Protección de Recursos Grupo Éxito - Zona Norte Bogotá D.C](https://co.linkedin.com/jobs/view/auxiliar-protecci%C3%B3n-de-recursos-grupo-%C3%A9xito-zona-norte-bogot%C3%A1-d-c-at-grupo-%C3%A9xito-4170177548) | 76.00% | 2025-02-27 |
-| [Técnico en Entrenamiento](https://co.linkedin.com/jobs/view/t%C3%A9cnico-en-entrenamiento-at-ingredion-incorporated-4170169404) | 75.93% | 2025-02-27 |
-| [Analista de Auditoría Interna](https://co.linkedin.com/jobs/view/analista-de-auditor%C3%ADa-interna-at-financiera-de-desarrollo-nacional-4169023799) | 75.91% | 2025-02-27 |
-| [Analista Contable - Bogotá 1](https://co.linkedin.com/jobs/view/analista-contable-bogot%C3%A1-1-at-ey-4142550651) | 75.72% | 2025-02-27 |
-| [QA Analyst Bilingual](https://co.linkedin.com/jobs/view/qa-analyst-bilingual-at-its-solutions-4169019929) | 75.70% | 2025-02-27 |
-| [Ingeniero eléctrico/ Tronex Medellín](https://co.linkedin.com/jobs/view/ingeniero-el%C3%A9ctrico-tronex-medell%C3%ADn-at-tronex-4170109928) | 75.66% | 2025-02-27 |
-| [Soporte Tecnico Nivel 2 o 3](https://co.linkedin.com/jobs/view/soporte-tecnico-nivel-2-o-3-at-asesoramos-tys-services-s-a-s-4170179016) | 75.60% | 2025-02-27 |
-| [Auxiliar de soporte técnico](https://co.linkedin.com/jobs/view/auxiliar-de-soporte-t%C3%A9cnico-at-kibernum-4166292846) | 75.33% | 2025-02-27 |
-| [Analista II - Seguridad de la información y Ciberseguridad](https://co.linkedin.com/jobs/view/analista-ii-seguridad-de-la-informaci%C3%B3n-y-ciberseguridad-at-aportes-en-l%C3%ADnea-4166294488) | 75.32% | 2025-02-27 |
-| [Analista de Procesos y Proyectos TI - Medellín, Antioquia, Colombia](https://co.linkedin.com/jobs/view/analista-de-procesos-y-proyectos-ti-medell%C3%ADn-antioquia-colombia-at-nexos-software-4166258614) | 75.25% | 2025-02-27 |
-| [Jefe Gestión De Procesos](https://co.linkedin.com/jobs/view/jefe-gesti%C3%B3n-de-procesos-at-c%C3%A1mara-de-comercio-de-medellin-para-antioquia-4170177562) | 75.14% | 2025-02-27 |
-| [Ingeniero de datos](https://co.linkedin.com/jobs/view/ingeniero-de-datos-at-skillnet-it-experts-4169930526) | 75.07% | 2025-02-27 |
+| [Practicante de sistemas](https://co.linkedin.com/jobs/view/practicante-de-sistemas-at-alianza-temporales-sas-4170052072) | 82.55% | 2025-03-01 |
+| [Analista de Mercadeo, experiencia en labores administrativas - 27801](https://co.linkedin.com/jobs/view/analista-de-mercadeo-experiencia-en-labores-administrativas-27801-at-corbeta-distribuciones-4169166982) | 81.96% | 2025-02-28 |
+| [Ingeniero de Confiabilidad I](https://co.linkedin.com/jobs/view/ingeniero-de-confiabilidad-i-at-meds-asesorias-s-a-s-4170343203) | 81.57% | 2025-03-01 |
+| [Analista de Datos](https://co.linkedin.com/jobs/view/analista-de-datos-at-tuya-s-a-4170030213) | 81.34% | 2025-03-01 |
+| [Coordinador Servicio al Cliente y Call Center](https://co.linkedin.com/jobs/view/coordinador-servicio-al-cliente-y-call-center-at-letran-log%C3%ADstica-especializada-4170046505) | 80.93% | 2025-03-01 |
+| [Analista de Inventarios](https://co.linkedin.com/jobs/view/analista-de-inventarios-at-agencia-de-aduanas-siaco-s-a-s-nivel-1-4170052063) | 80.71% | 2025-03-01 |
+| [Analista de Licitaciones](https://co.linkedin.com/jobs/view/analista-de-licitaciones-at-aeroviajes-pac%C3%ADfico-4169611809) | 80.70% | 2025-02-28 |
+| [Analista de Facturación – Sector Tecnología](https://co.linkedin.com/jobs/view/analista-de-facturaci%C3%B3n-%E2%80%93-sector-tecnolog%C3%ADa-at-sitech-de-colombia-s-a-s-4171023330) | 80.38% | 2025-02-28 |
+| [Desarrollador .NET / Arquitecto Software JR AWS](https://co.linkedin.com/jobs/view/desarrollador-net-arquitecto-software-jr-aws-at-cinte-colombia-4171053850) | 80.28% | 2025-02-28 |
+| [Ejecutivo comercial / industrial](https://co.linkedin.com/jobs/view/ejecutivo-comercial-industrial-at-alianza-temporales-sas-4170049355) | 80.11% | 2025-03-01 |
+| [Auxiliar de Reclutamiento - Procesos Masivos](https://co.linkedin.com/jobs/view/auxiliar-de-reclutamiento-procesos-masivos-at-seguridad-superior-4170030155) | 80.09% | 2025-03-01 |
+| [Auxiliar de Reclutamiento - Procesos Masivos](https://co.linkedin.com/jobs/view/auxiliar-de-reclutamiento-procesos-masivos-at-seguridad-superior-4170029285) | 80.09% | 2025-03-01 |
+| [Analista de soporte de aplicaciones](https://co.linkedin.com/jobs/view/analista-de-soporte-de-aplicaciones-at-grupo-cinte-4170458534) | 79.98% | 2025-03-01 |
+| [Analistas de Ingeniería de Negocio proyectos de tecnología](https://co.linkedin.com/jobs/view/analistas-de-ingenier%C3%ADa-de-negocio-proyectos-de-tecnolog%C3%ADa-at-dharmachakra-4169186779) | 79.98% | 2025-02-28 |
+| [Technical solutions leader](https://co.linkedin.com/jobs/view/technical-solutions-leader-at-cari-ai-4168487120) | 79.97% | 2025-02-28 |
+| [Auxiliar De Laboratorio](https://co.linkedin.com/jobs/view/auxiliar-de-laboratorio-at-viva-1a-ips-4170025830) | 79.70% | 2025-03-01 |
+| [COORDINADOR DE CONVENIOS BOGOTÁ](https://co.linkedin.com/jobs/view/coordinador-de-convenios-bogot%C3%A1-at-agencia-de-empleo-colsubsidio-4170031086) | 79.65% | 2025-03-01 |
+| [Sales Lead Senior Cartagena](https://co.linkedin.com/jobs/view/sales-lead-senior-cartagena-at-zenit-hr-4170844190) | 79.60% | 2025-02-28 |
+| [Analista Junior mesa de ayuda](https://co.linkedin.com/jobs/view/analista-junior-mesa-de-ayuda-at-alianza-temporales-sas-4170045957) | 79.58% | 2025-03-01 |
+| [Ingeniero de Calidad de Software](https://co.linkedin.com/jobs/view/ingeniero-de-calidad-de-software-at-bvc-bolsa-de-valores-de-colombia-s-a-4171326315) | 79.24% | 2025-02-28 |
+| [Ingeniero de redes](https://co.linkedin.com/jobs/view/ingeniero-de-redes-at-alianza-temporales-sas-4170051335) | 78.91% | 2025-03-01 |
+| [Mecánico/a automotriz Experiencia en vehículo pesado](https://co.linkedin.com/jobs/view/mec%C3%A1nico-a-automotriz-experiencia-en-veh%C3%ADculo-pesado-at-dharmachakra-4170044965) | 78.89% | 2025-03-01 |
+| [Analista Contable y Facturación](https://co.linkedin.com/jobs/view/analista-contable-y-facturaci%C3%B3n-at-letran-log%C3%ADstica-especializada-4169187751) | 78.76% | 2025-02-28 |
+| [Ingeniero/a industrial con experiencia en PO Product Owner y Lean](https://co.linkedin.com/jobs/view/ingeniero-a-industrial-con-experiencia-en-po-product-owner-y-lean-at-dharmachakra-4170044976) | 78.63% | 2025-03-01 |
+| [Analista de Control Interno y Gestión Comercial  Analista de Retail Bogota Cali y Neiva](https://co.linkedin.com/jobs/view/analista-de-control-interno-y-gesti%C3%B3n-comercial-analista-de-retail-bogota-cali-y-neiva-at-scania-group-4169631569) | 78.62% | 2025-03-01 |
+| [Ingeniero de servicios de campo](https://co.linkedin.com/jobs/view/ingeniero-de-servicios-de-campo-at-manpower-business-professionals-4170815938) | 78.61% | 2025-02-28 |
+| [Auxiliar de Reclutamiento - Procesos Masivos](https://co.linkedin.com/jobs/view/auxiliar-de-reclutamiento-procesos-masivos-at-seguridad-superior-4170033057) | 78.46% | 2025-03-01 |
+| [JEFE DE TECNOLOGIA](https://co.linkedin.com/jobs/view/jefe-de-tecnologia-at-plexa-4170032074) | 78.40% | 2025-03-01 |
+| [Ingeniero Reisdente](https://co.linkedin.com/jobs/view/ingeniero-reisdente-at-grupo-azer-4170342212) | 78.34% | 2025-03-01 |
+| [Asesor ventas multicanal](https://co.linkedin.com/jobs/view/asesor-ventas-multicanal-at-colsubsidio-4170029298) | 78.33% | 2025-03-01 |
+| [Analista de comercio exterior bilingüe](https://co.linkedin.com/jobs/view/analista-de-comercio-exterior-biling%C3%BCe-at-dharmachakra-4169191483) | 78.24% | 2025-02-28 |
+| [aperario de punto](https://co.linkedin.com/jobs/view/aperario-de-punto-at-agencia-de-empleo-colsubsidio-4170031080) | 78.22% | 2025-03-01 |
+| [DBA de aplicaciones](https://co.linkedin.com/jobs/view/dba-de-aplicaciones-at-xpertgroup-4171093833) | 78.16% | 2025-02-28 |
+| [ANALISTA DE LICITACIONES](https://co.linkedin.com/jobs/view/analista-de-licitaciones-at-grupo-novomark-4170805701) | 78.10% | 2025-02-28 |
+| [Auxiliar de despachos Empresa de Plasticos](https://co.linkedin.com/jobs/view/auxiliar-de-despachos-empresa-de-plasticos-at-recursivos-serviayuda-sas-4170051337) | 78.07% | 2025-03-01 |
+| [Auxiliar de agendamiento](https://co.linkedin.com/jobs/view/auxiliar-de-agendamiento-at-zentria-4170029309) | 78.02% | 2025-03-01 |
+| [Arquitecto de Soluciones Java Remoto](https://co.linkedin.com/jobs/view/arquitecto-de-soluciones-java-remoto-at-ceiba-software-4138240223) | 77.98% | 2025-02-28 |
+| [Analista de contabilidad](https://co.linkedin.com/jobs/view/analista-de-contabilidad-at-inlop-4170880153) | 77.85% | 2025-02-28 |
+| [Asesor comercial](https://co.linkedin.com/jobs/view/asesor-comercial-at-ensue%C3%B1o-hogar-4135650966) | 77.69% | 2025-02-28 |
+| [Analista de aplicaciones](https://co.linkedin.com/jobs/view/analista-de-aplicaciones-at-corporaci%C3%B3n-educativa-indoamericana-4171083671) | 77.67% | 2025-02-28 |
+| [Ingeniero comercial](https://co.linkedin.com/jobs/view/ingeniero-comercial-at-del%C3%A9ctricas-ac-4171099561) | 77.66% | 2025-02-28 |
+| [Asesor De Servicio Al Cliente técnico o tecnólogo](https://co.linkedin.com/jobs/view/asesor-de-servicio-al-cliente-t%C3%A9cnico-o-tecn%C3%B3logo-at-alianza-temporales-sas-4170049404) | 77.56% | 2025-03-01 |
+| [Encargados/as de Punto de Venta.](https://co.linkedin.com/jobs/view/encargados-as%C2%A0de%C2%A0punto%C2%A0de%C2%A0venta-at-dharmachakra-4170049395) | 77.42% | 2025-03-01 |
+| [Encargado/as de punto de venta](https://co.linkedin.com/jobs/view/encargado-as-de-punto-de-venta-at-dharmachakra-4170045941) | 77.42% | 2025-03-01 |
+| [Técnico o tecnólogo de mantenimiento](https://co.linkedin.com/jobs/view/t%C3%A9cnico-o-tecn%C3%B3logo-de-mantenimiento-at-sol%C3%A9-4170049340) | 77.39% | 2025-03-01 |
+| [Soporte Técnico](https://co.linkedin.com/jobs/view/soporte-t%C3%A9cnico-at-hypernova-labs-4170836136) | 77.24% | 2025-02-28 |
+| [Operario de producción / Técnico o tecnólogo](https://co.linkedin.com/jobs/view/operario-de-producci%C3%B3n-t%C3%A9cnico-o-tecn%C3%B3logo-at-branova-limited-4170046506) | 77.19% | 2025-03-01 |
+| [Inspector de calidad / Compañía de alimentos°°](https://co.linkedin.com/jobs/view/inspector-de-calidad-compa%C3%B1%C3%ADa-de-alimentos%C2%B0%C2%B0-at-pulpafruit-s-a-s-4170043990) | 77.18% | 2025-03-01 |
+| [Profesional de Desarrollo, Bienestar y Cultura](https://co.linkedin.com/jobs/view/profesional-de-desarrollo-bienestar-y-cultura-at-scania-group-4170045119) | 77.17% | 2025-03-01 |
+| [Desarrollador Fullstack](https://co.linkedin.com/jobs/view/desarrollador-fullstack-at-novatec-solutions-4171330149) | 77.15% | 2025-02-28 |
+| [Analista de operaciones](https://co.linkedin.com/jobs/view/analista-de-operaciones-at-dom-real-estate-sas-4170872777) | 77.14% | 2025-02-28 |
+| [Administrador o Lider de tienda para marca colombiana/ Tecnico o Tecnologo//Zona Norte](https://co.linkedin.com/jobs/view/administrador-o-lider-de-tienda-para-marca-colombiana-tecnico-o-tecnologo-zona-norte-at-messina-market-catering-4169187769) | 77.12% | 2025-02-28 |
+| [Líder de Bienestar Universitario Req-428](https://co.linkedin.com/jobs/view/l%C3%ADder-de-bienestar-universitario-req-428-at-universidad-ces-4170030127) | 77.08% | 2025-03-01 |
+| [Desarrollador full stack](https://co.linkedin.com/jobs/view/desarrollador-full-stack-at-empresa-confidencial-4159025458) | 77.08% | 2025-02-28 |
+| [INGENIERO PREVENTA IT](https://co.linkedin.com/jobs/view/ingeniero-preventa-it-at-db-system-4171028285) | 76.89% | 2025-02-28 |
+| [Ingeniero Colider De Proyectos](https://co.linkedin.com/jobs/view/ingeniero-colider-de-proyectos-at-satarem-4169808147) | 76.82% | 2025-02-28 |
+| [Ejecutivo de ventas B2B/2C](https://co.linkedin.com/jobs/view/ejecutivo-de-ventas-b2b-2c-at-open-english-4170844600) | 76.80% | 2025-02-28 |
+| [Auxiliar Administrativa y de compras](https://co.linkedin.com/jobs/view/auxiliar-administrativa-y-de-compras-at-aic-internacional-s-a-s-4170340519) | 76.75% | 2025-03-01 |
+| [Analista Senior de Soporte de Software - Customer Care - Chía, Cundinamarca, Colombia](https://co.linkedin.com/jobs/view/analista-senior-de-soporte-de-software-customer-care-ch%C3%ADa-cundinamarca-colombia-at-financial-systems-company-ics-una-empresa-de-csi-4170853564) | 76.71% | 2025-02-28 |
+| [HR Coordinator Medellín](https://co.linkedin.com/jobs/view/hr-coordinator-medell%C3%ADn-at-hatch-4170300951) | 76.68% | 2025-02-28 |
+| [Recepcionista](https://co.linkedin.com/jobs/view/recepcionista-at-salus-pharma-labs-4169187726) | 76.68% | 2025-02-28 |
+| [Analista de proyectos](https://co.linkedin.com/jobs/view/analista-de-proyectos-at-dom-real-estate-sas-4171083613) | 76.47% | 2025-02-28 |
+| [HR Specialist](https://co.linkedin.com/jobs/view/hr-specialist-at-adistec-4169801550) | 76.36% | 2025-02-28 |
+| [Analista de Business Intelligence- Hibrido](https://co.linkedin.com/jobs/view/analista-de-business-intelligence-hibrido-at-gp-strategies-corporation-4169596263) | 76.32% | 2025-02-28 |
+| [Telesales Manager](https://co.linkedin.com/jobs/view/telesales-manager-at-computrabajo-4170754675) | 76.31% | 2025-02-28 |
+| [Business Reporting Architect Semi Sr.](https://co.linkedin.com/jobs/view/business-reporting-architect-semi-sr-at-keo-world-4169984416) | 76.30% | 2025-02-28 |
+| [Key Account Manager](https://co.linkedin.com/jobs/view/key-account-manager-at-ol-software-4170027685) | 76.20% | 2025-03-01 |
+| [Coordinador Call Center o Team Leader campaña de ventas mercado español](https://co.linkedin.com/jobs/view/coordinador-call-center-o-team-leader-campa%C3%B1a-de-ventas-mercado-espa%C3%B1ol-at-dharmachakra-4170052086) | 76.17% | 2025-03-01 |
+| [Desarrollador de Aplicaciones Móviles - Bogotá](https://co.linkedin.com/jobs/view/desarrollador-de-aplicaciones-m%C3%B3viles-bogot%C3%A1-at-sistemas-satelitales-colombia-s-a-e-s-p-4171042764) | 76.13% | 2025-02-28 |
+| [Asesor comercial](https://co.linkedin.com/jobs/view/asesor-comercial-at-panorama-sas-4171317120) | 75.92% | 2025-02-28 |
+| [Educador en Diabetes Bogotá](https://co.linkedin.com/jobs/view/educador-en-diabetes-bogot%C3%A1-at-ramedicas-operador-log%C3%ADstico-farmac%C3%A9utico-4170052002) | 75.78% | 2025-03-01 |
+| [LÍDER EQUIPO DE VENTAS Sales Lead](https://co.linkedin.com/jobs/view/l%C3%ADder-equipo-de-ventas-sales-lead-at-despegar-4091547825) | 75.77% | 2025-02-28 |
+| [Ejecutivo de Ventas/Comercial Remoto](https://co.linkedin.com/jobs/view/ejecutivo-de-ventas-comercial-remoto-at-siigo-4170047512) | 75.73% | 2025-03-01 |
+| [Asesor Call Center](https://co.linkedin.com/jobs/view/asesor-call-center-at-psicogestion-cyg-sas-4170046543) | 75.72% | 2025-03-01 |
+| [Analista de cartera Cali](https://co.linkedin.com/jobs/view/analista-de-cartera-cali-at-grupo-espumados-4169191499) | 75.71% | 2025-02-28 |
+| [Lider Tienda](https://co.linkedin.com/jobs/view/lider-tienda-at-manufacturas-eliot-4170032290) | 75.64% | 2025-03-01 |
+| [Desarrollador Power Builder](https://co.linkedin.com/jobs/view/desarrollador-power-builder-at-praxis-4171067699) | 75.60% | 2025-02-28 |
+| [Arquitecto de soluciones .NET](https://co.linkedin.com/jobs/view/arquitecto-de-soluciones-net-at-ceiba-software-4171029308) | 75.57% | 2025-02-28 |
+| [Técnico mantenimiento de montacargas](https://co.linkedin.com/jobs/view/t%C3%A9cnico-mantenimiento-de-montacargas-at-decowraps-4170046538) | 75.50% | 2025-03-01 |
+| [Analista de Farmacovigilancia](https://co.linkedin.com/jobs/view/analista-de-farmacovigilancia-at-genfar-4171092162) | 75.47% | 2025-02-28 |
+| [Ejecutivo o Facilitador Comercial Profesional](https://co.linkedin.com/jobs/view/ejecutivo-o-facilitador-comercial-profesional-at-alianza-temporales-sas-4170050366) | 75.41% | 2025-03-01 |
+| [Gestor de Requerimientos Bogotá](https://co.linkedin.com/jobs/view/gestor-de-requerimientos-bogot%C3%A1-at-sonda-4171087472) | 75.39% | 2025-02-28 |
+| [Título Analista Sr. SST](https://co.linkedin.com/jobs/view/t%C3%ADtulo%0A-%0A-%0A-analista-sr-sst-at-riopaila-castilla-s-a-4171322487) | 75.35% | 2025-02-28 |
+| [Governance & Excellence Specialist](https://co.linkedin.com/jobs/view/governance-excellence-specialist-at-novartis-colombia-4169553628) | 75.33% | 2025-02-28 |
+| [Evidence Generation Manager](https://co.linkedin.com/jobs/view/evidence-generation-manager-at-novartis-colombia-4169552647) | 75.33% | 2025-02-28 |
+| [Gerente de Servicios TI Bogotá](https://co.linkedin.com/jobs/view/gerente-de-servicios-ti-bogot%C3%A1-at-sonda-4171083753) | 75.31% | 2025-02-28 |
+| [Auxiliar Compras Proveedor](https://co.linkedin.com/jobs/view/auxiliar-compras-proveedor-at-audifarma-s-a-4170046510) | 75.12% | 2025-03-01 |
+| [Arquitecto de datos](https://co.linkedin.com/jobs/view/arquitecto-de-datos-at-bpt-software-4171331140) | 75.08% | 2025-02-28 |
+| [Analista de Transporte](https://co.linkedin.com/jobs/view/analista-de-transporte-at-torre-4169618492) | 75.04% | 2025-02-28 |
+| [Ingeniero Devops](https://co.linkedin.com/jobs/view/ingeniero-devops-at-tech-and-solve-4171336068) | 75.03% | 2025-02-28 |
