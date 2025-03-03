@@ -67,7 +67,7 @@ class Mentor():
             df_matches = df_matches[df_matches['score']>=self.similarity_threshold].copy()
             df_matches['match_id'] = row['user_id']+df_matches['job_id']
             df_matches['match_date'] = datetime.today().strftime("%Y-%m-%d")
-            df_matches = df_matches[['match_id','match_date','score','publication_date']].copy()
+            df_matches = df_matches[['match_id','match_date','score']].copy()
             tmp_dict_matches = df_matches.to_dict(orient='records')
             dict_matches = dict_matches + tmp_dict_matches
         return dict_matches

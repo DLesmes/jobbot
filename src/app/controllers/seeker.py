@@ -10,6 +10,8 @@ from src.app.services.embeder import Embeder
 embeder = Embeder()
 from src.app.services.mentor import Mentor
 mentor = Mentor()
+from src.app.services.expirer import Expirer
+expirer = Expirer()
 from src.app.utils import (
     Retriever,
     save_json,
@@ -27,6 +29,7 @@ class Seeker():
 
     def run(self):
         preprocesor.run()
+        expirer.update()
         embeder.users()
         embeder.jobs()
         mentor.save_matches()

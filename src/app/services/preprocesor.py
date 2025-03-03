@@ -77,6 +77,12 @@ class Preprocesor:
         df = df[~df["company"].isin(self.filter_params)].copy()
         # droping the query params
         df['link'] = df['link'].apply(lambda x: x.split('?')[0])
+        # filter by lasth week jobs
+        df['publication_date'] = pd.to_datetime(df['publication_date'])
+        one_week_ago = pd.Timestamp.now() - pd.Timedelta(days=7)
+        df = df[df['publication_date'] >= one_week_ago].copy()
+        df['publication_date'] = df['publication_date'].dt.strftime('%Y-%m-%d')
+        print(df.shape)
         # most recent
         df.sort_values(
             by=['publication_date'],
@@ -86,8 +92,16 @@ class Preprocesor:
         # drop duplicates
         df.drop_duplicates(
             subset=[
-                'description',
                 'link'
+            ],
+            keep = 'first',
+            inplace = True,
+            ignore_index = True
+        )
+        print(df.shape)
+        df.drop_duplicates(
+            subset=[
+                'description'
             ],
             keep = 'first',
             inplace = True,

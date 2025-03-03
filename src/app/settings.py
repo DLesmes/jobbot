@@ -16,3 +16,6 @@ class Settings:
     SIMILARITY_THRESHOLD = os.environ["SIMILARITY_THRESHOLD"]
     USERS_IDS = os.environ["USERS_IDS"]
     OUTPUT_MATCHES = os.environ["OUTPUT_MATCHES"]
+    AVAILABLE_TAGS = os.environ["AVAILABLE_TAGS"]
+    RETRY_DELAY_SECONDS = os.environ["RETRY_DELAY_SECONDS"]
+    MAX_RETRIES = os.environ["MAX_RETRIES"]
