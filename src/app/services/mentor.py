@@ -23,6 +23,7 @@ class Mentor():
         self.matches = settings.MATCHES
         self.filter_params = ast.literal_eval(settings.FILTER_PARAMS)
         self.similarity_threshold = float(settings.SIMILARITY_THRESHOLD)
+        self.role_weight = float(settings.ROLE_WEIGHT)
 
     def knowledge_based_filter(self, user_id):
         # user customization
@@ -58,14 +59,19 @@ class Mentor():
                 list_dict_jobs_scored = [
                     {
                         **job,
-                        'score': cosine_similarity_numpy(
+                        'skills_similarity': cosine_similarity_numpy(
                             job['embed'],
                             row['embed']
+                        ),
+                        'role_similarity': cosine_similarity_numpy(
+                            job['role_embeds'],
+                            row['avg_role_embeds']
                         )
                     }
                     for job in list_dict_jobs
                 ]
                 df_matches = pd.DataFrame(list_dict_jobs_scored)
+                df_matches['score'] = df_matches['role_similarity']*self.role_weight+df_matches['skills_similarity']*(1-self.role_weight)
                 print(f'{'#'*10} user scores: {row['user_id']}\n',df_matches.score.value_counts)
                 df_matches = df_matches[df_matches['score']>=self.similarity_threshold].copy()
                 df_matches['match_id'] = row['user_id']+df_matches['job_id']
