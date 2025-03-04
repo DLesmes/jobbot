@@ -36,23 +36,37 @@ class Embeder():
         
         missing_embeds = list(set(df_available_users.user_id)-set(df_last_embeds.user_id))
         if len(missing_embeds) > 0:
+            # filtering avaiabel users
             df_missing_embeds = df_available_users[
                 df_available_users['user_id'].isin(missing_embeds)
             ][
                 [
                     'user_id',
-                    'skills'
+                    'skills',
+                    'job_titles'
                 ]
             ].copy()
+            # skills embeds
             df_missing_embeds['skills'] = df_missing_embeds['skills'].apply(lambda x: " ".join(x))
-            embedings = clip.embed(df_missing_embeds.skills.to_list())
-            df_missing_embeds['embed'] = list(embedings)
-            df_missing_embeds = df_missing_embeds[['user_id','embed']].copy()
-            # For NumPy arrays (GPU tensors)
-            tensors = torch.stack(df_missing_embeds['embed'].tolist()).cpu()  # Move to CPU
-            df_missing_embeds['embed'] = tensors.numpy().tolist()
+            df_missing_embeds['embed'] = torch.stack(list(clip.embed(df_missing_embeds['skills'].to_list()))).cpu().numpy().tolist()
+            # role embeds
+            list_dict_roles_users = df_missing_embeds.to_dict(orient='records')
+            list_dict_roles_embeds = [
+                {
+                    **roles,
+                    'roles_embeds':torch.stack(list(clip.embed(roles['job_titles']))).cpu()
+                } for roles in list_dict_roles_users
+            ]
+            list_dict_role_avg_embeds = [
+                {
+                    'user_id':roles['user_id'],
+                    'embed':roles['embed'],
+                    'avg_role_embeds': (sum(roles['roles_embeds'])/len(roles['roles_embeds'])).numpy().tolist()
+                } for roles in list_dict_roles_embeds
+            ]
+            df_missing_embeds = pd.DataFrame(list_dict_role_avg_embeds)
         else:
-            df_missing_embeds = pd.DataFrame(columns=['user_id','embed'])
+            df_missing_embeds = pd.DataFrame(columns=['user_id','embed','avg_role_embeds'])
         
         df_embeds = pd.concat([df_missing_embeds, df_last_embeds])
         df_embeds.drop_duplicates(
@@ -60,6 +74,7 @@ class Embeder():
             inplace=True,
             ignore_index=True
         )
+        df_embeds.dropna(inplace=True)
         table_embeds = pa.Table.from_pandas(df_embeds)
         today_path = f'{self.root}{self.today}'
         if not os.path.exists(today_path):
@@ -82,17 +97,16 @@ class Embeder():
             ][
                 [
                     'job_id',
-                    'description'
+                    'description',
+                    'vacancy_name'
                 ]
             ].copy()
-            embedings = clip.embed(df_missing_embeds.description.to_list())
-            df_missing_embeds['embed'] = list(embedings)
-            df_missing_embeds = df_missing_embeds[['job_id','embed']].copy()
-            # For NumPy arrays (GPU tensors)
-            tensors = torch.stack(df_missing_embeds['embed'].tolist()).cpu()  # Move to CPU
-            df_missing_embeds['embed'] = tensors.numpy().tolist()
+            # embedding
+            df_missing_embeds['embed'] = torch.stack(list(clip.embed(df_missing_embeds['description'].to_list()))).cpu().numpy().tolist()
+            df_missing_embeds['role_embeds'] = torch.stack(list(clip.embed(df_missing_embeds['vacancy_name'].to_list()))).cpu().numpy().tolist()
+            df_missing_embeds = df_missing_embeds[['job_id','embed','role_embeds']].copy()
         else:
-            df_missing_embeds = pd.DataFrame(columns=['job_id','embed'])
+            df_missing_embeds = pd.DataFrame(columns=['job_id','embed','role_embeds'])
         
         df_embeds = pd.concat([df_missing_embeds, df_last_embeds])
         df_embeds.drop_duplicates(
@@ -100,6 +114,7 @@ class Embeder():
             inplace=True,
             ignore_index=True
         )
+        df_embeds.dropna(inplace=True)
         table_embeds = pa.Table.from_pandas(df_embeds)
         today_path = f'{self.root}{self.today}'
         if not os.path.exists(today_path):

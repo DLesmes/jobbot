@@ -5,4 +5,3 @@ seeker = Seeker()
 
 if __name__== '__main__':
     seeker.run()
-    
