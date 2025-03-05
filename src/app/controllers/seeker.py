@@ -28,7 +28,7 @@ class Seeker():
 
     def run(self):
         preprocesor.run()
-        #expirer.update()
+        expirer.update()
         embeder.users()
         embeder.jobs()
         mentor.save_matches()
