@@ -108,7 +108,7 @@ class Preprocesor:
             ignore_index = True
         )
         print(df.shape)
-        return df
+        return df[:4999]
     
     def load(self):
         df = self.transform()

@@ -93,6 +93,10 @@ sns.barplot(x=x, y=y, palette="rocket", hue=y, legend=False)
 plt.grid(True)
 plt.title("'publication_date'")
 #%%[markdown]
+# # Job title description file
+df_summary = df[['vacancy_name','description']].copy()
+df_summary.to_json('../data/vacancy_name_description')
+#%%[markdown]
 # # knowledge based filters
 # %%
 #%%

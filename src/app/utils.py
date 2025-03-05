@@ -164,9 +164,8 @@ class Retriever():
         )
         df_jobs.sort_values(
             by=[
-                'score',
-                'publication_date'
-                
+                'publication_date',
+                'score'
             ],
             ascending=[0,0],
             inplace=True

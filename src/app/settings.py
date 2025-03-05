@@ -19,3 +19,4 @@ class Settings:
     AVAILABLE_TAGS = os.environ["AVAILABLE_TAGS"]
     RETRY_DELAY_SECONDS = os.environ["RETRY_DELAY_SECONDS"]
     MAX_RETRIES = os.environ["MAX_RETRIES"]
+    ROLE_WEIGHT = os.environ["ROLE_WEIGHT"]

@@ -14,7 +14,6 @@ from src.app.services.expirer import Expirer
 expirer = Expirer()
 from src.app.utils import (
     Retriever,
-    save_json,
     create_job_markdown_table,
     save_markdown_to_file
 )
