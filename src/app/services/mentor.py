@@ -22,9 +22,7 @@ class Mentor():
         self.job_seekers = settings.JOB_SEEKERS
         self.matches = settings.MATCHES
         self.filter_params = ast.literal_eval(settings.FILTER_PARAMS)
-        self.similarity_threshold = float(settings.SIMILARITY_THRESHOLD)
-        self.role_weight = float(settings.ROLE_WEIGHT)
-
+        
     def knowledge_based_filter(self, user_id):
         # user customization
         list_users = open_json(self.job_seekers)
@@ -50,8 +48,10 @@ class Mentor():
     def recommend(self):
         df_users = retriever.get_last_embed('users')
         df_jobs = retriever.get_last_embed('jobs')
+        list_users = open_json(self.job_seekers)
         dict_matches = []
         for _ , row in df_users.iterrows():
+            user = [user for user in list_users if user['user_id']==row['user_id']]
             knowledge_filted_job_id = self.knowledge_based_filter(row['user_id'])
             df_jobs = df_jobs[df_jobs['job_id'].isin(knowledge_filted_job_id)]
             if df_jobs.shape[0]>0:
@@ -71,17 +71,17 @@ class Mentor():
                     for job in list_dict_jobs
                 ]
                 df_matches = pd.DataFrame(list_dict_jobs_scored)
-                df_matches['score'] = df_matches['role_similarity']*self.role_weight+df_matches['skills_similarity']*(1-self.role_weight)
+                df_matches['score'] = df_matches['role_similarity']*float(user[0]['role_weight'])+df_matches['skills_similarity']*(1-float(user[0]['role_weight']))
                 print(f'{'#'*10} user scores: {row['user_id']}\n',df_matches.score.value_counts)
-                df_matches = df_matches[df_matches['score']>=self.similarity_threshold].copy()
+                df_matches = df_matches[df_matches['score']>=(user[0]['similarity_threshold'])].copy()
                 df_matches['match_id'] = row['user_id']+df_matches['job_id']
                 df_matches['match_date'] = datetime.today().strftime("%Y-%m-%d")
                 df_matches = df_matches[['match_id','match_date','score']].copy()
                 tmp_dict_matches = df_matches.to_dict(orient='records')
-                dict_matches += tmp_dict_matches
-                return dict_matches
+                dict_matches = dict_matches + tmp_dict_matches
             else:
                 print(f'There are no matches for knowledge filter for the user {row['user_id']}')
+        return dict_matches
     
     def save_matches(self):
         dict_matches = self.recommend()
