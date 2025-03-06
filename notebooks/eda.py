@@ -53,8 +53,17 @@ plt.xlabel('Variable')
 plt.ylabel('Fila')
 #%%[markdown]
 # # categorical variables
+#%%
 plt.figure(figsize=(5,7))
-a = pd.DataFrame(df['company'].value_counts())
+a = pd.DataFrame(df['industries'].value_counts()[:11])
+y = np.array(list(a.index))
+x = np.array(list(a['count']))
+sns.barplot(x=x, y=y, palette="rocket", hue=y, legend=False)
+plt.grid(True)
+plt.title("'industries'")
+#%%
+plt.figure(figsize=(5,7))
+a = pd.DataFrame(df['company'].value_counts()[:11])
 y = np.array(list(a.index))
 x = np.array(list(a['count']))
 sns.barplot(x=x, y=y, palette="rocket", hue=y, legend=False)
@@ -62,7 +71,7 @@ plt.grid(True)
 plt.title("'company'")
 #%%
 plt.figure(figsize=(5,7))
-a = pd.DataFrame(df['location'].value_counts())
+a = pd.DataFrame(df['location'].value_counts()[:11])
 y = np.array(list(a.index))
 x = np.array(list(a['count']))
 sns.barplot(x=x, y=y, palette="rocket", hue=y, legend=False)
@@ -93,10 +102,6 @@ sns.barplot(x=x, y=y, palette="rocket", hue=y, legend=False)
 plt.grid(True)
 plt.title("'publication_date'")
 #%%[markdown]
-# # Job title description file
-df_summary = df[['vacancy_name','description']].copy()
-df_summary.to_json('../data/vacancy_name_description')
-#%%[markdown]
 # # knowledge based filters
 # %%
 #%%
@@ -117,7 +122,7 @@ df_filtered.shape
 #%%[markdown]
 # # categorical variables
 plt.figure(figsize=(5,7))
-a = pd.DataFrame(df_filtered['company'].value_counts())
+a = pd.DataFrame(df_filtered['company'].value_counts()[:11])
 y = np.array(list(a.index))
 x = np.array(list(a['count']))
 sns.barplot(x=x, y=y, palette="rocket", hue=y, legend=False)
@@ -125,7 +130,7 @@ plt.grid(True)
 plt.title("'company'")
 #%%
 plt.figure(figsize=(5,7))
-a = pd.DataFrame(df_filtered['location'].value_counts())
+a = pd.DataFrame(df_filtered['location'].value_counts()[:11])
 y = np.array(list(a.index))
 x = np.array(list(a['count']))
 sns.barplot(x=x, y=y, palette="rocket", hue=y, legend=False)
@@ -155,4 +160,15 @@ x = np.array(list(a['count']))
 sns.barplot(x=x, y=y, palette="rocket", hue=y, legend=False)
 plt.grid(True)
 plt.title("'publication_date'")
-# %%
+#%%[markdown]
+# # Job title description file
+industries = [
+    'IT Services and IT Consulting',
+    'Software Development',
+    'Technology, Information and Internet',
+    'Business Consulting and Services'
+]
+df_summary = df_filtered[df_filtered['industries'].isin(industries)][['vacancy_name','description']][:1000].copy()
+print(df_summary.shape)
+df_summary.to_json('../data/vacancy_name_description.json')
+#%%
