@@ -100,7 +100,8 @@ class Embeder():
                     'description',
                     'vacancy_name'
                 ]
-            ].copy()
+            ][:5000].copy()
+            print(f'Missing jobs to embed {len(df_missing_embeds)}')
             # embedding
             df_missing_embeds['embed'] = torch.stack(list(clip.embed(df_missing_embeds['description'].to_list()))).cpu().numpy().tolist()
             df_missing_embeds['role_embeds'] = torch.stack(list(clip.embed(df_missing_embeds['vacancy_name'].to_list()))).cpu().numpy().tolist()
