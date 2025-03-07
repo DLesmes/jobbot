@@ -3,6 +3,10 @@
 import ast
 from datetime import datetime
 import pandas as pd
+#NLP
+import nltk
+nltk.download('stopwords')
+from nltk.corpus import stopwords
 # repo imports
 from src.app.utils import (
     save_json,
@@ -32,6 +36,7 @@ class Mentor():
         work_modality_criteria = user[0]['work_modality_english']
         remote_criteria = [ast.literal_eval(val) for val in user[0]['remote']]
         excluded_companies = self.filter_params
+        english = ast.literal_eval(user[0]['english'])
         # offers
         list_jobs = open_json(self.job_offers)
         df_jobs = pd.DataFrame(list_jobs)
@@ -42,6 +47,18 @@ class Mentor():
             (df_jobs["remote"].isin(remote_criteria)) &  # Filter by remote_criteria
             (~df_jobs["company"].isin(excluded_companies))     # Exclude specified companies
         ].copy()
+        if not english:
+            print(f'filtering only spanish jobs: {df_filtered.shape}')
+            _stopwords = [word for word in stopwords.words('english') if len(word)>4]
+            _stopwords = [word for word in _stopwords if word != 'more']
+            pattern = '|'.join(_stopwords)
+            df_filtered = df_filtered[
+                ~df_filtered['description'].str.contains(
+                    pattern,
+                    case=False,
+                    regex=True
+                )
+            ]
         print(f'current available jobs: {df_filtered.shape}')
         return df_filtered.job_id.to_list()
 
@@ -53,7 +70,7 @@ class Mentor():
         for _ , row in df_users.iterrows():
             user = [user for user in list_users if user['user_id']==row['user_id']]
             knowledge_filted_job_id = self.knowledge_based_filter(row['user_id'])
-            df_jobs = df_jobs[df_jobs['job_id'].isin(knowledge_filted_job_id)]
+            df_jobs = df_jobs[df_jobs['job_id'].isin(knowledge_filted_job_id)].copy()
             if df_jobs.shape[0]>0:
                 list_dict_jobs = df_jobs.to_dict(orient='records')
                 list_dict_jobs_scored = [
