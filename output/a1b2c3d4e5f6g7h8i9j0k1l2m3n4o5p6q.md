@@ -1,8 +1,18 @@
 # 🚀 Latest Job Offers Recommendations!
 | 🗃️ **Job offer** | 🌡️**Score** | 🗓️ **publication_date** |
 |---|---|---|
+| [Asistente Administrativo Remote](https://co.linkedin.com/jobs/view/asistente-administrativo-remote-at-whitestack-4175343473) | 86.87% | 2025-03-06 |
+| [Data Analyst - Integration Specialist](https://co.linkedin.com/jobs/view/data-analyst-integration-specialist-at-softgic-4176106278) | 81.68% | 2025-03-06 |
+| [Cloud Operations Engineer II](https://co.linkedin.com/jobs/view/cloud-operations-engineer-ii-at-varicent-4139508599) | 80.94% | 2025-03-06 |
+| [Managed Services Lead](https://co.linkedin.com/jobs/view/managed-services-lead-at-neuraflash-4174530612) | 79.36% | 2025-03-06 |
+| [Full Stack Engineer](https://co.linkedin.com/jobs/view/full-stack-engineer-at-ultimate-jet-vacations-4170457875) | 82.73% | 2025-03-05 |
 | [Operations Coordinator](https://co.linkedin.com/jobs/view/operations-coordinator-at-select-assistants-4174324216) | 81.82% | 2025-03-05 |
+| [Process Analyst](https://co.linkedin.com/jobs/view/process-analyst-at-job-duck-4173956792) | 81.80% | 2025-03-05 |
 | [Executive & Business Support Specialist - Freelance, Remote](https://co.linkedin.com/jobs/view/executive-business-support-specialist-freelance-remote-at-magic-4175466638) | 81.14% | 2025-03-05 |
+| [Automation QA Engineer](https://co.linkedin.com/jobs/view/automation-qa-engineer-at-softgic-4174503957) | 80.48% | 2025-03-05 |
+| [Customer Support Specialist - Fully Remote - Work from anywhere!](https://co.linkedin.com/jobs/view/customer-support-specialist-fully-remote-work-from-anywhere%21-at-omnipresent-4174880556) | 80.19% | 2025-03-05 |
+| [Admin Assistant with Project Management Skills](https://co.linkedin.com/jobs/view/admin-assistant-with-project-management-skills-at-webspark-media-4173939969) | 79.86% | 2025-03-05 |
+| [Alliances Field Engineer](https://co.linkedin.com/jobs/view/alliances-field-engineer-at-canonical-4174161777) | 78.84% | 2025-03-05 |
 | [IT Helpdesk](https://co.linkedin.com/jobs/view/it-helpdesk-at-wizeline-4173115389) | 81.91% | 2025-03-04 |
 | [Architect Project Manager](https://co.linkedin.com/jobs/view/architect-project-manager-at-florida-building-plans-4173143852) | 81.85% | 2025-03-04 |
 | [Software Developer](https://co.linkedin.com/jobs/view/software-developer-at-launchpad-technologies-inc-4172876906) | 81.72% | 2025-03-04 |
@@ -13,7 +23,6 @@
 | [Sales Development Representative, Expansion, SMB LATAM](https://co.linkedin.com/jobs/view/sales-development-representative-expansion-smb-latam-at-deel-4169171148) | 78.84% | 2025-03-04 |
 | [Junior Project Manager in ecommerce agency](https://co.linkedin.com/jobs/view/junior-project-manager-in-ecommerce-agency-at-we-are-crisp-4173634142) | 78.23% | 2025-03-04 |
 | [Ingeniero/a de ciberseguridad](https://co.linkedin.com/jobs/view/ingeniero-a-de-ciberseguridad-at-gmv-4172305674) | 86.34% | 2025-03-03 |
-| [Ingeniero de software](https://co.linkedin.com/jobs/view/ingeniero-de-software-at-confidencial-4172505128) | 85.35% | 2025-03-03 |
 | [Project Manager](https://co.linkedin.com/jobs/view/project-manager-at-rws-group-4173087617) | 82.77% | 2025-03-03 |
 | [Technical Support Engineer](https://co.linkedin.com/jobs/view/technical-support-engineer-at-prisma-4172396698) | 81.88% | 2025-03-03 |
 | [Data Analyst](https://co.linkedin.com/jobs/view/data-analyst-at-launchpad-technologies-inc-4174204456) | 81.86% | 2025-03-03 |
@@ -22,6 +31,6 @@
 | [Inside Sales Representative](https://co.linkedin.com/jobs/view/inside-sales-representative-at-teilur-talent-4172386670) | 80.77% | 2025-03-03 |
 | [Implementation Specialist finance](https://co.linkedin.com/jobs/view/implementation-specialist-finance-at-pi3-4173002454) | 80.60% | 2025-03-03 |
 | [Blockchain Architect](https://co.linkedin.com/jobs/view/blockchain-architect-at-launchpad-technologies-inc-4174204424) | 80.13% | 2025-03-03 |
-| [CI/CD Engineer](https://co.linkedin.com/jobs/view/ci-cd-engineer-at-launchpad-technologies-inc-4174099937) | 78.61% | 2025-03-03 |
 | [Game Developer](https://co.linkedin.com/jobs/view/game-developer-at-launchpad-technologies-inc-4174204463) | 78.61% | 2025-03-03 |
+| [CI/CD Engineer](https://co.linkedin.com/jobs/view/ci-cd-engineer-at-launchpad-technologies-inc-4174099937) | 78.61% | 2025-03-03 |
 | [Account Manager](https://co.linkedin.com/jobs/view/account-manager-at-allsikes-4171384550) | 80.65% | 2025-03-02 |
