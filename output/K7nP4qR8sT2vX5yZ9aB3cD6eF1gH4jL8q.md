@@ -1,14 +1,71 @@
 # 🚀 Latest Job Offers Recommendations!
 | 🗃️ **Job offer** | 🌡️**Score** | 🗓️ **publication_date** |
 |---|---|---|
+| [IT Helpdesk](https://co.linkedin.com/jobs/view/it-helpdesk-at-wizeline-4173115389) | 83.86% | 2025-03-08 |
+| [Project Manager](https://co.linkedin.com/jobs/view/project-manager-at-devsavant-4179512025) | 83.16% | 2025-03-08 |
+| [SEO Specialist with Link-Building expertise](https://co.linkedin.com/jobs/view/seo-specialist-with-link-building-expertise-at-outliant-4179509240) | 82.16% | 2025-03-08 |
+| [Sr. Backend Engineer .Net](https://co.linkedin.com/jobs/view/sr-backend-engineer-net-at-kinasait-4179713191) | 81.77% | 2025-03-08 |
+| [Marketing Administrative Assistant](https://co.linkedin.com/jobs/view/marketing-administrative-assistant-at-scout-4178067385) | 81.39% | 2025-03-08 |
+| [Senior Analyst, Finance Business Partner-R-242296](https://co.linkedin.com/jobs/view/senior-analyst-finance-business-partner-r-242296-at-mastercard-4176317852) | 81.12% | 2025-03-08 |
+| [.Net Developer with Azure, Senior Level](https://co.linkedin.com/jobs/view/net-developer-with-azure-senior-level-at-globant-4176328309) | 80.73% | 2025-03-08 |
+| [Sr Data Engineer](https://co.linkedin.com/jobs/view/sr-data-engineer-at-renaiss-4178476672) | 90.00% | 2025-03-07 |
+| [Full-Stack AI Engineer](https://co.linkedin.com/jobs/view/full-stack-ai-engineer-at-sommardahl-ventures-4179106333) | 88.95% | 2025-03-07 |
+| [Data Science Consultant](https://co.linkedin.com/jobs/view/data-science-consultant-at-epam-systems-4152565346) | 88.37% | 2025-03-07 |
 | [Senior Data Engineer](https://co.linkedin.com/jobs/view/senior-data-engineer-at-capgemini-engineering-4175741655) | 87.56% | 2025-03-07 |
+| [Software Support Engineer](https://co.linkedin.com/jobs/view/software-support-engineer-at-canonical-4178463947) | 87.54% | 2025-03-07 |
+| [Software Maintenance Engineer](https://co.linkedin.com/jobs/view/software-maintenance-engineer-at-canonical-4178462997) | 87.40% | 2025-03-07 |
+| [Senior Data DevOps Engineer](https://co.linkedin.com/jobs/view/senior-data-devops-engineer-at-epam-systems-4024718856) | 86.92% | 2025-03-07 |
+| [Product Support Engineer](https://co.linkedin.com/jobs/view/product-support-engineer-at-fundraise-up-4178627614) | 86.52% | 2025-03-07 |
+| [Software Engineer - L3 Support](https://co.linkedin.com/jobs/view/software-engineer-l3-support-at-canonical-4178465657) | 86.40% | 2025-03-07 |
+| [Engineering Manager - Web](https://co.linkedin.com/jobs/view/engineering-manager-web-at-canonical-4179103176) | 86.34% | 2025-03-07 |
+| [Web Operations Engineer](https://co.linkedin.com/jobs/view/web-operations-engineer-at-gft-technologies-4143515036) | 86.27% | 2025-03-07 |
+| [Chief Software Engineer](https://co.linkedin.com/jobs/view/chief-software-engineer-at-epam-systems-4152568022) | 86.03% | 2025-03-07 |
+| [Chief Software Engineer](https://co.linkedin.com/jobs/view/chief-software-engineer-at-epam-systems-4152563591) | 86.03% | 2025-03-07 |
+| [Chief Software Engineer](https://co.linkedin.com/jobs/view/chief-software-engineer-at-epam-systems-4152564447) | 86.03% | 2025-03-07 |
+| [Senior Enterprise Systems Engineer](https://co.linkedin.com/jobs/view/senior-enterprise-systems-engineer-at-veeam-software-4175873457) | 85.93% | 2025-03-07 |
+| [Senior Backend Engineer](https://co.linkedin.com/jobs/view/senior-backend-engineer-at-lean-tech-4176307455) | 85.19% | 2025-03-07 |
 | [Cloud DevOps Engineer](https://co.linkedin.com/jobs/view/cloud-devops-engineer-at-global-fishing-watch-4175744917) | 85.11% | 2025-03-07 |
+| [Social Media Content Strategist](https://co.linkedin.com/jobs/view/social-media-content-strategist-at-zabota-4175843967) | 84.94% | 2025-03-07 |
+| [Senior Engineer](https://co.linkedin.com/jobs/view/senior-engineer-at-gft-technologies-4173023253) | 84.93% | 2025-03-07 |
 | [Customer Tech Support](https://co.linkedin.com/jobs/view/customer-tech-support-at-emapta-global-4160259568) | 84.61% | 2025-03-07 |
-| [IT Helpdesk](https://co.linkedin.com/jobs/view/it-helpdesk-at-wizeline-4173115389) | 83.86% | 2025-03-07 |
+| [Junior .NET Developer](https://co.linkedin.com/jobs/view/junior-net-developer-at-epam-systems-4070728621) | 84.56% | 2025-03-07 |
+| [Senior Java Developer](https://co.linkedin.com/jobs/view/senior-java-developer-at-epam-systems-4110436012) | 84.44% | 2025-03-07 |
+| [Senior Java Developer](https://co.linkedin.com/jobs/view/senior-java-developer-at-epam-systems-4110431456) | 84.44% | 2025-03-07 |
+| [Senior DevOps Engineer](https://co.linkedin.com/jobs/view/senior-devops-engineer-at-epam-systems-4178682375) | 84.41% | 2025-03-07 |
+| [Senior DevOps Engineer](https://co.linkedin.com/jobs/view/senior-devops-engineer-at-epam-systems-4178686026) | 84.41% | 2025-03-07 |
+| [Senior DevOps Engineer](https://co.linkedin.com/jobs/view/senior-devops-engineer-at-epam-systems-4178679946) | 84.41% | 2025-03-07 |
+| [Process Analyst](https://co.linkedin.com/jobs/view/process-analyst-at-job-duck-4178625933) | 84.31% | 2025-03-07 |
+| [Senior Cloud Engineer AWS](https://co.linkedin.com/jobs/view/senior-cloud-engineer-aws-at-epam-systems-4178683358) | 84.24% | 2025-03-07 |
+| [Senior Cloud Engineer AWS](https://co.linkedin.com/jobs/view/senior-cloud-engineer-aws-at-epam-systems-4178682419) | 84.24% | 2025-03-07 |
+| [Senior Cloud Engineer AWS](https://co.linkedin.com/jobs/view/senior-cloud-engineer-aws-at-epam-systems-4178684238) | 84.24% | 2025-03-07 |
+| [Senior Cloud Engineer AWS](https://co.linkedin.com/jobs/view/senior-cloud-engineer-aws-at-epam-systems-4178685153) | 84.24% | 2025-03-07 |
+| [Senior Cloud Engineer AWS](https://co.linkedin.com/jobs/view/senior-cloud-engineer-aws-at-epam-systems-4178681619) | 84.24% | 2025-03-07 |
+| [C++ Qt Desktop Application Developer](https://co.linkedin.com/jobs/view/c%2B%2B-qt-desktop-application-developer-at-hummingbirds-ai-4178689948) | 83.72% | 2025-03-07 |
 | [Supply Chain Demand Analyst](https://co.linkedin.com/jobs/view/supply-chain-demand-analyst-at-emapta-global-4177156172) | 83.61% | 2025-03-07 |
+| [Senior Full-Stack Software Engineer .Net, Angular](https://co.linkedin.com/jobs/view/senior-full-stack-software-engineer-net-angular-at-exadel-4173756457) | 83.54% | 2025-03-07 |
+| [Software Developer Mid Senior - Full Stack](https://co.linkedin.com/jobs/view/software-developer-mid-senior-full-stack-at-job-duck-4178630161) | 83.34% | 2025-03-07 |
 | [Business Intelligence Operation](https://co.linkedin.com/jobs/view/business-intelligence-operation-at-capgemini-4175737428) | 83.21% | 2025-03-07 |
+| [DevOps Specialist](https://co.linkedin.com/jobs/view/devops-specialist-at-salvatech-4179195089) | 83.04% | 2025-03-07 |
+| [Senior DevOps](https://co.linkedin.com/jobs/view/senior-devops-at-epam-systems-4178681588) | 82.82% | 2025-03-07 |
+| [Senior DevOps](https://co.linkedin.com/jobs/view/senior-devops-at-epam-systems-4178685179) | 82.82% | 2025-03-07 |
+| [Senior Full-Stack Engineer - Django](https://co.linkedin.com/jobs/view/senior-full-stack-engineer-django-at-crew-capital-4175884548) | 82.78% | 2025-03-07 |
+| [Senior Azure DevOps Engineer](https://co.linkedin.com/jobs/view/senior-azure-devops-engineer-at-epam-systems-4178680720) | 82.68% | 2025-03-07 |
 | [Salesforce Developer Senior Level](https://co.linkedin.com/jobs/view/salesforce-developer-senior-level-at-globant-4175743901) | 82.09% | 2025-03-07 |
+| [Senior Salesforce Administrator](https://co.linkedin.com/jobs/view/senior-salesforce-administrator-at-prove-4178423190) | 82.09% | 2025-03-07 |
 | [Platform Administrator](https://co.linkedin.com/jobs/view/platform-administrator-at-emapta-global-4177156166) | 81.83% | 2025-03-07 |
+| [Senior Java Developer Monolithic Architecture- English Required](https://co.linkedin.com/jobs/view/senior-java-developer-monolithic-architecture-english-required-at-dacodes-4178689642) | 81.60% | 2025-03-07 |
+| [Executive Assistant to Chief Executive Officer](https://co.linkedin.com/jobs/view/executive-assistant-to-chief-executive-officer-at-rollback-ally-4179186018) | 81.55% | 2025-03-07 |
+| [Senior AWS DevOps](https://co.linkedin.com/jobs/view/senior-aws-devops-at-epam-systems-4178677972) | 81.53% | 2025-03-07 |
+| [Growth Marketer Remote/ COL](https://co.linkedin.com/jobs/view/growth-marketer-remote-col-at-shark-helpers-4179138827) | 81.50% | 2025-03-07 |
+| [Senior iOS Developer English Required](https://co.linkedin.com/jobs/view/senior-ios-developer-english-required-at-dacodes-4178692233) | 81.44% | 2025-03-07 |
+| [Senior DevOps AWS](https://co.linkedin.com/jobs/view/senior-devops-aws-at-epam-systems-4178681573) | 81.41% | 2025-03-07 |
+| [Lead JavaScript Developer](https://co.linkedin.com/jobs/view/lead-javascript-developer-at-epam-systems-4128245743) | 81.05% | 2025-03-07 |
+| [Remote/ COLOMBIA Growth Marketer](https://co.linkedin.com/jobs/view/remote-colombia-growth-marketer-at-shark-helpers-4178626818) | 80.96% | 2025-03-07 |
+| [Senior Java Developer - Microservices & Cloud English Required](https://co.linkedin.com/jobs/view/senior-java-developer-microservices-cloud-english-required-at-dacodes-4178696503) | 80.83% | 2025-03-07 |
+| [Software Developer Azure](https://co.linkedin.com/jobs/view/software-developer-azure-at-virtual-work-world-4177759212) | 80.52% | 2025-03-07 |
+| [Lead ReactJS Developer](https://co.linkedin.com/jobs/view/lead-reactjs-developer-at-epam-systems-4128249263) | 80.46% | 2025-03-07 |
+| [Bilingual Customer Service Representative](https://co.linkedin.com/jobs/view/bilingual-customer-service-representative-at-headhunter-4179198881) | 80.45% | 2025-03-07 |
+| [Java Development Team Lead](https://co.linkedin.com/jobs/view/java-development-team-lead-at-epam-systems-4083452295) | 80.14% | 2025-03-07 |
 | [Senior AI Engineer](https://co.linkedin.com/jobs/view/senior-ai-engineer-at-sparq-4176135503) | 90.07% | 2025-03-06 |
 | [Senior Data Software Engineer](https://co.linkedin.com/jobs/view/senior-data-software-engineer-at-epam-systems-4024722113) | 89.22% | 2025-03-06 |
 | [Lead Full-Stack Developer with AI](https://co.linkedin.com/jobs/view/lead-full-stack-developer-with-ai-at-exadel-4150520373) | 88.18% | 2025-03-06 |
@@ -72,9 +129,7 @@
 | [Bilingual Python Developer](https://co.linkedin.com/jobs/view/bilingual-python-developer-at-procalidad-analytics-4174382952) | 84.39% | 2025-03-05 |
 | [Senior Full-Stack Software Engineer .Net, Angular](https://co.linkedin.com/jobs/view/senior-full-stack-software-engineer-net-angular-at-exadel-4173914321) | 84.36% | 2025-03-05 |
 | [Operations Coordinator](https://co.linkedin.com/jobs/view/operations-coordinator-at-select-assistants-4174324216) | 84.14% | 2025-03-05 |
-| [Commercial Performance Analyst](https://co.linkedin.com/jobs/view/commercial-performance-analyst-at-million-colombia-cutting-edge-real-estate-solutions-4176431463) | 83.84% | 2025-03-05 |
 | [Alliances Field Engineer](https://co.linkedin.com/jobs/view/alliances-field-engineer-at-canonical-4174161777) | 83.57% | 2025-03-05 |
-| [Senior Full-Stack Software Engineer .Net, Angular](https://co.linkedin.com/jobs/view/senior-full-stack-software-engineer-net-angular-at-exadel-4173756457) | 83.54% | 2025-03-05 |
 | [Marketing Director](https://co.linkedin.com/jobs/view/marketing-director-at-salvatech-4174330888) | 83.32% | 2025-03-05 |
 | [DevOps Specialist](https://co.linkedin.com/jobs/view/devops-specialist-at-salvatech-4174333541) | 83.04% | 2025-03-05 |
 | [Power Apps Developer](https://co.linkedin.com/jobs/view/power-apps-developer-at-nielseniq-4176471281) | 83.00% | 2025-03-05 |
@@ -103,8 +158,8 @@
 | [Senior Java Developer](https://co.linkedin.com/jobs/view/senior-java-developer-at-epam-systems-4083456099) | 84.44% | 2025-03-04 |
 | [Senior Java Developer](https://co.linkedin.com/jobs/view/senior-java-developer-at-epam-systems-4110429956) | 84.44% | 2025-03-04 |
 | [Senior Java Developer](https://co.linkedin.com/jobs/view/senior-java-developer-at-epam-systems-4110865183) | 84.44% | 2025-03-04 |
-| [Senior DevOps Engineer](https://co.linkedin.com/jobs/view/senior-devops-engineer-at-epam-systems-4172873240) | 84.41% | 2025-03-04 |
 | [Senior DevOps Engineer](https://co.linkedin.com/jobs/view/senior-devops-engineer-at-epam-systems-4172869662) | 84.41% | 2025-03-04 |
+| [Senior DevOps Engineer](https://co.linkedin.com/jobs/view/senior-devops-engineer-at-epam-systems-4172873240) | 84.41% | 2025-03-04 |
 | [Automotive Electrical Engineer](https://co.linkedin.com/jobs/view/automotive-electrical-engineer-at-wecollabify-4173150754) | 84.38% | 2025-03-04 |
 | [Senior PHP Developer](https://co.linkedin.com/jobs/view/senior-php-developer-at-evx-software-4175132034) | 84.09% | 2025-03-04 |
 | [Talent Acquisition Manager](https://co.linkedin.com/jobs/view/talent-acquisition-manager-at-global-team-4175192967) | 83.79% | 2025-03-04 |
@@ -114,10 +169,9 @@
 | [Senior Cloud Azure Developer](https://co.linkedin.com/jobs/view/senior-cloud-azure-developer-at-epam-systems-4172874204) | 83.10% | 2025-03-04 |
 | [Principal Software Developer/Architect](https://co.linkedin.com/jobs/view/principal-software-developer-architect-at-oracle-4082219353) | 82.86% | 2025-03-04 |
 | [Senior DevOps](https://co.linkedin.com/jobs/view/senior-devops-at-epam-systems-4172872440) | 82.82% | 2025-03-04 |
-| [Senior Azure DevOps Engineer](https://co.linkedin.com/jobs/view/senior-azure-devops-engineer-at-epam-systems-4172869656) | 82.68% | 2025-03-04 |
 | [Senior Azure DevOps Engineer](https://co.linkedin.com/jobs/view/senior-azure-devops-engineer-at-epam-systems-4172869655) | 82.68% | 2025-03-04 |
+| [Senior Azure DevOps Engineer](https://co.linkedin.com/jobs/view/senior-azure-devops-engineer-at-epam-systems-4172869656) | 82.68% | 2025-03-04 |
 | [Senior Azure DevOps Engineer](https://co.linkedin.com/jobs/view/senior-azure-devops-engineer-at-epam-systems-4173165379) | 82.68% | 2025-03-04 |
-| [Junior Project Manager in ecommerce agency](https://co.linkedin.com/jobs/view/junior-project-manager-in-ecommerce-agency-at-we-are-crisp-4173634142) | 82.41% | 2025-03-04 |
 | [ArcGIS Engineer](https://co.linkedin.com/jobs/view/arcgis-engineer-at-heinsohn-4173147689) | 82.28% | 2025-03-04 |
 | [SMB Account Executive](https://co.linkedin.com/jobs/view/smb-account-executive-at-teramind-4172538894) | 82.08% | 2025-03-04 |
 | [Senior AEM Frontend Developer - Remote - LATAM](https://co.linkedin.com/jobs/view/senior-aem-frontend-developer-remote-latam-at-jobgether-4173480032) | 81.88% | 2025-03-04 |
@@ -148,7 +202,6 @@
 | [Senior System Engineer](https://co.linkedin.com/jobs/view/senior-system-engineer-at-sms-datacenter-4174691079) | 85.16% | 2025-03-03 |
 | [Technical Interview Engineer - Senior](https://co.linkedin.com/jobs/view/technical-interview-engineer-senior-at-lumenalta-4172014860) | 85.14% | 2025-03-03 |
 | [Mobile Developer](https://co.linkedin.com/jobs/view/mobile-developer-at-launchpad-technologies-inc-4174206132) | 84.95% | 2025-03-03 |
-| [Senior Engineer](https://co.linkedin.com/jobs/view/senior-engineer-at-gft-technologies-4173023253) | 84.93% | 2025-03-03 |
 | [Project Manager](https://co.linkedin.com/jobs/view/project-manager-at-rws-group-4173087617) | 84.76% | 2025-03-03 |
 | [Lead Java Developer](https://co.linkedin.com/jobs/view/lead-java-developer-at-oceans-code-experts-4173052602) | 84.58% | 2025-03-03 |
 | [Data Scientist Senior Level - Colombia](https://co.linkedin.com/jobs/view/data-scientist-senior-level-colombia-at-globant-4173072476) | 84.49% | 2025-03-03 |
@@ -168,7 +221,6 @@
 | [Paid Search Manager](https://co.linkedin.com/jobs/view/paid-search-manager-at-emapta-global-4159359086) | 82.62% | 2025-03-03 |
 | [Implementation Specialist finance](https://co.linkedin.com/jobs/view/implementation-specialist-finance-at-pi3-4173002454) | 82.50% | 2025-03-03 |
 | [DevOps Lead](https://co.linkedin.com/jobs/view/devops-lead-at-loka-4151300632) | 82.36% | 2025-03-03 |
-| [Inside Sales Representative](https://co.linkedin.com/jobs/view/inside-sales-representative-at-teilur-talent-4172386670) | 82.15% | 2025-03-03 |
 | [Salesforce Marketing Cloud Developer Senior](https://co.linkedin.com/jobs/view/salesforce-marketing-cloud-developer-senior-at-globant-4173069969) | 82.06% | 2025-03-03 |
 | [Javascript Fullstack Engineer - Tech Lead](https://co.linkedin.com/jobs/view/javascript-fullstack-engineer-tech-lead-at-lumenalta-4171645591) | 82.01% | 2025-03-03 |
 | [QA Automation - JavaScript](https://co.linkedin.com/jobs/view/qa-automation-javascript-at-lumenalta-4172341140) | 82.00% | 2025-03-03 |
