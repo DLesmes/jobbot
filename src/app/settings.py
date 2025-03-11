@@ -24,15 +24,32 @@ class Settings:
 
 # Custom filter to add class and method information
 class ContextFilter(logging.Filter):
+    """Custom filter to add class_name and method_name to log records."""
     def filter(self, record):
-        # Get the current frame (caller of the logger)
-        frame = inspect.currentframe().f_back.f_back  # 2 levels up
-        # Get the class name (if called from a class method)
+        # Start with the current frame and walk up the stack
+        frame = inspect.currentframe()
+        # Skip the current frame (filter method) and logging internal frames
+        while frame:
+            # Skip frames related to logging internals
+            if frame.f_code.co_filename.endswith('logging/__init__.py'):
+                frame = frame.f_back
+                continue
+            # Skip the ContextFilter frame itself
+            if frame.f_code.co_name == 'filter' and 'ContextFilter' in frame.f_locals.get('self', object).__class__.__name__:
+                frame = frame.f_back
+                continue
+            # Check if the frame is within a class method (i.e., 'self' exists)
+            if 'self' in frame.f_locals:
+                record.class_name = frame.f_locals['self'].__class__.__name__
+                record.method_name = frame.f_code.co_name
+                return True
+            # If not in a class method, use the function name
+            record.class_name = 'N/A'
+            record.method_name = frame.f_code.co_name
+            return True
+        # Fallback if no suitable frame is found
         record.class_name = 'N/A'
-        if 'self' in frame.f_locals:
-            record.class_name = frame.f_locals['self'].__class__.__name__
-        # Get the method/function name
-        record.method_name = frame.f_code.co_name
+        record.method_name = 'N/A'
         return True
 
 def setup_logging(logger_name):
