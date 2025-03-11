@@ -9,6 +9,13 @@ import numpy as np
 import pandas as pd
 import pyarrow as pa
 import pyarrow.parquet as pq
+# NLP
+from nltk.corpus import words
+import nltk
+## Download the NLTK words corpus (run once)
+nltk.download('words')
+## Load English words into a set for faster lookup
+english_words = set(words.words())
 #repo imports
 from src.app.settings import Settings
 settings = Settings()
@@ -79,6 +86,34 @@ def save_markdown_to_file(markdown_content:str, filename:str):
         print(f"Successfully saved markdown to {filename}")
     except Exception as e:
         print(f"Error saving markdown file: {e}")
+
+
+def is_english(text, threshold=0.6):
+    """
+    Check if the given text is in English.
+    Args:
+        text (str): The input text to analyze.
+        threshold (float): Minimum fraction of English words required to classify as English.
+    Returns:
+        bool: True if the text is likely English, False otherwise.
+    """
+    # Convert text to lowercase and tokenize into words
+    text = text.lower()
+    # Use regex to split text into words (removing punctuation)
+    word_list = re.findall(r'\b\w+\b', text)
+    
+    if not word_list:
+        return False  # No words found in text
+    
+    # Count how many words are in the English dictionary
+    english_word_count = sum(1 for word in word_list if word in english_words)
+    
+    # Calculate the fraction of English words
+    english_fraction = english_word_count / len(word_list)
+    
+    # Return True if the fraction exceeds the threshold
+    return english_fraction >= threshold
+
 
 class Retriever():
     """

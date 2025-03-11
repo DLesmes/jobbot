@@ -3,16 +3,13 @@
 import ast
 from datetime import datetime
 import pandas as pd
-#NLP
-import nltk
-nltk.download('stopwords')
-from nltk.corpus import stopwords
 # repo imports
 from src.app.utils import (
     save_json,
     open_json,
     Retriever,
-    cosine_similarity_numpy
+    cosine_similarity_numpy,
+    is_english
 )
 retriever = Retriever()
 from src.app.settings import Settings
@@ -49,16 +46,8 @@ class Mentor():
         ].copy()
         if not english:
             print(f'filtering only spanish jobs: {df_filtered.shape}')
-            _stopwords = [word for word in stopwords.words('english') if len(word)>4]
-            _stopwords = [word for word in _stopwords if word != 'more']
-            pattern = '|'.join(_stopwords)
-            df_filtered = df_filtered[
-                ~df_filtered['description'].str.contains(
-                    pattern,
-                    case=False,
-                    regex=True
-                )
-            ]
+            df_filtered['english'] = df_filtered['description'].apply(lambda x: is_english(x))
+            df_filtered = df_filtered[~df_filtered['english']]
         print(f'current available jobs: {df_filtered.shape}')
         return df_filtered.job_id.to_list()
 
@@ -90,7 +79,7 @@ class Mentor():
                 df_matches = pd.DataFrame(list_dict_jobs_scored)
                 df_matches['score'] = df_matches['role_similarity']*float(user[0]['role_weight'])+df_matches['skills_similarity']*(1-float(user[0]['role_weight']))
                 print(f'{'#'*10} user scores: {row['user_id']}\n',df_matches.score.value_counts)
-                df_matches = df_matches[df_matches['score']>=(user[0]['similarity_threshold'])].copy()
+                df_matches = df_matches[df_matches['score']>=float(user[0]['similarity_threshold'])].copy()
                 df_matches['match_id'] = row['user_id']+df_matches['job_id']
                 df_matches['match_date'] = datetime.today().strftime("%Y-%m-%d")
                 df_matches = df_matches[['match_id','match_date','score']].copy()
