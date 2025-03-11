@@ -16,13 +16,11 @@ class Settings:
     MODEL_ID = os.environ["MODEL_ID"]
     EMBEDDING_PATH = os.environ["EMBEDDING_PATH"]
     MATCHES = os.environ["MATCHES"]
-    SIMILARITY_THRESHOLD = os.environ["SIMILARITY_THRESHOLD"]
     USERS_IDS = os.environ["USERS_IDS"]
     OUTPUT_MATCHES = os.environ["OUTPUT_MATCHES"]
     AVAILABLE_TAGS = os.environ["AVAILABLE_TAGS"]
     RETRY_DELAY_SECONDS = os.environ["RETRY_DELAY_SECONDS"]
     MAX_RETRIES = os.environ["MAX_RETRIES"]
-    ROLE_WEIGHT = os.environ["ROLE_WEIGHT"]
 
 # Custom filter to add class and method information
 class ContextFilter(logging.Filter):
@@ -37,24 +35,35 @@ class ContextFilter(logging.Filter):
         record.method_name = frame.f_code.co_name
         return True
 
-# Configure logging
-def setup_logging(logger_name='my_app'):
+def setup_logging(logger_name):
+    """Set up logging configuration for the given logger name."""
+    # Get the logger
     logger = logging.getLogger(logger_name)
+    
+    # Prevent propagation to avoid duplicate logging through parent loggers
+    logger.propagate = False
+    
+    # Remove any existing handlers to prevent duplicates
+    if logger.handlers:
+        logger.handlers.clear()
+    
+    # Set the logging level
     logger.setLevel(logging.INFO)
-
-    # Create a console handler
+    
+    # Create console handler
     console_handler = logging.StreamHandler()
     console_handler.setLevel(logging.INFO)
-
-    # Create a formatter with class and method information
+    
+    # Define the custom formatter
     formatter = logging.Formatter(
         '%(asctime)s - %(name)s - %(levelname)s - %(class_name)s - %(method_name)s - %(message)s'
     )
     console_handler.setFormatter(formatter)
-
-    # Add the custom filter to the logger
-    context_filter = ContextFilter()
-    logger.addFilter(context_filter)
-
+    
+    # Add the custom filter to inject class_name and method_name
+    console_handler.addFilter(ContextFilter())
+    
     # Add the handler to the logger
     logger.addHandler(console_handler)
+    
+    return logger
