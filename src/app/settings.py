@@ -38,8 +38,8 @@ class ContextFilter(logging.Filter):
         return True
 
 # Configure logging
-def setup_logging():
-    logger = logging.getLogger('my_app')
+def setup_logging(logger_name='my_app'):
+    logger = logging.getLogger(logger_name)
     logger.setLevel(logging.INFO)
 
     # Create a console handler
@@ -58,6 +58,3 @@ def setup_logging():
 
     # Add the handler to the logger
     logger.addHandler(console_handler)
-
-# Set up logging
-setup_logging()
