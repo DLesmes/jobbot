@@ -82,7 +82,7 @@ class Seeker():
             logger.info("Starting Seeker pipeline execution")
             
             logger.info("Starting preprocessing step")
-            preprocesor.run()
+            #preprocesor.run()
             logger.info("Preprocessing completed")
             
             logger.info("Starting expiring outdated jobs")
@@ -94,7 +94,7 @@ class Seeker():
             logger.info("User embedding completed")
             
             logger.info("Starting job embedding")
-            #embeder.jobs()
+            embeder.jobs()
             logger.info("Job embedding completed")
             
             logger.info("Saving matches through mentor service")
