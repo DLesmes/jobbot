@@ -86,19 +86,19 @@ class Seeker():
             logger.info("Preprocessing completed")
             
             logger.info("Starting expiring outdated jobs")
-            expirer.update()
+            #expirer.update()
             logger.info("Jobs expiration completed")
             
             logger.info("Starting user embedding")
-            embeder.users()
+            #embeder.users()
             logger.info("User embedding completed")
             
             logger.info("Starting job embedding")
-            embeder.jobs()
+            #embeder.jobs()
             logger.info("Job embedding completed")
             
             logger.info("Saving matches through mentor service")
-            mentor.save_matches()
+            #mentor.save_matches()
             
             logger.info(f"Processing matches for {len(self.user_ids)} users")
             for user_id in self.user_ids:

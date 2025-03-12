@@ -46,27 +46,25 @@ class Embeder():
                     'job_titles'
                 ]
             ].copy()
-            # skills embeds
-            df_missing_embeds['skills'] = df_missing_embeds['skills'].apply(lambda x: " ".join(x))
-            df_missing_embeds['embed'] = torch.stack(list(clip.embed(df_missing_embeds['skills'].to_list()))).cpu().numpy().tolist()
-            # role embeds
+            # role and skill embeds
             list_dict_roles_users = df_missing_embeds.to_dict(orient='records')
             list_dict_roles_embeds = [
                 {
                     **roles,
+                    'skills_embeds':torch.stack(list(clip.embed(roles['skills']))).cpu(),
                     'roles_embeds':torch.stack(list(clip.embed(roles['job_titles']))).cpu()
                 } for roles in list_dict_roles_users
             ]
             list_dict_role_avg_embeds = [
                 {
                     'user_id':roles['user_id'],
-                    'embed':roles['embed'],
+                    'avg_skill_embeds': (sum(roles['skills_embeds'])/len(roles['skills_embeds'])).numpy().tolist(),
                     'avg_role_embeds': (sum(roles['roles_embeds'])/len(roles['roles_embeds'])).numpy().tolist()
                 } for roles in list_dict_roles_embeds
             ]
             df_missing_embeds = pd.DataFrame(list_dict_role_avg_embeds)
         else:
-            df_missing_embeds = pd.DataFrame(columns=['user_id','embed','avg_role_embeds'])
+            df_missing_embeds = pd.DataFrame(columns=['user_id','avg_skill_embeds','avg_role_embeds'])
         
         df_embeds = pd.concat([df_missing_embeds, df_last_embeds])
         df_embeds.drop_duplicates(
@@ -97,17 +95,32 @@ class Embeder():
             ][
                 [
                     'job_id',
-                    'description',
+                    'skills',
                     'vacancy_name'
                 ]
             ][:5000].copy()
             print(f'Missing jobs to embed {len(df_missing_embeds)}')
-            # embedding
-            df_missing_embeds['embed'] = torch.stack(list(clip.embed(df_missing_embeds['description'].to_list()))).cpu().numpy().tolist()
+            # role embedding
             df_missing_embeds['role_embeds'] = torch.stack(list(clip.embed(df_missing_embeds['vacancy_name'].to_list()))).cpu().numpy().tolist()
-            df_missing_embeds = df_missing_embeds[['job_id','embed','role_embeds']].copy()
+            df_missing_embeds = df_missing_embeds[['job_id','skills','role_embeds']].copy()
+            list_dict_missing_jobs = df_missing_embeds.to_dict(orient='records')
+            # skills embedding
+            list_dict_roles_embeds = [
+                {
+                    **roles,
+                    'skills_embeds':torch.stack(list(clip.embed(roles['skills']))).cpu()
+                } for roles in list_dict_missing_jobs
+            ]
+            list_dict_missing_avg_embeds = [
+                {
+                    'user_id':roles['user_id'],
+                    'role_embeds': roles['role_embeds'],
+                    'avg_skill_embeds': (sum(roles['skills_embeds'])/len(roles['skills_embeds'])).numpy().tolist()
+                } for roles in list_dict_roles_embeds
+            ]
+            df_missing_embeds = pd.DataFrame(list_dict_missing_avg_embeds)
         else:
-            df_missing_embeds = pd.DataFrame(columns=['job_id','embed','role_embeds'])
+            df_missing_embeds = pd.DataFrame(columns=['job_id','avg_skill_embeds','role_embeds'])
         
         df_embeds = pd.concat([df_missing_embeds, df_last_embeds])
         df_embeds.drop_duplicates(
