@@ -23,6 +23,7 @@ class Preprocesor:
         self.filter_params = ast.literal_eval(settings.FILTER_PARAMS)
         self.job_offers = settings.JOB_OFFERS
         self.data_jobs = settings.DATA_JOBS
+        self.gral_skills = settings.SKILLS
         self.namespace = uuid.NAMESPACE_DNS
     
     def extract(self, path: str):
@@ -56,6 +57,15 @@ class Preprocesor:
                 na=False
             )
         )
+        # setting the skills
+        df_skills = self.extract(self.gral_skills)
+        gral_skills = df_skills.skills.to_list()
+        df_raw['skills'] = df_raw['description'].apply(
+            lambda x: [
+                skill for skill in gral_skills
+                if skill in x.lower()
+            ]
+        )
         df_preprocessed = self.extract(path=self.job_offers)
         df_concated = pd.concat([df_raw,df_preprocessed])
         df_concated.drop_duplicates(
@@ -65,6 +75,11 @@ class Preprocesor:
         )
         df_concated.dropna(
             subset=['remote'],
+            inplace=True,
+            ignore_index=True
+        )
+        df_concated.dropna(
+            subset=['skills'],
             inplace=True,
             ignore_index=True
         )
@@ -91,18 +106,14 @@ class Preprocesor:
         )
         # drop duplicates
         df.drop_duplicates(
-            subset=[
-                'link'
-            ],
+            subset=['link'],
             keep = 'first',
             inplace = True,
             ignore_index = True
         )
         print(df.shape)
         df.drop_duplicates(
-            subset=[
-                'description'
-            ],
+            subset=['description'],
             keep = 'first',
             inplace = True,
             ignore_index = True

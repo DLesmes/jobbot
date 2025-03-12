@@ -21,6 +21,7 @@ class Settings:
     AVAILABLE_TAGS = os.environ["AVAILABLE_TAGS"]
     RETRY_DELAY_SECONDS = os.environ["RETRY_DELAY_SECONDS"]
     MAX_RETRIES = os.environ["MAX_RETRIES"]
+    SKILLS = os.environ["SKILLS"]
 
 # Custom filter to add class and method information
 class ContextFilter(logging.Filter):

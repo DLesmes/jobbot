@@ -160,6 +160,14 @@ x = np.array(list(a['count']))
 sns.barplot(x=x, y=y, palette="rocket", hue=y, legend=False)
 plt.grid(True)
 plt.title("'publication_date'")
+#%% [markdown]
+# # skills
+df_skills = pd.read_json('../data/general_skills.json')
+print(df_skills.shape)
+df_skills.drop_duplicates(inplace=True)
+df_skills['skills'] = df_skills['skills'].apply(lambda x: x.lower())
+print(df_skills.shape)
+df_skills.to_json('../data/general_skills.json')
 #%%[markdown]
 # # Job title description file
 industries = [
