@@ -82,7 +82,7 @@ class Seeker():
             logger.info("Starting Seeker pipeline execution")
             
             logger.info("Starting preprocessing step")
-            #preprocesor.run()
+            preprocesor.run()
             logger.info("Preprocessing completed")
             
             logger.info("Starting expiring outdated jobs")
@@ -94,11 +94,11 @@ class Seeker():
             logger.info("User embedding completed")
             
             logger.info("Starting job embedding")
-            embeder.jobs()
+            #embeder.jobs()
             logger.info("Job embedding completed")
             
             logger.info("Saving matches through mentor service")
-            mentor.save_matches()
+            #mentor.save_matches()
             
             logger.info(f"Processing matches for {len(self.user_ids)} users")
             for user_id in self.user_ids:

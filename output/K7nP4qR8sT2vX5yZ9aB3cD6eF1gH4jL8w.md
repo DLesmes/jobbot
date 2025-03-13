@@ -21,32 +21,25 @@
 | [Fullstack Developer](https://co.linkedin.com/jobs/view/fullstack-developer-at-variacode-4182955211) | 92.08% | 2025-03-12 |
 | [Senior Python Developer](https://co.linkedin.com/jobs/view/senior-python-developer-at-epam-systems-4157753592) | 92.07% | 2025-03-12 |
 | [Senior AI Specialist Python, AWS, Azure](https://co.linkedin.com/jobs/view/senior-ai-specialist-python-aws-azure-at-oowlish-4136585850) | 92.00% | 2025-03-12 |
-| [Senior Python Developer](https://co.linkedin.com/jobs/view/senior-python-developer-at-epam-systems-4157754625) | 91.99% | 2025-03-12 |
 | [Senior Python Developer](https://co.linkedin.com/jobs/view/senior-python-developer-at-epam-systems-4157759312) | 91.95% | 2025-03-12 |
-| [Senior Python Developer](https://co.linkedin.com/jobs/view/senior-python-developer-at-epam-systems-4157756548) | 91.95% | 2025-03-12 |
 | [Senior Python Developer](https://co.linkedin.com/jobs/view/senior-python-developer-at-epam-systems-4157758288) | 91.95% | 2025-03-12 |
 | [Senior Python Developer](https://co.linkedin.com/jobs/view/senior-python-developer-at-epam-systems-4157757393) | 91.91% | 2025-03-12 |
 | [Senior Python Developer](https://co.linkedin.com/jobs/view/senior-python-developer-at-epam-systems-4157756578) | 91.90% | 2025-03-12 |
 | [Senior Python Developer](https://co.linkedin.com/jobs/view/senior-python-developer-at-epam-systems-4157752972) | 91.86% | 2025-03-12 |
 | [Senior Python Developer](https://co.linkedin.com/jobs/view/senior-python-developer-at-epam-systems-4157755576) | 91.86% | 2025-03-12 |
-| [Senior Python Developer](https://co.linkedin.com/jobs/view/senior-python-developer-at-epam-systems-4157752981) | 91.84% | 2025-03-12 |
 | [Senior Python Developer](https://co.linkedin.com/jobs/view/senior-python-developer-at-epam-systems-4157752994) | 91.80% | 2025-03-12 |
 | [Senior Python Developer](https://co.linkedin.com/jobs/view/senior-python-developer-at-epam-systems-4157756470) | 91.80% | 2025-03-12 |
-| [Senior Python Developer](https://co.linkedin.com/jobs/view/senior-python-developer-at-epam-systems-4157752946) | 91.79% | 2025-03-12 |
 | [Senior Python Developer](https://co.linkedin.com/jobs/view/senior-python-developer-at-epam-systems-4157752971) | 91.75% | 2025-03-12 |
-| [Senior Python Developer](https://co.linkedin.com/jobs/view/senior-python-developer-at-epam-systems-4157759270) | 91.64% | 2025-03-12 |
 | [Senior Python Developer](https://co.linkedin.com/jobs/view/senior-python-developer-at-epam-systems-4157756562) | 91.64% | 2025-03-12 |
 | [Senior Python Developer](https://co.linkedin.com/jobs/view/senior-python-developer-at-epam-systems-4157753700) | 91.63% | 2025-03-12 |
 | [Senior Python Developer](https://co.linkedin.com/jobs/view/senior-python-developer-at-epam-systems-4157754660) | 91.60% | 2025-03-12 |
 | [Senior Python Developer](https://co.linkedin.com/jobs/view/senior-python-developer-at-epam-systems-4157758221) | 91.59% | 2025-03-12 |
-| [Senior Python Developer](https://co.linkedin.com/jobs/view/senior-python-developer-at-epam-systems-4157754662) | 91.58% | 2025-03-12 |
 | [Senior Python Developer](https://co.linkedin.com/jobs/view/senior-python-developer-at-epam-systems-4157759193) | 91.58% | 2025-03-12 |
+| [Senior Python Developer](https://co.linkedin.com/jobs/view/senior-python-developer-at-epam-systems-4157754662) | 91.58% | 2025-03-12 |
 | [Senior Python Developer](https://co.linkedin.com/jobs/view/senior-python-developer-at-epam-systems-4157758325) | 91.55% | 2025-03-12 |
 | [Senior Python Software Engineer](https://co.linkedin.com/jobs/view/senior-python-software-engineer-at-epam-systems-4157755546) | 91.54% | 2025-03-12 |
-| [Senior Python Developer](https://co.linkedin.com/jobs/view/senior-python-developer-at-epam-systems-4157752942) | 91.53% | 2025-03-12 |
 | [Senior Python Developer](https://co.linkedin.com/jobs/view/senior-python-developer-at-epam-systems-4157756582) | 91.52% | 2025-03-12 |
 | [Senior Python Developer](https://co.linkedin.com/jobs/view/senior-python-developer-at-epam-systems-4157753726) | 91.50% | 2025-03-12 |
-| [Senior Python Developer](https://co.linkedin.com/jobs/view/senior-python-developer-at-epam-systems-4157756541) | 91.49% | 2025-03-12 |
 | [Senior Python Developer](https://co.linkedin.com/jobs/view/senior-python-developer-at-epam-systems-4157753646) | 91.45% | 2025-03-12 |
 | [Technical Recruiter - Remote - Worldwide](https://co.linkedin.com/jobs/view/technical-recruiter-remote-worldwide-at-jobgether-4180069902) | 91.39% | 2025-03-12 |
 | [Senior Python Developer](https://co.linkedin.com/jobs/view/senior-python-developer-at-epam-systems-4157753595) | 91.29% | 2025-03-12 |
@@ -90,10 +83,9 @@
 | [Senior Data Engineer](https://co.linkedin.com/jobs/view/senior-data-engineer-at-parser-4182106413) | 94.86% | 2025-03-11 |
 | [AI and Engineering Operations Lead](https://co.linkedin.com/jobs/view/ai-and-engineering-operations-lead-at-nextminder-4182309155) | 94.41% | 2025-03-11 |
 | [Software Engineer I](https://co.linkedin.com/jobs/view/software-engineer-i-at-anthology-inc-4105256702) | 93.27% | 2025-03-11 |
-| [Senior Developer](https://co.linkedin.com/jobs/view/senior-developer-at-epam-systems-4182129063) | 93.08% | 2025-03-11 |
 | [Senior Developer](https://co.linkedin.com/jobs/view/senior-developer-at-epam-systems-4182128284) | 93.08% | 2025-03-11 |
+| [Senior Developer](https://co.linkedin.com/jobs/view/senior-developer-at-epam-systems-4182129063) | 93.08% | 2025-03-11 |
 | [Senior .NET Developer](https://co.linkedin.com/jobs/view/senior-net-developer-at-epam-systems-4182131027) | 92.61% | 2025-03-11 |
-| [Senior Developer](https://co.linkedin.com/jobs/view/senior-developer-at-epam-systems-4182127286) | 92.19% | 2025-03-11 |
 | [Senior Developer](https://co.linkedin.com/jobs/view/senior-developer-at-epam-systems-4182129080) | 92.19% | 2025-03-11 |
 | [Senior Python Developer](https://co.linkedin.com/jobs/view/senior-python-developer-at-globalnow-it-inc-4173832841) | 92.17% | 2025-03-11 |
 | [Front-End Developer](https://co.linkedin.com/jobs/view/front-end-developer-at-epam-systems-4182130053) | 91.95% | 2025-03-11 |
@@ -120,8 +112,8 @@
 | [Business Associate](https://co.linkedin.com/jobs/view/business-associate-at-hire-with-near-4182086202) | 89.50% | 2025-03-11 |
 | [Senior JavaScript Developer](https://co.linkedin.com/jobs/view/senior-javascript-developer-at-epam-systems-4182130035) | 89.44% | 2025-03-11 |
 | [Senior JavaScript Software Engineer](https://co.linkedin.com/jobs/view/senior-javascript-software-engineer-at-epam-systems-4182129042) | 89.31% | 2025-03-11 |
-| [Senior JavaScript Software Engineer](https://co.linkedin.com/jobs/view/senior-javascript-software-engineer-at-epam-systems-4182123890) | 89.28% | 2025-03-11 |
 | [Senior JavaScript Software Engineer](https://co.linkedin.com/jobs/view/senior-javascript-software-engineer-at-epam-systems-4182127291) | 89.28% | 2025-03-11 |
+| [Senior JavaScript Software Engineer](https://co.linkedin.com/jobs/view/senior-javascript-software-engineer-at-epam-systems-4182123890) | 89.28% | 2025-03-11 |
 | [Senior JavaScript Developer](https://co.linkedin.com/jobs/view/senior-javascript-developer-at-epam-systems-4182126332) | 89.09% | 2025-03-11 |
 | [Senior ReactJS Engineer](https://co.linkedin.com/jobs/view/senior-reactjs-engineer-at-epam-systems-4182124636) | 88.90% | 2025-03-11 |
 | [Senior JavaScript Developer](https://co.linkedin.com/jobs/view/senior-javascript-developer-at-epam-systems-4182126314) | 88.90% | 2025-03-11 |
@@ -129,8 +121,8 @@
 | [Senior JavaScript Software Engineer](https://co.linkedin.com/jobs/view/senior-javascript-software-engineer-at-epam-systems-4182129057) | 88.90% | 2025-03-11 |
 | [Procurement Specialist](https://co.linkedin.com/jobs/view/procurement-specialist-at-whizz-4182332840) | 88.89% | 2025-03-11 |
 | [Senior ReactJS Developer](https://co.linkedin.com/jobs/view/senior-reactjs-developer-at-epam-systems-4182128275) | 88.84% | 2025-03-11 |
-| [Senior ReactJS Developer](https://co.linkedin.com/jobs/view/senior-reactjs-developer-at-epam-systems-4182126327) | 88.84% | 2025-03-11 |
 | [Senior ReactJS Developer](https://co.linkedin.com/jobs/view/senior-reactjs-developer-at-epam-systems-4182123902) | 88.84% | 2025-03-11 |
+| [Senior ReactJS Developer](https://co.linkedin.com/jobs/view/senior-reactjs-developer-at-epam-systems-4182126327) | 88.84% | 2025-03-11 |
 | [Senior ReactJS Developer](https://co.linkedin.com/jobs/view/senior-reactjs-developer-at-epam-systems-4182124632) | 88.79% | 2025-03-11 |
 | [Senior JavaScript Software Engineer](https://co.linkedin.com/jobs/view/senior-javascript-software-engineer-at-epam-systems-4182121976) | 88.76% | 2025-03-11 |
 | [Senior ReactJS Developer](https://co.linkedin.com/jobs/view/senior-reactjs-developer-at-epam-systems-4182129070) | 88.73% | 2025-03-11 |
@@ -147,7 +139,6 @@
 | [Sales development representative bilingue](https://co.linkedin.com/jobs/view/sales-development-representative-bilingue-at-open-english-4182196994) | 86.09% | 2025-03-11 |
 | [Amazon Channel Growth Manager](https://co.linkedin.com/jobs/view/amazon-channel-growth-manager-at-toniiq-4182187960) | 85.95% | 2025-03-11 |
 | [Senior JavaScript Software Engineer React](https://co.linkedin.com/jobs/view/senior-javascript-software-engineer-react-at-epam-systems-4182125333) | 85.52% | 2025-03-11 |
-| [Senior JavaScript Software Engineer React](https://co.linkedin.com/jobs/view/senior-javascript-software-engineer-react-at-epam-systems-4182354928) | 85.52% | 2025-03-11 |
-| [Marketing Coordinator LATAM](https://co.linkedin.com/jobs/view/marketing-coordinator-latam-at-onebeat-4182301301) | 85.12% | 2025-03-11 |
 | [Marketing Coordinator LATAM](https://co.linkedin.com/jobs/view/marketing-coordinator-latam-at-onebeat-4182146468) | 85.12% | 2025-03-11 |
+| [Marketing Coordinator LATAM](https://co.linkedin.com/jobs/view/marketing-coordinator-latam-at-onebeat-4182301301) | 85.12% | 2025-03-11 |
 | [Private Equity Sr. Associate / VP](https://co.linkedin.com/jobs/view/private-equity-sr-associate-vp-at-confrapar-4178515703) | 83.35% | 2025-03-11 |
