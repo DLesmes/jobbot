@@ -9,6 +9,5 @@ from src.app.controllers.seeker import Seeker
 seeker = Seeker()
 
 if __name__== '__main__':
-    logger.info('running the job seeker...')
     seeker.run()
     

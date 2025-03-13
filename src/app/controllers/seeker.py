@@ -98,7 +98,7 @@ class Seeker():
             logger.info("Job embedding completed")
             
             logger.info("Saving matches through mentor service")
-            #mentor.save_matches()
+            mentor.save_matches()
             
             logger.info(f"Processing matches for {len(self.user_ids)} users")
             for user_id in self.user_ids:

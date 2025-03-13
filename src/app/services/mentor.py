@@ -66,8 +66,8 @@ class Mentor():
                     {
                         **job,
                         'skills_similarity': cosine_similarity_numpy(
-                            job['embed'],
-                            row['embed']
+                            job['avg_skill_embeds'],
+                            row['avg_skill_embeds']
                         ),
                         'role_similarity': cosine_similarity_numpy(
                             job['role_embeds'],

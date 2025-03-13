@@ -7,7 +7,6 @@ import torch
 import pandas as pd
 import pyarrow as pa
 import pyarrow.parquet as pq
-
 # repo imports
 from src.app.utils import open_json
 from src.app.settings import Settings
@@ -108,7 +107,7 @@ class Embeder():
                     'skills',
                     'vacancy_name'
                 ]
-            ][:10].copy()
+            ][:5000].copy()
             print(f'Missing jobs to embed {len(df_missing_embeds)}')
             # role embedding
             df_missing_embeds['role_embeds'] = torch.stack(list(clip.embed(df_missing_embeds['vacancy_name'].to_list()))).cpu().numpy().tolist()
@@ -123,7 +122,7 @@ class Embeder():
             ]
             list_dict_missing_avg_embeds = [
                 {
-                    'user_id':roles['job_id'],
+                    'job_id':roles['job_id'],
                     'role_embeds': roles['role_embeds'],
                     'avg_skill_embeds': (sum(roles['skills_embeds'])/len(roles['skills_embeds'])).numpy().tolist()
                 } for roles in list_dict_roles_embeds
