@@ -57,9 +57,9 @@
 | [Creative Operations Specialist](https://co.linkedin.com/jobs/view/creative-operations-specialist-at-storm-ideas-4178758488) | 90.24% | 2025-03-12 |
 | [Senior Front-end Developer](https://co.linkedin.com/jobs/view/senior-front-end-developer-at-epam-systems-4128243962) | 90.21% | 2025-03-12 |
 | [Salesforce Developer](https://co.linkedin.com/jobs/view/salesforce-developer-at-launchpad-technologies-inc-4182370352) | 90.16% | 2025-03-12 |
-| [Senior Python Developer](https://co.linkedin.com/jobs/view/senior-python-developer-at-epam-systems-4157754591) | 89.97% | 2025-03-12 |
-| [Senior Python Developer](https://co.linkedin.com/jobs/view/senior-python-developer-at-epam-systems-4157757473) | 89.97% | 2025-03-12 |
 | [Senior Python Developer](https://co.linkedin.com/jobs/view/senior-python-developer-at-epam-systems-4157757465) | 89.97% | 2025-03-12 |
+| [Senior Python Developer](https://co.linkedin.com/jobs/view/senior-python-developer-at-epam-systems-4157757473) | 89.97% | 2025-03-12 |
+| [Senior Python Developer](https://co.linkedin.com/jobs/view/senior-python-developer-at-epam-systems-4157754591) | 89.97% | 2025-03-12 |
 | [Level 2 Application Support Specialist](https://co.linkedin.com/jobs/view/level-2-application-support-specialist-at-oracle-4092860323) | 89.76% | 2025-03-12 |
 | [Training Lab Manager](https://co.linkedin.com/jobs/view/training-lab-manager-at-radware-4153858018) | 89.55% | 2025-03-12 |
 | [Senior JavaScript Developer](https://co.linkedin.com/jobs/view/senior-javascript-developer-at-epam-systems-4128242933) | 89.32% | 2025-03-12 |
@@ -76,15 +76,13 @@
 | [Financial Accountant - Remote - Colombia](https://co.linkedin.com/jobs/view/financial-accountant-remote-colombia-at-jobgether-4180071607) | 87.12% | 2025-03-12 |
 | [Senior Paid Ads Manager](https://co.linkedin.com/jobs/view/senior-paid-ads-manager-at-algofy-4182771765) | 86.86% | 2025-03-12 |
 | [Team Lead of Content Moderators CO](https://co.linkedin.com/jobs/view/team-lead-of-content-moderators-co-at-centro-ortnec-4182761611) | 86.74% | 2025-03-12 |
-| [Sales Representative – Drive Leasing Success from Anywhere](https://co.linkedin.com/jobs/view/sales-representative-%E2%80%93-drive-leasing-success-from-anywhere-at-select-assistants-4182463955) | 85.96% | 2025-03-12 |
-| [Social Media Manager – Elevate Luxury Content Online](https://co.linkedin.com/jobs/view/social-media-manager-%E2%80%93-elevate-luxury-content-online-at-select-assistants-4182466744) | 83.53% | 2025-03-12 |
 | [Machine Learning Engineer](https://co.linkedin.com/jobs/view/machine-learning-engineer-at-clara-4182357744) | 97.57% | 2025-03-11 |
 | [Senior Data Engineer](https://co.linkedin.com/jobs/view/senior-data-engineer-at-valenta-4179873631) | 95.15% | 2025-03-11 |
 | [Senior Data Engineer](https://co.linkedin.com/jobs/view/senior-data-engineer-at-parser-4182106413) | 94.86% | 2025-03-11 |
 | [AI and Engineering Operations Lead](https://co.linkedin.com/jobs/view/ai-and-engineering-operations-lead-at-nextminder-4182309155) | 94.41% | 2025-03-11 |
 | [Software Engineer I](https://co.linkedin.com/jobs/view/software-engineer-i-at-anthology-inc-4105256702) | 93.27% | 2025-03-11 |
-| [Senior Developer](https://co.linkedin.com/jobs/view/senior-developer-at-epam-systems-4182128284) | 93.08% | 2025-03-11 |
 | [Senior Developer](https://co.linkedin.com/jobs/view/senior-developer-at-epam-systems-4182129063) | 93.08% | 2025-03-11 |
+| [Senior Developer](https://co.linkedin.com/jobs/view/senior-developer-at-epam-systems-4182128284) | 93.08% | 2025-03-11 |
 | [Senior .NET Developer](https://co.linkedin.com/jobs/view/senior-net-developer-at-epam-systems-4182131027) | 92.61% | 2025-03-11 |
 | [Senior Developer](https://co.linkedin.com/jobs/view/senior-developer-at-epam-systems-4182129080) | 92.19% | 2025-03-11 |
 | [Senior Python Developer](https://co.linkedin.com/jobs/view/senior-python-developer-at-globalnow-it-inc-4173832841) | 92.17% | 2025-03-11 |
@@ -112,8 +110,8 @@
 | [Business Associate](https://co.linkedin.com/jobs/view/business-associate-at-hire-with-near-4182086202) | 89.50% | 2025-03-11 |
 | [Senior JavaScript Developer](https://co.linkedin.com/jobs/view/senior-javascript-developer-at-epam-systems-4182130035) | 89.44% | 2025-03-11 |
 | [Senior JavaScript Software Engineer](https://co.linkedin.com/jobs/view/senior-javascript-software-engineer-at-epam-systems-4182129042) | 89.31% | 2025-03-11 |
-| [Senior JavaScript Software Engineer](https://co.linkedin.com/jobs/view/senior-javascript-software-engineer-at-epam-systems-4182127291) | 89.28% | 2025-03-11 |
 | [Senior JavaScript Software Engineer](https://co.linkedin.com/jobs/view/senior-javascript-software-engineer-at-epam-systems-4182123890) | 89.28% | 2025-03-11 |
+| [Senior JavaScript Software Engineer](https://co.linkedin.com/jobs/view/senior-javascript-software-engineer-at-epam-systems-4182127291) | 89.28% | 2025-03-11 |
 | [Senior JavaScript Developer](https://co.linkedin.com/jobs/view/senior-javascript-developer-at-epam-systems-4182126332) | 89.09% | 2025-03-11 |
 | [Senior ReactJS Engineer](https://co.linkedin.com/jobs/view/senior-reactjs-engineer-at-epam-systems-4182124636) | 88.90% | 2025-03-11 |
 | [Senior JavaScript Developer](https://co.linkedin.com/jobs/view/senior-javascript-developer-at-epam-systems-4182126314) | 88.90% | 2025-03-11 |
@@ -121,8 +119,8 @@
 | [Senior JavaScript Software Engineer](https://co.linkedin.com/jobs/view/senior-javascript-software-engineer-at-epam-systems-4182129057) | 88.90% | 2025-03-11 |
 | [Procurement Specialist](https://co.linkedin.com/jobs/view/procurement-specialist-at-whizz-4182332840) | 88.89% | 2025-03-11 |
 | [Senior ReactJS Developer](https://co.linkedin.com/jobs/view/senior-reactjs-developer-at-epam-systems-4182128275) | 88.84% | 2025-03-11 |
-| [Senior ReactJS Developer](https://co.linkedin.com/jobs/view/senior-reactjs-developer-at-epam-systems-4182123902) | 88.84% | 2025-03-11 |
 | [Senior ReactJS Developer](https://co.linkedin.com/jobs/view/senior-reactjs-developer-at-epam-systems-4182126327) | 88.84% | 2025-03-11 |
+| [Senior ReactJS Developer](https://co.linkedin.com/jobs/view/senior-reactjs-developer-at-epam-systems-4182123902) | 88.84% | 2025-03-11 |
 | [Senior ReactJS Developer](https://co.linkedin.com/jobs/view/senior-reactjs-developer-at-epam-systems-4182124632) | 88.79% | 2025-03-11 |
 | [Senior JavaScript Software Engineer](https://co.linkedin.com/jobs/view/senior-javascript-software-engineer-at-epam-systems-4182121976) | 88.76% | 2025-03-11 |
 | [Senior ReactJS Developer](https://co.linkedin.com/jobs/view/senior-reactjs-developer-at-epam-systems-4182129070) | 88.73% | 2025-03-11 |
@@ -139,6 +137,6 @@
 | [Sales development representative bilingue](https://co.linkedin.com/jobs/view/sales-development-representative-bilingue-at-open-english-4182196994) | 86.09% | 2025-03-11 |
 | [Amazon Channel Growth Manager](https://co.linkedin.com/jobs/view/amazon-channel-growth-manager-at-toniiq-4182187960) | 85.95% | 2025-03-11 |
 | [Senior JavaScript Software Engineer React](https://co.linkedin.com/jobs/view/senior-javascript-software-engineer-react-at-epam-systems-4182125333) | 85.52% | 2025-03-11 |
-| [Marketing Coordinator LATAM](https://co.linkedin.com/jobs/view/marketing-coordinator-latam-at-onebeat-4182146468) | 85.12% | 2025-03-11 |
 | [Marketing Coordinator LATAM](https://co.linkedin.com/jobs/view/marketing-coordinator-latam-at-onebeat-4182301301) | 85.12% | 2025-03-11 |
+| [Marketing Coordinator LATAM](https://co.linkedin.com/jobs/view/marketing-coordinator-latam-at-onebeat-4182146468) | 85.12% | 2025-03-11 |
 | [Private Equity Sr. Associate / VP](https://co.linkedin.com/jobs/view/private-equity-sr-associate-vp-at-confrapar-4178515703) | 83.35% | 2025-03-11 |
