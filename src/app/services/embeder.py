@@ -32,11 +32,6 @@ class Embeder():
         # previows users
         df_last_embeds = retriever.get_last_embed('users')
         df_last_embeds = df_last_embeds[df_last_embeds['user_id'].isin(df_available_users['user_id'])].copy()
-        df_last_embeds.drop(
-            ['embed'],
-            axis=1,
-            inplace=True
-        )
         
         missing_embeds = list(set(df_available_users.user_id)-set(df_last_embeds.user_id))
         if len(missing_embeds) > 0:
@@ -91,11 +86,6 @@ class Embeder():
         df_available_jobs = pd.DataFrame(available_jobs_list)
         # previows jobs
         df_last_embeds = retriever.get_last_embed('jobs')
-        df_last_embeds.drop(
-            ['embed'],
-            axis=1,
-            inplace=True
-        )
         
         missing_embeds = list(set(df_available_jobs.job_id)-set(df_last_embeds.job_id))
         if len(missing_embeds) > 0:
