@@ -82,11 +82,11 @@ class Seeker():
             logger.info("Starting Seeker pipeline execution")
             
             logger.info("Starting preprocessing step")
-            #preprocesor.run()
+            preprocesor.run()
             logger.info("Preprocessing completed")
             
             logger.info("Starting expiring outdated jobs")
-            #expirer.update()
+            expirer.update()
             logger.info("Jobs expiration completed")
             
             logger.info("Starting user embedding")
