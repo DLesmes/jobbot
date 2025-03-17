@@ -3,7 +3,14 @@
 |---|---|---|
 | [Sr. Front End Engineer](https://co.linkedin.com/jobs/view/sr-front-end-engineer-at-aha%21-4186605174) | 91.83% | 2025-03-16 |
 | [Sr. Platform Engineer](https://co.linkedin.com/jobs/view/sr-platform-engineer-at-aha%21-4186600802) | 91.68% | 2025-03-16 |
+| [Sales and Client Development Specialist](https://co.linkedin.com/jobs/view/sales-and-client-development-specialist-at-select-assistants-4186884160) | 89.38% | 2025-03-16 |
+| [DevOps Engineer - Remote - Colombia](https://co.linkedin.com/jobs/view/devops-engineer-remote-colombia-at-fullstack-labs-3972751778) | 88.54% | 2025-03-16 |
+| [Lead Ruby on Rails Engineer](https://co.linkedin.com/jobs/view/lead-ruby-on-rails-engineer-at-aha%21-4186603237) | 88.34% | 2025-03-16 |
+| [eCommerce Brand Manager](https://co.linkedin.com/jobs/view/ecommerce-brand-manager-at-autobrush-4186851259) | 87.84% | 2025-03-16 |
 | [Sr. Ruby on Rails Engineer Knowledge](https://co.linkedin.com/jobs/view/sr-ruby-on-rails-engineer-knowledge-at-aha%21-4186606111) | 86.51% | 2025-03-16 |
+| [SuccessFactors Training Lead](https://co.linkedin.com/jobs/view/successfactors-training-lead-at-agile-dream-team-4186876888) | 86.48% | 2025-03-16 |
+| [Sr. Ruby on Rails Engineer Frameworks](https://co.linkedin.com/jobs/view/sr-ruby-on-rails-engineer-frameworks-at-aha%21-4186605169) | 85.71% | 2025-03-16 |
+| [Ejecutivo de cuentas multinacionales seguros](https://co.linkedin.com/jobs/view/ejecutivo-de-cuentas-multinacionales-seguros-at-mygwork-lgbtq%2B-business-community-4183733416) | 81.73% | 2025-03-16 |
 | [Reporting, Data & Analytics Supervisor](https://co.linkedin.com/jobs/view/reporting-data-analytics-supervisor-at-ups-4185512851) | 91.41% | 2025-03-15 |
 | [Technical Application Support Analyst](https://co.linkedin.com/jobs/view/technical-application-support-analyst-at-aci-worldwide-3985048419) | 91.35% | 2025-03-15 |
 | [Senior React Native Engineer](https://co.linkedin.com/jobs/view/senior-react-native-engineer-at-oowlish-4161529096) | 90.56% | 2025-03-15 |
@@ -95,8 +102,8 @@
 | [Data Engineer](https://co.linkedin.com/jobs/view/data-engineer-at-agile-dream-team-4181555418) | 96.19% | 2025-03-13 |
 | [Senior AI NLP Engineer](https://co.linkedin.com/jobs/view/senior-ai-nlp-engineer-at-parser-4184264637) | 95.34% | 2025-03-13 |
 | [People Analytics Engineer](https://co.linkedin.com/jobs/view/people-analytics-engineer-at-deel-4180505273) | 94.56% | 2025-03-13 |
-| [Data Engineer - Remote](https://co.linkedin.com/jobs/view/data-engineer-remote-at-indi-staffing-services-4183847531) | 94.32% | 2025-03-13 |
 | [Software Development Engineer](https://co.linkedin.com/jobs/view/software-development-engineer-at-amadeus-4183197766) | 94.32% | 2025-03-13 |
+| [Data Engineer - Remote](https://co.linkedin.com/jobs/view/data-engineer-remote-at-indi-staffing-services-4183847531) | 94.32% | 2025-03-13 |
 | [Staff Software Engineer](https://co.linkedin.com/jobs/view/staff-software-engineer-at-goods-services-4166511586) | 93.25% | 2025-03-13 |
 | [Software Architect](https://co.linkedin.com/jobs/view/software-architect-at-jikkosoft-4184030196) | 92.71% | 2025-03-13 |
 | [Marketing Data Analyst](https://co.linkedin.com/jobs/view/marketing-data-analyst-at-power-digital-marketing-4179916625) | 92.52% | 2025-03-13 |
