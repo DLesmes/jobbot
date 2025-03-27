@@ -301,8 +301,8 @@ class Retriever:
             df_jobs = pd.DataFrame(dict_jobs)
             dict_matches = open_json(self.matches)
             df_matches = pd.DataFrame(dict_matches)
-            df_matches['user_id'] = df_matches['match_id'].apply(lambda x: str(x)[:33])
-            df_matches['job_id'] = df_matches['match_id'].apply(lambda x: str(x)[33:])
+            df_matches['user_id'] = df_matches['match_id'].apply(lambda x: str(x).split('|')[0])
+            df_matches['job_id'] = df_matches['match_id'].apply(lambda x: str(x).split('|')[1])
             df_matches_user = df_matches[df_matches['user_id'] == user_id].copy()
             df_matches_user.index = df_matches_user.job_id
             dict_matches_user = df_matches_user['score'].to_dict()

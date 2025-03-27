@@ -126,7 +126,7 @@ class Mentor():
                     logger.info(f'{"#"*10} User scores: {row["user_id"]}\n {df_matches.score.value_counts()}')
                     
                     df_matches = df_matches[df_matches['score']>=float(user[0]['similarity_threshold'])].copy()
-                    df_matches['match_id'] = row['user_id']+df_matches['job_id']
+                    df_matches['match_id'] = row['user_id']+'|'+df_matches['job_id']
                     df_matches['match_date'] = datetime.today().strftime("%Y-%m-%d")
                     df_matches = df_matches[['match_id','match_date','score']].copy()
                     
