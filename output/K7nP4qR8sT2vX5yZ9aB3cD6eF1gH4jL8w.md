@@ -1,6 +1,21 @@
 # 🚀 Latest Job Offers Recommendations!
 | 🗃️ **Job offer** | 🌡️**Score** | 🗓️ **publication_date** |
 |---|---|---|
+| [Machine Learning Engineer](https://co.linkedin.com/jobs/view/machine-learning-engineer-at-emapta-global-4199304102) | 97.43% | 2025-04-07 |
+| [Data Engineer](https://co.linkedin.com/jobs/view/data-engineer-at-urrly-4202288686) | 95.51% | 2025-04-07 |
+| [Data Engineer - Databricks - Senior](https://co.linkedin.com/jobs/view/data-engineer-databricks-senior-at-lumenalta-4202283723) | 91.76% | 2025-04-07 |
+| [Data Engineer - Databricks - Mid Level](https://co.linkedin.com/jobs/view/data-engineer-databricks-mid-level-at-lumenalta-4202288112) | 91.71% | 2025-04-07 |
+| [Sr. Front End Engineer](https://co.linkedin.com/jobs/view/sr-front-end-engineer-at-aha%21-4201981471) | 90.99% | 2025-04-06 |
+| [Sr. Platform Engineer](https://co.linkedin.com/jobs/view/sr-platform-engineer-at-aha%21-4201984027) | 90.84% | 2025-04-06 |
+| [Cold Call Specialist](https://co.linkedin.com/jobs/view/cold-call-specialist-at-gesti%C3%B3n-humana-latam-4202246392) | 90.13% | 2025-04-06 |
+| [Sales Order Processing Analyst](https://co.linkedin.com/jobs/view/sales-order-processing-analyst-at-sanofi-4170324205) | 89.59% | 2025-04-06 |
+| [AWS DevOps Engineer - Senior](https://co.linkedin.com/jobs/view/aws-devops-engineer-senior-at-lumenalta-4202267250) | 89.16% | 2025-04-06 |
+| [Marketing Strategist](https://co.linkedin.com/jobs/view/marketing-strategist-at-superside-4202766133) | 89.12% | 2025-04-06 |
+| [AWS DevOps Engineer - Tech Lead](https://co.linkedin.com/jobs/view/aws-devops-engineer-tech-lead-at-lumenalta-4202265819) | 88.59% | 2025-04-06 |
+| [Case Manager - BPO](https://co.linkedin.com/jobs/view/case-manager-bpo-at-headhunter-4202285109) | 88.46% | 2025-04-06 |
+| [Accounting Associate](https://co.linkedin.com/jobs/view/accounting-associate-at-algiere-construction-services-inc-4202251077) | 87.67% | 2025-04-06 |
+| [Azure DevOps Engineer - Senior](https://co.linkedin.com/jobs/view/azure-devops-engineer-senior-at-lumenalta-4202280325) | 87.12% | 2025-04-06 |
+| [Lead Ruby on Rails Engineer](https://co.linkedin.com/jobs/view/lead-ruby-on-rails-engineer-at-aha%21-4201983038) | 87.04% | 2025-04-06 |
 | [Associate Customer Analyst](https://co.linkedin.com/jobs/view/associate-customer-analyst-at-medtronic-4201146957) | 89.29% | 2025-04-05 |
 | [Talent Sourcer and Insights](https://co.linkedin.com/jobs/view/talent-sourcer-and-insights-at-medtronic-4201146956) | 88.19% | 2025-04-05 |
 | [Senior Principal Engineer- Insights & Personalization Remote: LATAM](https://co.linkedin.com/jobs/view/senior-principal-engineer-insights-personalization-remote-latam-at-autodesk-4201140900) | 87.45% | 2025-04-05 |
@@ -29,7 +44,6 @@
 | [Software Development Engineer - DevOps](https://co.linkedin.com/jobs/view/software-development-engineer-devops-at-emmes-group-4198769477) | 90.21% | 2025-04-04 |
 | [Operations Manager](https://co.linkedin.com/jobs/view/operations-manager-at-hired-remoteli-4199472280) | 90.17% | 2025-04-04 |
 | [Sr. Site Reliability Engineer](https://co.linkedin.com/jobs/view/sr-site-reliability-engineer-at-f%C3%A9lix-4200579971) | 90.16% | 2025-04-04 |
-| [Operations Manager](https://co.linkedin.com/jobs/view/operations-manager-at-blue-fig-recruiting-4201108546) | 90.08% | 2025-04-04 |
 | [Sales Development Representative](https://co.linkedin.com/jobs/view/sales-development-representative-at-ottomatik-io-4199311590) | 89.98% | 2025-04-04 |
 | [BACKEND AEM DEVELOPER](https://co.linkedin.com/jobs/view/backend-aem-developer-at-compensar-4199629483) | 89.96% | 2025-04-04 |
 | [Senior Backend Engineer Node.js/Typescript](https://co.linkedin.com/jobs/view/senior-backend-engineer-node-js-typescript-at-deel-4201134760) | 89.87% | 2025-04-04 |
@@ -47,11 +61,9 @@
 | [Backend Engineer Node.js/Typescript](https://co.linkedin.com/jobs/view/backend-engineer-node-js-typescript-at-deel-4201133746) | 88.14% | 2025-04-04 |
 | [Fullstack Engineer - React, Node, .NET](https://co.linkedin.com/jobs/view/fullstack-engineer-react-node-net-at-terminal-4199117390) | 88.13% | 2025-04-04 |
 | [Associate Marketing & Operations Manager](https://co.linkedin.com/jobs/view/associate-marketing-operations-manager-at-charly-agency-4199494426) | 87.86% | 2025-04-04 |
-| [Presales Solutions Architect](https://co.linkedin.com/jobs/view/presales-solutions-architect-at-hiring-machine-4200959331) | 87.68% | 2025-04-04 |
 | [Transactions Coordinator](https://co.linkedin.com/jobs/view/transactions-coordinator-at-sagan-recruitment-4199301751) | 87.65% | 2025-04-04 |
 | [Senior Software Engineer, LearnwithAI Remote - $100,000/year USD](https://co.linkedin.com/jobs/view/senior-software-engineer-learnwithai-remote-%24100-000-year-usd-at-crossover-4196447645) | 87.56% | 2025-04-04 |
 | [Senior Test Engineer Automation .NET, C# - OP01692](https://co.linkedin.com/jobs/view/senior-test-engineer-automation-net-c%23-op01692-at-dev-pro-4200446476) | 87.53% | 2025-04-04 |
-| [Legal Assistant](https://co.linkedin.com/jobs/view/legal-assistant-at-headhunter-4201305874) | 87.49% | 2025-04-04 |
 | [Middle Full-Stack Software Engineer Node.js, React.js](https://co.linkedin.com/jobs/view/middle-full-stack-software-engineer-node-js-react-js-at-exadel-4200503849) | 87.28% | 2025-04-04 |
 | [Growth & Performance Specialist](https://co.linkedin.com/jobs/view/growth-performance-specialist-at-hook-%2B-ladder-digital-4197432145) | 87.19% | 2025-04-04 |
 | [Sr. Software Engineer Identity & Security Mngmt](https://co.linkedin.com/jobs/view/sr-software-engineer-identity-security-mngmt-at-solvo-global-4199628294) | 87.04% | 2025-04-04 |
@@ -101,7 +113,6 @@
 | [React Native Developer](https://co.linkedin.com/jobs/view/react-native-developer-at-katapult-labs-4198591649) | 86.93% | 2025-04-03 |
 | [Accounting - Implementation](https://co.linkedin.com/jobs/view/accounting-implementation-at-pi3-4200253319) | 86.64% | 2025-04-03 |
 | [Bookkeeper](https://co.linkedin.com/jobs/view/bookkeeper-at-betterpros-4190573046) | 86.01% | 2025-04-03 |
-| [Wordpress Developer](https://co.linkedin.com/jobs/view/wordpress-developer-at-websiteness-consulting-llc-4198703523) | 85.85% | 2025-04-03 |
 | [Full Stack Software Engineer NextJS, NodeJS, Web Scraping](https://co.linkedin.com/jobs/view/full-stack-software-engineer-nextjs-nodejs-web-scraping-at-scale-up-recruiting-partners-4197731874) | 85.75% | 2025-04-03 |
 | [Java Developer - Remote - Worldwide](https://co.linkedin.com/jobs/view/java-developer-remote-worldwide-at-jobgether-4198182286) | 85.50% | 2025-04-03 |
 | [Senior AI Engineer](https://co.linkedin.com/jobs/view/senior-ai-engineer-at-sparq-4199241008) | 96.34% | 2025-04-02 |
@@ -172,5 +183,3 @@
 | [Data Engineer - Snowflake - Mid Level](https://co.linkedin.com/jobs/view/data-engineer-snowflake-mid-level-at-lumenalta-4196832837) | 88.07% | 2025-03-31 |
 | [Data Engineer - Snowflake - Tech Lead](https://co.linkedin.com/jobs/view/data-engineer-snowflake-tech-lead-at-lumenalta-4196838494) | 85.42% | 2025-03-31 |
 | [Data Engineer - Snowflake - Senior](https://co.linkedin.com/jobs/view/data-engineer-snowflake-senior-at-lumenalta-4196836719) | 85.03% | 2025-03-31 |
-| [Data Engineer - Databricks - Senior](https://co.linkedin.com/jobs/view/data-engineer-databricks-senior-at-lumenalta-4196835257) | 91.76% | 2025-03-30 |
-| [Data Engineer - Databricks - Mid Level](https://co.linkedin.com/jobs/view/data-engineer-databricks-mid-level-at-lumenalta-4196836057) | 91.71% | 2025-03-30 |
