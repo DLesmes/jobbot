@@ -15,6 +15,12 @@ url = "https://www.linkedin.com/jobs/search?keywords=Machine%2BLearning&location
 res = requests.get(url)
 soup = BeautifulSoup(res.text, 'html.parser')
 soup
+# %%
+# Extract the total number of job postings indicated in the page
+total_job_postings = soup.select_one('h1>span').text
+total_job_postings = total_job_postings.replace(',', '')
+total_job_postings = int(total_job_postings)
+total_job_postings
 #%%
 # Extract the job postings
 job_postings = soup.select('a.base-card__full-link')
