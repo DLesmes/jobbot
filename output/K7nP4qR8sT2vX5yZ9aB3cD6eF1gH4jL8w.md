@@ -1,6 +1,70 @@
 # 🚀 Latest Job Offers Recommendations!
 | 🗃️ **Job offer** | 🌡️**Score** | 🗓️ **publication_date** |
 |---|---|---|
+| [Data Engineer](https://co.linkedin.com/jobs/view/data-engineer-at-f%C3%A9lix-4216592527) | 95.88% | 2025-04-24 |
+| [Senior Data Engineer](https://co.linkedin.com/jobs/view/senior-data-engineer-at-f%C3%A9lix-4216591538) | 94.95% | 2025-04-24 |
+| [Senior Full Stack & AI Developer](https://co.linkedin.com/jobs/view/senior-full-stack-ai-developer-at-lean-tech-4191631708) | 94.74% | 2025-04-24 |
+| [Junior Data Engineer](https://co.linkedin.com/jobs/view/junior-data-engineer-at-j-s-held-llc-4213549899) | 94.67% | 2025-04-24 |
+| [Cybersecurity Engineer](https://co.linkedin.com/jobs/view/cybersecurity-engineer-at-launchpad-technologies-inc-4182979174) | 94.09% | 2025-04-24 |
+| [Project Data Analyst](https://co.linkedin.com/jobs/view/project-data-analyst-at-capgemini-4213508753) | 93.63% | 2025-04-24 |
+| [Project Data Analyst](https://co.linkedin.com/jobs/view/project-data-analyst-at-capgemini-engineering-4214888664) | 93.63% | 2025-04-24 |
+| [Full Stack Engineer](https://co.linkedin.com/jobs/view/full-stack-engineer-at-gft-technologies-4213538032) | 93.40% | 2025-04-24 |
+| [Security Software Engineer](https://co.linkedin.com/jobs/view/security-software-engineer-at-canonical-4215967168) | 92.98% | 2025-04-24 |
+| [Front End Engineer](https://co.linkedin.com/jobs/view/front-end-engineer-at-turnkey-tech-staffing-4216342793) | 92.57% | 2025-04-24 |
+| [Cloud Specialist](https://co.linkedin.com/jobs/view/cloud-specialist-at-scotiabank-4214930846) | 92.51% | 2025-04-24 |
+| [Data Scientist Senior - Python Developer](https://co.linkedin.com/jobs/view/data-scientist-senior-python-developer-at-csg-4108990041) | 92.43% | 2025-04-24 |
+| [Senior Full Stack Engineer - HealthCare](https://co.linkedin.com/jobs/view/senior-full-stack-engineer-healthcare-at-truelogic-software-4213920629) | 91.64% | 2025-04-24 |
+| [Developer Success Engineer](https://co.linkedin.com/jobs/view/developer-success-engineer-at-prisma-4216588734) | 90.67% | 2025-04-24 |
+| [Reporting, Data & Analytics Supervisor](https://co.linkedin.com/jobs/view/reporting-data-analytics-supervisor-at-ups-4213194446) | 90.55% | 2025-04-24 |
+| [Junior Web Developer](https://co.linkedin.com/jobs/view/junior-web-developer-at-ottomatik-io-4214935397) | 90.33% | 2025-04-24 |
+| [Reporting Analyst](https://co.linkedin.com/jobs/view/reporting-analyst-at-power-digital-marketing-4211398393) | 90.29% | 2025-04-24 |
+| [Social Media Strategist](https://co.linkedin.com/jobs/view/social-media-strategist-at-power-digital-marketing-4213120159) | 90.13% | 2025-04-24 |
+| [Full Stack Developer Mid-Level](https://co.linkedin.com/jobs/view/full-stack-developer-mid-level-at-serie7-4216547299) | 90.04% | 2025-04-24 |
+| [Frontend Mobile Developer Senior](https://co.linkedin.com/jobs/view/frontend-mobile-developer-senior-at-softtek-4216267524) | 90.04% | 2025-04-24 |
+| [Project Manager, Digital Marketing](https://co.linkedin.com/jobs/view/project-manager-digital-marketing-at-power-digital-marketing-4213115797) | 89.97% | 2025-04-24 |
+| [Java Developer](https://co.linkedin.com/jobs/view/java-developer-at-kualty-4214931246) | 89.89% | 2025-04-24 |
+| [Salesforce Full Stack Developer - AI](https://co.linkedin.com/jobs/view/salesforce-full-stack-developer-ai-at-neuraflash-4215964384) | 89.84% | 2025-04-24 |
+| [Java Software Engineer](https://co.linkedin.com/jobs/view/java-software-engineer-at-visa-4214952491) | 89.69% | 2025-04-24 |
+| [Software Engineer - App Stores](https://co.linkedin.com/jobs/view/software-engineer-app-stores-at-canonical-4216500089) | 89.49% | 2025-04-24 |
+| [Sales Development Representative](https://co.linkedin.com/jobs/view/sales-development-representative-at-ottomatik-io-4214930782) | 89.45% | 2025-04-24 |
+| [Salesforce Developer](https://co.linkedin.com/jobs/view/salesforce-developer-at-talentek-by-hubtek-4216750598) | 89.37% | 2025-04-24 |
+| [Mobile Full-Stack Developer](https://co.linkedin.com/jobs/view/mobile-full-stack-developer-at-launchpad-technologies-inc-4123417630) | 89.36% | 2025-04-24 |
+| [Salesforce Developer](https://co.linkedin.com/jobs/view/salesforce-developer-at-launchpad-technologies-inc-4182370352) | 89.33% | 2025-04-24 |
+| [SaaS Delivery Manager](https://co.linkedin.com/jobs/view/saas-delivery-manager-at-thankz-global-staffing-4214035903) | 89.25% | 2025-04-24 |
+| [Oracle Database Developer](https://co.linkedin.com/jobs/view/oracle-database-developer-at-adastra-4214965817) | 89.22% | 2025-04-24 |
+| [Oracle Consultant](https://co.linkedin.com/jobs/view/oracle-consultant-at-adastra-4214968695) | 89.03% | 2025-04-24 |
+| [Java Developer](https://co.linkedin.com/jobs/view/java-developer-at-flexton-inc-4216593064) | 88.87% | 2025-04-24 |
+| [Product Data Analyst LATAM](https://co.linkedin.com/jobs/view/product-data-analyst-latam-at-jobgether-4213162493) | 88.77% | 2025-04-24 |
+| [Customer Success Specialist](https://co.linkedin.com/jobs/view/customer-success-specialist-at-latamcent-4213596709) | 88.60% | 2025-04-24 |
+| [iOS Developer](https://co.linkedin.com/jobs/view/ios-developer-at-brightwell-4206631362) | 88.40% | 2025-04-24 |
+| [Senior C#/.NET Software Engineer WebAPI, WinForms, SQL](https://co.linkedin.com/jobs/view/senior-c%23-net-software-engineer-webapi-winforms-sql-at-jalasoft-4214967913) | 88.29% | 2025-04-24 |
+| [Especialista en Gestión de Riesgos de Ciberseguridad](https://co.linkedin.com/jobs/view/especialista-en-gesti%C3%B3n-de-riesgos-de-ciberseguridad-at-softwareone-4216733876) | 88.29% | 2025-04-24 |
+| [Lead Generation Specialist](https://co.linkedin.com/jobs/view/lead-generation-specialist-at-doxa-talent-4216552909) | 88.23% | 2025-04-24 |
+| [Frontend Engineer Remote - Colombia](https://co.linkedin.com/jobs/view/frontend-engineer-remote-colombia-at-mygwork-lgbtq%2B-business-community-4214532169) | 88.14% | 2025-04-24 |
+| [Frontend Engineer Remote - Colombia](https://co.linkedin.com/jobs/view/frontend-engineer-remote-colombia-at-masabi-4213125121) | 88.10% | 2025-04-24 |
+| [Jr. AWS Cloud Developer](https://co.linkedin.com/jobs/view/jr-aws-cloud-developer-at-softgic-4213535910) | 87.87% | 2025-04-24 |
+| [Account Manager](https://co.linkedin.com/jobs/view/account-manager-at-serie7-4216761903) | 87.84% | 2025-04-24 |
+| [Account Executive](https://co.linkedin.com/jobs/view/account-executive-at-flare-bbdo-bogot%C3%A1-4216528003) | 87.75% | 2025-04-24 |
+| [.NET & Angular Full Stack Engineer Senior/Lead ID34837](https://co.linkedin.com/jobs/view/net-angular-full-stack-engineer-senior-lead-id34837-at-agileengine-4213540335) | 87.59% | 2025-04-24 |
+| [Senior HR Generalist - Americas](https://co.linkedin.com/jobs/view/senior-hr-generalist-americas-at-canonical-4213592283) | 87.53% | 2025-04-24 |
+| [Educational Case Manager Coordinator](https://co.linkedin.com/jobs/view/educational-case-manager-coordinator-at-tutor-me-la-llc-4213595230) | 87.50% | 2025-04-24 |
+| [Salesforce User Experience Designer - AI & Agentforce](https://co.linkedin.com/jobs/view/salesforce-user-experience-designer-ai-agentforce-at-neuraflash-4215965285) | 87.48% | 2025-04-24 |
+| [Customer Success Manager](https://co.linkedin.com/jobs/view/customer-success-manager-at-boomin-brands-media-4216700418) | 87.18% | 2025-04-24 |
+| [Administrative Assistant](https://co.linkedin.com/jobs/view/administrative-assistant-at-ottomatik-io-4214934463) | 87.10% | 2025-04-24 |
+| [AWS DevOps Engineer - Remote - Colombia](https://co.linkedin.com/jobs/view/aws-devops-engineer-remote-colombia-at-fullstack-labs-4182178284) | 86.50% | 2025-04-24 |
+| [React / Nodejs Engineer](https://co.linkedin.com/jobs/view/react-nodejs-engineer-at-softgic-4213534915) | 86.46% | 2025-04-24 |
+| [Product Analyst, Chat - Remote - Anywhere](https://co.linkedin.com/jobs/view/product-analyst-chat-remote-anywhere-at-jobgether-4216362679) | 86.44% | 2025-04-24 |
+| [Customer Success Manager](https://co.linkedin.com/jobs/view/customer-success-manager-at-proed-profitable-education-4210029820) | 86.36% | 2025-04-24 |
+| [Engineering Manager - App Stores](https://co.linkedin.com/jobs/view/engineering-manager-app-stores-at-canonical-4213591350) | 86.35% | 2025-04-24 |
+| [Analista de Servicio al Cliente](https://co.linkedin.com/jobs/view/analista-de-servicio-al-cliente-at-smith%2Bnephew-4214883832) | 86.19% | 2025-04-24 |
+| [Sales Executive-Latam](https://co.linkedin.com/jobs/view/sales-executive-latam-at-goama-4213587992) | 86.03% | 2025-04-24 |
+| [Email Marketing Manager](https://co.linkedin.com/jobs/view/email-marketing-manager-at-reach-digital-4216741724) | 85.65% | 2025-04-24 |
+| [Content Marketing Specialist Colombia](https://co.linkedin.com/jobs/view/content-marketing-specialist-colombia-at-paystone-4216599765) | 85.60% | 2025-04-24 |
+| [Account Manager-Latam](https://co.linkedin.com/jobs/view/account-manager-latam-at-goama-4213594246) | 85.57% | 2025-04-24 |
+| [Laravel Developer](https://co.linkedin.com/jobs/view/laravel-developer-at-softgic-4213539418) | 85.45% | 2025-04-24 |
+| [Accountant](https://co.linkedin.com/jobs/view/accountant-at-cpi-service-4213536877) | 85.44% | 2025-04-24 |
+| [Finance Analyst - Workday](https://co.linkedin.com/jobs/view/finance-analyst-workday-at-genius-sports-4196475575) | 85.43% | 2025-04-24 |
+| [System Software Engineer - Ubuntu Networking](https://co.linkedin.com/jobs/view/system-software-engineer-ubuntu-networking-at-canonical-4215966264) | 85.10% | 2025-04-24 |
 | [AI/ ML Engineer](https://co.linkedin.com/jobs/view/ai-ml-engineer-at-upstartbar-4212026619) | 96.87% | 2025-04-23 |
 | [Senior Data Engineer](https://co.linkedin.com/jobs/view/senior-data-engineer-at-sparq-4215315903) | 94.91% | 2025-04-23 |
 | [Sr Data Scientist](https://co.linkedin.com/jobs/view/sr-data-scientist-at-rootstrap-4213692660) | 94.42% | 2025-04-23 |
@@ -18,10 +82,13 @@
 | [DevOps Engineer](https://co.linkedin.com/jobs/view/devops-engineer-at-sundevs-4214800849) | 90.98% | 2025-04-23 |
 | [SEM Manager](https://co.linkedin.com/jobs/view/sem-manager-at-godaddy-4214806243) | 90.82% | 2025-04-23 |
 | [Software Development Engineer - DevOps](https://co.linkedin.com/jobs/view/software-development-engineer-devops-at-emmes-4211637648) | 90.21% | 2025-04-23 |
+| [Sales Development Representative](https://co.linkedin.com/jobs/view/sales-development-representative-at-pavago-4214876001) | 90.08% | 2025-04-23 |
+| [Virtual Assistant](https://co.linkedin.com/jobs/view/virtual-assistant-at-q-protex-4214878845) | 89.90% | 2025-04-23 |
 | [Business Analyst](https://co.linkedin.com/jobs/view/business-analyst-at-nextdoor-ops-4215445091) | 89.86% | 2025-04-23 |
 | [Senior iOS Developer](https://co.linkedin.com/jobs/view/senior-ios-developer-at-sparq-4215319285) | 89.45% | 2025-04-23 |
 | [Recruiting Manager - Remote](https://co.linkedin.com/jobs/view/recruiting-manager-remote-at-indi-staffing-services-4215376298) | 89.09% | 2025-04-23 |
 | [Senior DevOps Engineer AWS](https://co.linkedin.com/jobs/view/senior-devops-engineer-aws-at-xebia-4215907288) | 89.08% | 2025-04-23 |
+| [Data Center Senior Consulting Engineer](https://co.linkedin.com/jobs/view/data-center-senior-consulting-engineer-at-tp-4192184742) | 89.07% | 2025-04-23 |
 | [Senior Service Desk Technician](https://co.linkedin.com/jobs/view/senior-service-desk-technician-at-convatec-4052473222) | 88.63% | 2025-04-23 |
 | [Sales Specialist](https://co.linkedin.com/jobs/view/sales-specialist-at-workbetternow-4203123022) | 88.58% | 2025-04-23 |
 | [Remote Practice Manager - MD](https://co.linkedin.com/jobs/view/remote-practice-manager-md-at-assist-point-4212030232) | 88.02% | 2025-04-23 |
@@ -31,7 +98,6 @@
 | [Senior MuleSoft Developer Java - OP01725](https://co.linkedin.com/jobs/view/senior-mulesoft-developer-java-op01725-at-dev-pro-4215320975) | 87.36% | 2025-04-23 |
 | [Career Services and Alumni Senior Coordinator](https://co.linkedin.com/jobs/view/career-services-and-alumni-senior-coordinator-at-boston-consulting-group-bcg-4134700636) | 87.27% | 2025-04-23 |
 | [Graphic & Creative Designer](https://co.linkedin.com/jobs/view/graphic-creative-designer-at-entrepreneur-cooperative-4215024192) | 87.17% | 2025-04-23 |
-| [Executive Assistant to Managing Partner Remote – Full Time](https://co.linkedin.com/jobs/view/executive-assistant-to-managing-partner-remote-%E2%80%93-full-time-at-global-connections-recruitment-4215416866) | 87.05% | 2025-04-23 |
 | [Sr. Data Engineer Snowflake/dbt](https://co.linkedin.com/jobs/view/sr-data-engineer-snowflake-dbt-at-sparq-4215319354) | 86.92% | 2025-04-23 |
 | [Call Center Representative](https://co.linkedin.com/jobs/view/call-center-representative-at-virtustant-4212079179) | 86.72% | 2025-04-23 |
 | [Web Frontend Engineer - JS, CSS, React, Flutter](https://co.linkedin.com/jobs/view/web-frontend-engineer-js-css-react-flutter-at-canonical-4215019923) | 86.18% | 2025-04-23 |
@@ -40,13 +106,11 @@
 | [Instructional Designer, 2 Hour Learning Remote - $100,000/year USD](https://co.linkedin.com/jobs/view/instructional-designer-2-hour-learning-remote-%24100-000-year-usd-at-trilogy-4213692343) | 85.46% | 2025-04-23 |
 | [Intermediate Software Engineer React.js, Node.js - OP01727-OS](https://co.linkedin.com/jobs/view/intermediate-software-engineer-react-js-node-js-op01727-os-at-dev-pro-4215345903) | 85.28% | 2025-04-23 |
 | [Full Stack Developer, Trilogy Remote - $60,000/year USD](https://co.linkedin.com/jobs/view/full-stack-developer-trilogy-remote-%2460-000-year-usd-at-trilogy-4213689667) | 85.10% | 2025-04-23 |
-| [Full Stack WordPress Developer](https://co.linkedin.com/jobs/view/full-stack-wordpress-developer-at-zen-projects-4213694033) | 85.10% | 2025-04-23 |
 | [Data Engineer](https://co.linkedin.com/jobs/view/data-engineer-at-zensar-technologies-4211629349) | 95.64% | 2025-04-22 |
 | [Data Engineer](https://co.linkedin.com/jobs/view/data-engineer-at-zensar-technologies-4211615033) | 95.57% | 2025-04-22 |
 | [Data Engineer](https://co.linkedin.com/jobs/view/data-engineer-at-sofia-sanjuan-4214607478) | 95.51% | 2025-04-22 |
 | [Data Engineer - Remote](https://co.linkedin.com/jobs/view/data-engineer-remote-at-indi-staffing-services-4213649792) | 93.88% | 2025-04-22 |
 | [Senior BI Developer](https://co.linkedin.com/jobs/view/senior-bi-developer-at-first-line-software-4210786619) | 93.60% | 2025-04-22 |
-| [Data Scientist Senior - Python Developer](https://co.linkedin.com/jobs/view/data-scientist-senior-python-developer-at-csg-4108990041) | 92.43% | 2025-04-22 |
 | [Business Intelligence analyst](https://co.linkedin.com/jobs/view/business-intelligence-analyst-at-zensar-technologies-4211625978) | 92.29% | 2025-04-22 |
 | [Business Intelligence Analyst](https://co.linkedin.com/jobs/view/business-intelligence-analyst-at-zensar-obt-technologies-inc-usa-4211604984) | 91.90% | 2025-04-22 |
 | [Senior Quality Assurance Automation Engineer](https://co.linkedin.com/jobs/view/senior-quality-assurance-automation-engineer-at-exadel-4213374490) | 91.85% | 2025-04-22 |
@@ -56,7 +120,6 @@
 | [Frontend Developer](https://co.linkedin.com/jobs/view/frontend-developer-at-tambourine-4214647802) | 91.10% | 2025-04-22 |
 | [Business Analyst - Remote](https://co.linkedin.com/jobs/view/business-analyst-remote-at-indi-staffing-services-4213621804) | 91.01% | 2025-04-22 |
 | [Learning Project Manager](https://co.linkedin.com/jobs/view/learning-project-manager-at-indigo-slate-4210772114) | 90.42% | 2025-04-22 |
-| [Reporting Analyst](https://co.linkedin.com/jobs/view/reporting-analyst-at-power-digital-marketing-4211398393) | 90.29% | 2025-04-22 |
 | [Senior QE Automation Engineer Performance](https://co.linkedin.com/jobs/view/senior-qe-automation-engineer-performance-at-publicis-sapient-4190187666) | 90.28% | 2025-04-22 |
 | [Business Analyst](https://co.linkedin.com/jobs/view/business-analyst-at-ust-espa%C3%B1a-latam-4213657477) | 90.28% | 2025-04-22 |
 | [Full Stack Developer](https://co.linkedin.com/jobs/view/full-stack-developer-at-somewhere-4213318382) | 90.27% | 2025-04-22 |
@@ -67,7 +130,6 @@
 | [Project Manager](https://co.linkedin.com/jobs/view/project-manager-at-sanofi-4191638732) | 89.01% | 2025-04-22 |
 | [Lead Generation Specialist](https://co.linkedin.com/jobs/view/lead-generation-specialist-at-sourcy-inc-4211608536) | 87.97% | 2025-04-22 |
 | [Portfolio Coordinator](https://co.linkedin.com/jobs/view/portfolio-coordinator-at-bpo-labs-solutions-4213378108) | 87.93% | 2025-04-22 |
-| [Senior Financial Analyst](https://co.linkedin.com/jobs/view/senior-financial-analyst-at-sanofi-4191644151) | 87.88% | 2025-04-22 |
 | [Regional Quality Documentation Manager](https://co.linkedin.com/jobs/view/regional-quality-documentation-manager-at-sanofi-4191851858) | 87.88% | 2025-04-22 |
 | [Backend Lead](https://co.linkedin.com/jobs/view/backend-lead-at-designli-4213617338) | 87.45% | 2025-04-22 |
 | [Ssr Python Developer](https://co.linkedin.com/jobs/view/ssr-python-developer-at-rootstrap-4212868533) | 87.29% | 2025-04-22 |
@@ -75,17 +137,14 @@
 | [Podcast Editor Producer](https://co.linkedin.com/jobs/view/podcast-editor-producer-at-entrepreneur-cooperative-4214511231) | 86.87% | 2025-04-22 |
 | [Product Owner](https://co.linkedin.com/jobs/view/product-owner-at-newton-vision-co-4194465485) | 86.81% | 2025-04-22 |
 | [Senior Frontend Developer Colombia - Advertising](https://co.linkedin.com/jobs/view/senior-frontend-developer-colombia-advertising-at-truelogic-software-4214682016) | 86.34% | 2025-04-22 |
-| [Virtual Assistant C1/C2 English](https://co.linkedin.com/jobs/view/virtual-assistant-c1-c2-english-at-valatam-4211628337) | 86.26% | 2025-04-22 |
 | [Real Estate Specialist](https://co.linkedin.com/jobs/view/real-estate-specialist-at-pavago-4213651130) | 86.04% | 2025-04-22 |
 | [Presales Specialist](https://co.linkedin.com/jobs/view/presales-specialist-at-ergeon-4211375920) | 86.02% | 2025-04-22 |
 | [Sales Team Lead/Manager](https://co.linkedin.com/jobs/view/sales-team-lead-manager-at-neowork-4214592905) | 86.01% | 2025-04-22 |
-| [Proactive Healthcare Agent](https://co.linkedin.com/jobs/view/proactive-healthcare-agent-at-tansy-4206235887) | 85.93% | 2025-04-22 |
 | [Hiring Coordinator / Operations Assistant](https://co.linkedin.com/jobs/view/hiring-coordinator-operations-assistant-at-proactive-mktg-llc-4212858855) | 85.59% | 2025-04-22 |
 | [Java Developer - Remote](https://co.linkedin.com/jobs/view/java-developer-remote-at-indi-staffing-services-4213658319) | 85.24% | 2025-04-22 |
 | [Security Platform Specialist](https://co.linkedin.com/jobs/view/security-platform-specialist-at-scotiabank-4210763670) | 92.10% | 2025-04-21 |
 | [Learning And Development Specialist](https://co.linkedin.com/jobs/view/learning-and-development-specialist-at-zensar-technologies-4210753289) | 91.76% | 2025-04-21 |
 | [Senior Business Analyst, HR](https://co.linkedin.com/jobs/view/senior-business-analyst-hr-at-anthology-inc-4214347464) | 90.65% | 2025-04-21 |
-| [Software Development Engineer in Test](https://co.linkedin.com/jobs/view/software-development-engineer-in-test-at-emma-of-torre-4210741335) | 89.35% | 2025-04-21 |
 | [Frontend Engineer Remote - Colombia](https://co.linkedin.com/jobs/view/frontend-engineer-remote-colombia-at-masabi-4214315832) | 88.14% | 2025-04-21 |
 | [Loan Officer Assistant](https://co.linkedin.com/jobs/view/loan-officer-assistant-at-connext-4212845584) | 87.06% | 2025-04-21 |
 | [Senior UX/UI Designer](https://co.linkedin.com/jobs/view/senior-ux-ui-designer-at-outliant-4214318711) | 86.34% | 2025-04-21 |
