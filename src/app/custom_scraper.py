@@ -3,9 +3,7 @@
 # base
 import requests
 from bs4 import BeautifulSoup
-import json
 import pandas as pd
-import os
 from datetime import datetime, timedelta
 import time
 from typing import List, Dict, Optional, Tuple, Any
@@ -31,7 +29,7 @@ logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(
 
 def parse_relative_time(time_str: str) -> str:
     """
-    Parses LinkedIn's relative time string (e.g., "Hace 17 horas")
+    Parses LinkedIn's relative time string (e.g., "Hace 17 horas" or "17 hours ago")
     into an ISO format date string (YYYY-MM-DD).
 
     Args:
@@ -39,40 +37,62 @@ def parse_relative_time(time_str: str) -> str:
 
     Returns:
         An estimated date string in "YYYY-MM-DD" format. Returns today's date
-        if parsing fails or the time unit is unknown.
+        if parsing fails or the time unit is unknown or irrelevant (e.g., "Promoted").
     """
     now = datetime.now()
     try:
         time_str = time_str.lower().strip()
-        parts = time_str.split() # e.g., ['hace', '17', 'horas'] or ['hace', '1', 'día']
+        parts = time_str.split()
 
-        if len(parts) < 3:
-            logging.warning(f"Could not parse time string: {time_str}. Defaulting to today.")
+        value_str = None
+        unit = None
+
+        # Detect format and extract parts
+        if "hace" in parts and len(parts) >= 3:  # Spanish format: "hace [value] [unit]"
+            value_str = parts[1]
+            unit = parts[2]
+        elif "ago" in parts and len(parts) >= 3: # English format: "[value] [unit] ago"
+            value_str = parts[0]
+            unit = parts[1]
+        else:
+            # Handle other cases like "Just now", "Active today", "Promoted", etc.
+            # These don't represent a quantifiable past duration, so default to today.
+            logging.info(f"Non-standard time string detected: '{time_str}'. Defaulting to today.")
             return now.strftime("%Y-%m-%d")
 
-        value = int(parts[0])
-        unit = parts[1]
-        
-        if "hours" in unit:
-            delta = timedelta(hours=value)
-        elif "days" in unit:
-            delta = timedelta(days=value)
-        elif "weeks" in unit:
-            delta = timedelta(weeks=value)
-        elif "months" in unit:
-            # Approximate month as 30 days
-            delta = timedelta(days=value * 30)
-        elif "minutes" in unit:
-            delta = timedelta(minutes=value)
-        # Add more units if needed (año/year etc.)
-        else:
-            logging.warning(f"Unknown time unit in '{time_str}'. Defaulting to today.")
-            delta = timedelta(0)
+        # Convert value to integer
+        try:
+            value = int(value_str)
+        except ValueError:
+            logging.warning(f"Could not parse numeric value '{value_str}' from time string: {time_str}. Defaulting to today.")
+            return now.strftime("%Y-%m-%d")
 
+        # Determine timedelta based on unit (handling plurals and both languages)
+        delta = timedelta(0)
+        if "hora" in unit or "hour" in unit:
+            delta = timedelta(hours=value)
+        elif "día" in unit or "day" in unit:
+            delta = timedelta(days=value)
+        elif "semana" in unit or "week" in unit:
+            delta = timedelta(weeks=value)
+        elif "mes" in unit or "month" in unit:
+            # Approximate month as 30 days for simplicity
+            delta = timedelta(days=value * 30)
+        elif "minuto" in unit or "minute" in unit:
+            delta = timedelta(minutes=value)
+        elif "año" in unit or "year" in unit:
+             # Approximate year as 365 days
+             delta = timedelta(days=value * 365)
+        else:
+            logging.warning(f"Unknown time unit '{unit}' in '{time_str}'. Defaulting to today.")
+            # delta remains timedelta(0)
+
+        # Calculate and format the estimated post date
         post_date = now - delta
         return post_date.strftime("%Y-%m-%d")
 
-    except (ValueError, IndexError) as e:
+    # Catch potential errors during parsing (e.g., unexpected format, failed int conversion)
+    except (ValueError, IndexError, TypeError) as e:
         logging.warning(f"Error parsing time string '{time_str}': {e}. Defaulting to today.")
         return now.strftime("%Y-%m-%d")
 
@@ -349,31 +369,6 @@ class customLinkedInScraper:
             details['description'] = None
             logging.warning(f"Could not find description for {job_url}")
 
-        # Apply Link
-        try:
-            # Check for offsite apply button first
-            apply_button = soup.select_one('button.jobs-apply-button[data-apply-url]')
-            if apply_button and apply_button.get('data-apply-url'):
-                 details['apply_link'] = apply_button['data-apply-url']
-            else:
-                 # Fallback to checking the code block (less common now)
-                 apply_code = soup.select_one('code#applyUrl')
-                 if apply_code:
-                      # Extract URL from comment-like structure
-                      url_match = requests.utils.parse_header_links(apply_code.text.strip().replace('<!--"', '').replace('"-->', ''))
-                      if url_match:
-                           details['apply_link'] = url_match[0]['url']
-                      else:
-                            details['apply_link'] = None
-                 else:
-                      # Fallback to the main job URL if no specific apply link found
-                      details['apply_link'] = job_url
-                      logging.info(f"No specific apply link found for {job_url}, using job URL as fallback.")
-        except Exception as e:
-            details['apply_link'] = job_url # Fallback
-            logging.warning(f"Error parsing apply link for {job_url}: {e}. Using job URL.")
-
-
         # Job Criteria (Seniority, Employment Type, Function, Industries)
         details['seniority_level'] = None
         details['employment_type'] = None
@@ -453,10 +448,12 @@ class customLinkedInScraper:
         }
         return job_data
 
-    def scrape_jobs(self,
-                    filters: Optional[Dict[str, str]] = None,
-                    max_jobs: Optional[int] = None,
-                    delay_between_jobs: float = 2.0) -> List[Dict[str, Any]]:
+    def scrape_jobs(
+            self,
+            filters: Optional[Dict[str, str]] = None,
+            max_jobs: Optional[int] = None,
+            delay_between_jobs: float = 2.0
+        ) -> List[Dict[str, Any]]:
         """
         Performs the complete scraping process: finds job links and scrapes details.
 
