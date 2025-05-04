@@ -8,3 +8,7 @@ python-dotenv==0.19.1
 selenium==4.9.1
 # embeds storing
 pyarrow == 19.0.1
+# NLP
+nltk==3.9.1
+# webscraping
+beautifulsoup4==4.12.3
