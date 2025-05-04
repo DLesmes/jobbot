@@ -98,7 +98,7 @@ def pilot():
                                 TypeFilters.FULL_TIME
                             ],
                             experience=[
-                                ExperienceLevelFilters.ENTRY_LEVEL,
+                                #ExperienceLevelFilters.ENTRY_LEVEL,
                                 ExperienceLevelFilters.ASSOCIATE,
                                 ExperienceLevelFilters.MID_SENIOR
                             ]
