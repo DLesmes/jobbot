@@ -3,10 +3,8 @@
 |---|---|---|
 | [Customer Success](https://co.linkedin.com/jobs/view/customer-success-at-weibook-4221478727) | 83.74% | 2025-05-03 |
 | [Data Engineer – Query Optimization, Data APIs, Validation Semi Senior Bilingüe](https://co.linkedin.com/jobs/view/data-engineer-%E2%80%93-query-optimization-data-apis-validation-semi-senior-biling%C3%BCe-at-imagine-apps-4221799445) | 82.73% | 2025-05-03 |
-| [Técnico de soporte](https://co.linkedin.com/jobs/view/t%C3%A9cnico-de-soporte-at-unialquileres-4221748622) | 91.86% | 2025-05-02 |
 | [Ingeniero de aplicaciones](https://co.linkedin.com/jobs/view/ingeniero-de-aplicaciones-at-creasistemas-s-a-s-4221375870) | 91.77% | 2025-05-02 |
 | [Analista De Requerimientos](https://co.linkedin.com/jobs/view/analista-de-requerimientos-at-cadena-s-a-4221374721) | 91.45% | 2025-05-02 |
-| [Ingeniero de automatización](https://co.linkedin.com/jobs/view/ingeniero-de-automatizaci%C3%B3n-at-gesti%C3%B3n-humana-latam-4221722307) | 91.27% | 2025-05-02 |
 | [PROFESIONAL FUNCIONAL DE APLICACIONES](https://co.linkedin.com/jobs/view/profesional-funcional-de-aplicaciones-at-compensar-4221779777) | 91.19% | 2025-05-02 |
 | [Ingeniero Biomédico](https://co.linkedin.com/jobs/view/ingeniero-biom%C3%A9dico-at-gsmed-imaging-4221782391) | 90.55% | 2025-05-02 |
 | [Coordinador de marketing](https://co.linkedin.com/jobs/view/coordinador-de-marketing-at-invercolombia-4221375405) | 90.54% | 2025-05-02 |
@@ -60,7 +58,6 @@
 | [Profesional De Experiencia Al Colaborador](https://co.linkedin.com/jobs/view/profesional-de-experiencia-al-colaborador-at-viva-1a-ips-4221778787) | 84.70% | 2025-05-02 |
 | [Freight Service Agent](https://co.linkedin.com/jobs/view/freight-service-agent-at-fedex-4221374081) | 84.62% | 2025-05-02 |
 | [Customer Experience Servicio al Cliente](https://co.linkedin.com/jobs/view/customer-experience-servicio-al-cliente-at-blush-bar-beauty-cosmetics-retailer-latam-4221748389) | 84.61% | 2025-05-02 |
-| [Credit Analyst](https://co.linkedin.com/jobs/view/credit-analyst-at-monet-cr%C3%A9dito-para-todos-yc-s21-4221724564) | 84.60% | 2025-05-02 |
 | [Asesores de Atención al Cliente Call Center, Horarios de Oficina, Excelentes Comisiones](https://co.linkedin.com/jobs/view/asesores-de-atenci%C3%B3n-al-cliente-call-center-horarios-de-oficina-excelentes-comisiones-at-heatron-4221020170) | 84.32% | 2025-05-02 |
 | [Practicante Universitario en Proceso Administrativo / Contable](https://co.linkedin.com/jobs/view/practicante-universitario-en-proceso-administrativo-contable-at-jlt-transportes-sas-4221717274) | 84.15% | 2025-05-02 |
 | [Auxiliar Almacén Bello](https://co.linkedin.com/jobs/view/auxiliar-almac%C3%A9n-bello-at-alimentos-polar-4221779786) | 84.01% | 2025-05-02 |
@@ -102,8 +99,8 @@
 | [Auxiliar Contable](https://co.linkedin.com/jobs/view/auxiliar-contable-at-inversiones-y-planes-de-la-paz-4218350112) | 90.37% | 2025-04-30 |
 | [Especialista en ventas](https://co.linkedin.com/jobs/view/especialista-en-ventas-at-risaltex-4219877989) | 90.35% | 2025-04-30 |
 | [Analista de sistema integrado de gestión](https://co.linkedin.com/jobs/view/analista-de-sistema-integrado-de-gesti%C3%B3n-at-empresa-confidencial-4219428029) | 90.33% | 2025-04-30 |
-| [Analista logístico y de almacenamiento](https://co.linkedin.com/jobs/view/analista-log%C3%ADstico-y-de-almacenamiento-at-grupo-medical-bioservicios-4219697438) | 90.15% | 2025-04-30 |
 | [Analista Logístico y de almacenamiento](https://co.linkedin.com/jobs/view/analista-log%C3%ADstico-y-de-almacenamiento-at-grupo-medical-bioservicios-4219695931) | 90.15% | 2025-04-30 |
+| [Analista logístico y de almacenamiento](https://co.linkedin.com/jobs/view/analista-log%C3%ADstico-y-de-almacenamiento-at-grupo-medical-bioservicios-4219697438) | 90.15% | 2025-04-30 |
 | [Auxiliar operativo](https://co.linkedin.com/jobs/view/auxiliar-operativo-at-manufacturas-eliot-4219921609) | 90.14% | 2025-04-30 |
 | [ANALISTA DE OPERACIONES TECNOLOGICAS](https://co.linkedin.com/jobs/view/analista-de-operaciones-tecnologicas-at-gopass-4219487746) | 90.13% | 2025-04-30 |
 | [Analista de datos](https://co.linkedin.com/jobs/view/analista-de-datos-at-salesland-4218260603) | 90.07% | 2025-04-30 |
@@ -184,19 +181,3 @@
 | [Developer UPF](https://co.linkedin.com/jobs/view/developer-upf-at-kuvasz-solutions-4219873914) | 77.25% | 2025-04-30 |
 | [Asesores Comerciales Call Center Lunes a Viernes Madrugada ¡Gana $3.200.000 mensuales en comisiones!](https://co.linkedin.com/jobs/view/asesores-comerciales-call-center-lunes-a-viernes-madrugada-%C2%A1gana-%243-200-000-mensuales-en-comisiones%21-at-heatron-4218871572) | 75.04% | 2025-04-30 |
 | [Frontend Developer Mid](https://co.linkedin.com/jobs/view/frontend-developer-mid-at-bia-4219396326) | 85.04% | 2025-04-29 |
-| [Representante de Ventas Médicas - Bogotá, Colombia](https://co.linkedin.com/jobs/view/representante-de-ventas-m%C3%A9dicas-bogot%C3%A1-colombia-at-geneplanet-4216095698) | 90.23% | 2025-04-27 |
-| [Personal auxiliar de contabilidad](https://co.linkedin.com/jobs/view/personal-auxiliar-de-contabilidad-at-sisgecom-4215595055) | 88.75% | 2025-04-27 |
-| [Ingeniero Comercial](https://co.linkedin.com/jobs/view/ingeniero-comercial-at-quala-4216727592) | 86.15% | 2025-04-27 |
-| [Trafficker Digital](https://co.linkedin.com/jobs/view/trafficker-digital-at-holding-vml-4218471344) | 85.51% | 2025-04-27 |
-| [EMPROID SAS: EJECUTIVO COMERCIAL](https://co.linkedin.com/jobs/view/emproid-sas-ejecutivo-comercial-at-join-com-4216083908) | 83.76% | 2025-04-27 |
-| [Associate, labor and employee relations](https://co.linkedin.com/jobs/view/associate-labor-and-employee-relations-at-concentrix-limited-company-4218429601) | 83.59% | 2025-04-27 |
-| [Empleada Doméstica- Medellín](https://co.linkedin.com/jobs/view/empleada-dom%C3%A9stica-medell%C3%ADn-at-get-company-4218426927) | 83.32% | 2025-04-27 |
-| [Accountant I](https://co.linkedin.com/jobs/view/accountant-i-at-concentrix-limited-company-4218428618) | 82.77% | 2025-04-27 |
-| [Oficial Electricista](https://co.linkedin.com/jobs/view/oficial-electricista-at-electroingenierias-upegui-sas-4215569096) | 82.24% | 2025-04-27 |
-| [Oficial de mantenimiento y aseo/limpieza](https://co.linkedin.com/jobs/view/oficial-de-mantenimiento-y-aseo-limpieza-at-maxibienes-4218428831) | 82.01% | 2025-04-27 |
-| [Asesor Call Center, No domingos ni festivos.](https://co.linkedin.com/jobs/view/asesor-call-center-no-domingos-ni-festivos-at-groupcos-4218656154) | 81.66% | 2025-04-27 |
-| [HOME DESIGN COLOMBIA: Ejecutivo comercial](https://co.linkedin.com/jobs/view/home-design-colombia-ejecutivo-comercial-at-join-com-4216011424) | 81.60% | 2025-04-27 |
-| [Agente Bilingue Servicio al cliente y cross selling /Salario de 3'000.000+ Bonificaciones](https://co.linkedin.com/jobs/view/agente-bilingue-servicio-al-cliente-y-cross-selling-salario-de-3-000-000%2B-bonificaciones-at-keukenexpo-4218650939) | 80.04% | 2025-04-27 |
-| [Mesero a- convocatoria Bogotá](https://co.linkedin.com/jobs/view/mesero-a-convocatoria-bogot%C3%A1-at-agencia-de-empleo-colsubsidio-4216604301) | 78.07% | 2025-04-27 |
-| [Auxiliar Cocina- Convocatoria Bogotá](https://co.linkedin.com/jobs/view/auxiliar-cocina-convocatoria-bogot%C3%A1-at-agencia-de-empleo-colsubsidio-4216600703) | 76.00% | 2025-04-27 |
-| [ASESOR COMERCIAL BODYTECH – GANA HASTA $4.000.000 + BENEFICIOS EXCLUSIVOS](https://co.linkedin.com/jobs/view/asesor-comercial-bodytech-%E2%80%93-gana-hasta-%244-000-000-%2B-beneficios-exclusivos-at-bodytech-colombia-4218498878) | 75.82% | 2025-04-27 |
