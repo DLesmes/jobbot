@@ -1,14 +1,10 @@
 #base
 import logging
-import json
-import re
-import unicodedata
 from datetime import datetime
 import pandas as pd
 #env
 from src.app.settings import Settings
 from dotenv import load_dotenv
-import os
 load_dotenv()
 settings = Settings()
 #linkedin
