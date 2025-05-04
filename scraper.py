@@ -7,6 +7,6 @@ searcher = Searcher()
 
 if __name__== '__main__':
     #linkedin scraper
-    #pilot()
+    pilot()
     #custom scraper
     searcher.scrape()

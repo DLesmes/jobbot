@@ -452,7 +452,7 @@ class customLinkedInScraper:
             self,
             filters: Optional[Dict[str, str]] = None,
             max_jobs: Optional[int] = None,
-            delay_between_jobs: float = 2.0
+            delay_between_jobs: float = 5.0
         ) -> List[Dict[str, Any]]:
         """
         Performs the complete scraping process: finds job links and scrapes details.
