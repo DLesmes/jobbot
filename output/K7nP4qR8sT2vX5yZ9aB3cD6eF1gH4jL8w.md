@@ -12,11 +12,8 @@
 | [Senior Data Engineer - Technology Latam](https://co.linkedin.com/jobs/view/senior-data-engineer-technology-latam-at-truelogic-software-4221740805) | 90.87% | 2025-05-02 |
 | [Sales Operations Specialist](https://co.linkedin.com/jobs/view/sales-operations-specialist-at-aspenview-technology-partners-4220232899) | 90.87% | 2025-05-02 |
 | [Semi-Senior Data Engineer - Technology Latam](https://co.linkedin.com/jobs/view/semi-senior-data-engineer-technology-latam-at-truelogic-software-4221742561) | 90.03% | 2025-05-02 |
-| [Virtual Assistant](https://co.linkedin.com/jobs/view/virtual-assistant-at-the-a-career-4221765115) | 89.97% | 2025-05-02 |
 | [Operations Manager](https://co.linkedin.com/jobs/view/operations-manager-at-remote-legal-staff-4220797921) | 89.71% | 2025-05-02 |
 | [Full Stack Web Developer](https://co.linkedin.com/jobs/view/full-stack-web-developer-at-conservation-south-africa-4221024338) | 89.61% | 2025-05-02 |
-| [Client Enablement Specialist](https://co.linkedin.com/jobs/view/client-enablement-specialist-at-pencil-%E2%9C%8F%EF%B8%8F-4221273782) | 89.48% | 2025-05-02 |
-| [Executive Assistant](https://co.linkedin.com/jobs/view/executive-assistant-at-move-your-business-virtual-employment-agency-4221287205) | 89.16% | 2025-05-02 |
 | [Report Writer](https://co.linkedin.com/jobs/view/report-writer-at-launchpad-technologies-inc-4143871688) | 88.21% | 2025-05-02 |
 | [Service Coordinator](https://co.linkedin.com/jobs/view/service-coordinator-at-la-cuisine-international-4220220778) | 87.81% | 2025-05-02 |
 | [Database Administrator Team Lead - Americas & APAC](https://co.linkedin.com/jobs/view/database-administrator-team-lead-americas-apac-at-stonex-group-inc-4184939303) | 87.74% | 2025-05-02 |
@@ -42,14 +39,12 @@
 | [Talent Acquisition Partner](https://co.linkedin.com/jobs/view/talent-acquisition-partner-at-groupm-4219204129) | 89.51% | 2025-04-30 |
 | [Executive Assistant](https://co.linkedin.com/jobs/view/executive-assistant-at-talentfuze-4217789330) | 89.16% | 2025-04-30 |
 | [Recruiting Manager - Remote](https://co.linkedin.com/jobs/view/recruiting-manager-remote-at-indi-staffing-services-4219863831) | 89.09% | 2025-04-30 |
-| [Desarrollador de .NET](https://co.linkedin.com/jobs/view/desarrollador-de-net-at-cpim-colombia-hr-4219898597) | 88.76% | 2025-04-30 |
 | [DBA Vendor Senior Analyst](https://co.linkedin.com/jobs/view/dba-vendor-senior-analyst-at-unisys-4218852972) | 88.63% | 2025-04-30 |
 | [Manager, VCA Digital Practice](https://co.linkedin.com/jobs/view/manager-vca-digital-practice-at-visa-4204499394) | 88.56% | 2025-04-30 |
 | [Regional Quality Documentation Specialist](https://co.linkedin.com/jobs/view/regional-quality-documentation-specialist-at-sanofi-4191854448) | 88.10% | 2025-04-30 |
 | [Lead Data Engineer Python + Pandas](https://co.linkedin.com/jobs/view/lead-data-engineer-python-%2B-pandas-at-exadel-4219400497) | 88.09% | 2025-04-30 |
 | [Backend Engineer, Node.js/Typescript](https://co.linkedin.com/jobs/view/backend-engineer-node-js-typescript-at-deel-4215163766) | 88.05% | 2025-04-30 |
 | [Desarrollador .NET](https://co.linkedin.com/jobs/view/desarrollador-net-at-codingit-4219867986) | 87.51% | 2025-04-30 |
-| [DevOps Engineer Azure](https://co.linkedin.com/jobs/view/devops-engineer-azure-at-deel-4218573994) | 87.30% | 2025-04-30 |
 | [Semi Senior Java Support Engineer -Mexico](https://co.linkedin.com/jobs/view/semi-senior-java-support-engineer-mexico-at-procalidad-analytics-4218087774) | 87.27% | 2025-04-30 |
 | [Loan Officer Assistant](https://co.linkedin.com/jobs/view/loan-officer-assistant-at-connext-4212845584) | 87.06% | 2025-04-30 |
 | [Super Growth Master - AI Startup with $5M ARR Global Lead Sourcing](https://co.linkedin.com/jobs/view/super-growth-master-ai-startup-with-%245m-arr-global-lead-sourcing-at-lotus-interworks-4218337754) | 87.02% | 2025-04-30 |
