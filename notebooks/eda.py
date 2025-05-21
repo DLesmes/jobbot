@@ -102,6 +102,11 @@ sns.barplot(x=x, y=y, palette="rocket", hue=y, legend=False)
 plt.grid(True)
 plt.title("'publication_date'")
 #%%[markdown]
+# # custom filters
+df_ui = df[df['query_keyword'] == 'UI'].copy()
+df_ui[['description', 'vacancy_name', 'seniority']].shape
+df_ui.to_json('../data/vacancy_name_description.json')
+#%%[markdown]
 # # knowledge based filters
 # %%
 #%%
