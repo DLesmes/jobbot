@@ -1,5 +1,5 @@
 # env
-python-dotenv~=1.0.0
+python-dotenv==1.0.1
 # visualizations
 beautifulsoup4==4.12.3
 seaborn==0.13.2
@@ -12,16 +12,23 @@ notebook==7.2.2
 scikit-learn==1.5.1
 # NLP
 nltk==3.9.1
-# open_clip
+# open_clip embedings
 #torch == 2.4.0 to install use pip3 install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cpu
 #torchvision == 0.19.0
-open-clip-torch == 2.23.0
-timm == 0.9.12
-transformers == 4.48.0
+open-clip-torch==2.23.0
+timm==0.9.12
+transformers==4.48.0
+# hf
+langchain-huggingface==0.2.0
+sentence-transformers==2.6.0
 # embeds storing
-pyarrow == 19.0.1
+pyarrow==19.0.1
 # fastapi
-fastapi==0.89.0
+#fastapi==0.109.2
+#pydantic==1.10.13
 uvicorn==0.20.0
 # uuid
-shortuuid == 1.0.13
+shortuuid==1.0.13
+# testing
+pytest==7.4.4
+pytest-cov==4.1.0

@@ -3,6 +3,9 @@ import logging
 import inspect
 import os
 from dotenv import load_dotenv
+from src.app.clients.clip import Clip
+from src.app.clients.huggingface import HuggingFace
+
 load_dotenv()
 
 class Settings:
@@ -14,6 +17,8 @@ class Settings:
     JOB_OFFERS = os.environ["JOB_OFFERS"]
     JOB_SEEKERS = os.environ["JOB_SEEKERS"]
     MODEL_ID = os.environ["MODEL_ID"]
+    EMBEDDING_MODEL = os.environ["EMBEDDING_MODEL"]
+    HUGGINGFACE_MODEL_ID = os.environ["HUGGINGFACE_MODEL_ID"]
     EMBEDDING_PATH = os.environ["EMBEDDING_PATH"]
     MATCHES = os.environ["MATCHES"]
     USERS_IDS = os.environ["USERS_IDS"]
@@ -22,6 +27,18 @@ class Settings:
     RETRY_DELAY_SECONDS = os.environ["RETRY_DELAY_SECONDS"]
     MAX_RETRIES = os.environ["MAX_RETRIES"]
     SKILLS = os.environ["SKILLS"]
+
+    @staticmethod
+    def get_embedder():
+        """
+        Factory method to get the appropriate embedder based on settings.
+        
+        Returns:
+            Clip or HuggingFace: The selected embedding model
+        """
+        if Settings.EMBEDDING_MODEL.lower() == "huggingface":
+            return HuggingFace()
+        return Clip()  # Default to CLIP
 
 # Custom filter to add class and method information
 class ContextFilter(logging.Filter):
