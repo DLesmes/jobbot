@@ -3,8 +3,6 @@ import logging
 import inspect
 import os
 from dotenv import load_dotenv
-from src.app.clients.clip import Clip
-from src.app.clients.huggingface import HuggingFace
 
 load_dotenv()
 
@@ -36,6 +34,10 @@ class Settings:
         Returns:
             Clip or HuggingFace: The selected embedding model
         """
+        # Import here to avoid circular dependency
+        from src.app.clients.clip import Clip
+        from src.app.clients.huggingface import HuggingFace
+        
         if Settings.EMBEDDING_MODEL.lower() == "huggingface":
             return HuggingFace()
         return Clip()  # Default to CLIP
