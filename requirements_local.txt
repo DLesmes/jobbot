@@ -1,7 +1,8 @@
 # env
 python-dotenv==1.0.1
-# visualizations
+#webscraping
 beautifulsoup4==4.12.3
+# visualizations
 seaborn==0.13.2
 # base
 numpy==1.26.3

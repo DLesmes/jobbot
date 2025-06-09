@@ -25,6 +25,7 @@ class Settings:
     RETRY_DELAY_SECONDS = os.environ["RETRY_DELAY_SECONDS"]
     MAX_RETRIES = os.environ["MAX_RETRIES"]
     SKILLS = os.environ["SKILLS"]
+    BASE_URL = os.environ["BASE_URL"]
 
     @staticmethod
     def get_embedder():
