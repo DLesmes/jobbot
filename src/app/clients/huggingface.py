@@ -37,10 +37,10 @@ class HuggingFace():
         """
         # Handle both single string and list inputs
         if isinstance(txt, str):
-            texts = [txt]
+            txt = [txt]
             
         # Generate embeddings
-        embeddings = self.model.embed_documents(texts)
+        embeddings = self.model.embed_documents(txt)
         
         # Convert to torch tensor and ensure correct shape
         embeddings_tensor = torch.tensor(embeddings, device=self.device)
