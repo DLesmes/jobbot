@@ -24,7 +24,7 @@ def test_hf_embedding(hf_client):
     
     # Check embedding shape (should be [1, 768])
     assert len(embedding.shape) == 2
-    assert embedding.shape[0] == 1
+    assert embedding.shape[0] == 1  # Single text input should return shape[0] == 1
     assert embedding.shape[1] == 768  # Verify 768 dimensions
     
     # Check that embedding is normalized
@@ -39,10 +39,12 @@ def test_hf_embedding_batch(hf_client):
         "Third test sentence"
     ]
     
-    embeddings = [hf_client.embed(text) for text in test_texts]
+    # Call embed directly with the list
+    embeddings = hf_client.embed(test_texts)
     
     # Check that all embeddings have the same shape and correct dimensions
-    assert all(emb.shape == (1, 768) for emb in embeddings)
+    assert embeddings.shape[0] == len(test_texts), f"Expected {len(test_texts)} embeddings, got {embeddings.shape[0]}"
+    assert embeddings.shape[1] == 768
     
     # Check that embeddings are different for different texts
     for i in range(len(embeddings)):
@@ -55,7 +57,7 @@ def test_hf_empty_text(hf_client):
     embedding = hf_client.embed(empty_text)
     assert isinstance(embedding, torch.Tensor)
     assert len(embedding.shape) == 2
-    assert embedding.shape[0] == 1
+    assert embedding.shape[0] == 1  # Single text input should return shape[0] == 1
     assert embedding.shape[1] == 768
 
 def test_hf_special_characters(hf_client):
@@ -64,7 +66,7 @@ def test_hf_special_characters(hf_client):
     embedding = hf_client.embed(special_text)
     assert isinstance(embedding, torch.Tensor)
     assert len(embedding.shape) == 2
-    assert embedding.shape[0] == 1
+    assert embedding.shape[0] == 1  # Single text input should return shape[0] == 1
     assert embedding.shape[1] == 768
 
 def test_hf_long_text(hf_client):
@@ -73,7 +75,7 @@ def test_hf_long_text(hf_client):
     embedding = hf_client.embed(long_text)
     assert isinstance(embedding, torch.Tensor)
     assert len(embedding.shape) == 2
-    assert embedding.shape[0] == 1
+    assert embedding.shape[0] == 1  # Single text input should return shape[0] == 1
     assert embedding.shape[1] == 768
 
 def test_hf_embedding_dimensions(hf_client):
@@ -88,9 +90,10 @@ def test_hf_embedding_dimensions(hf_client):
         "Mixed content: Hello123!@#",  # Mixed content
     ]
     
-    for text in test_cases:
-        embedding = hf_client.embed(text)
-        assert embedding.shape == (1, 768), f"Embedding for text '{text}' should have shape (1, 768), got {embedding.shape}"
+    # Call embed directly with the list
+    embeddings = hf_client.embed(test_cases)
+    assert isinstance(test_cases, list), "Input should be a list"
+    assert embeddings.shape == (len(test_cases), 768), f"Embeddings should have shape ({len(test_cases)}, 768), got {embeddings.shape}"
 
 # Additional tests specific to HuggingFace models
 def test_hf_multilingual_support(hf_client):
@@ -103,10 +106,13 @@ def test_hf_multilingual_support(hf_client):
         "こんにちは世界"  # Japanese
     ]
     
-    embeddings = [hf_client.embed(text) for text in multilingual_texts]
+    # Call embed directly with the list
+    embeddings = hf_client.embed(multilingual_texts)
     
     # Check that all embeddings have correct shape
-    assert all(emb.shape == (1, 768) for emb in embeddings)
+    assert isinstance(multilingual_texts, list), "Input should be a list"
+    assert embeddings.shape[0] == len(multilingual_texts), f"Expected {len(multilingual_texts)} embeddings, got {embeddings.shape[0]}"
+    assert embeddings.shape[1] == 768
     
     # Check that embeddings are different for different languages
     for i in range(len(embeddings)):
@@ -121,14 +127,16 @@ def test_hf_semantic_similarity(hf_client):
         ("The weather is nice today", "It's a beautiful day")
     ]
     
-    for text1, text2 in similar_pairs:
-        emb1 = hf_client.embed(text1)
-        emb2 = hf_client.embed(text2)
-        
-        # Calculate cosine similarity
-        similarity = torch.nn.functional.cosine_similarity(emb1, emb2)
-        
-        # Similar texts should have high similarity
+    # Extract all texts into a single list
+    all_texts = [text for pair in similar_pairs for text in pair]
+    embeddings = hf_client.embed(all_texts)
+    
+    # Calculate similarities for each pair
+    for i in range(0, len(embeddings), 2):
+        similarity = torch.nn.functional.cosine_similarity(
+            embeddings[i].unsqueeze(0), 
+            embeddings[i+1].unsqueeze(0)
+        )
         assert similarity > 0.65, f"Similar texts should have high similarity, got {similarity}"
 
 def test_hf_different_topics(hf_client):
@@ -139,12 +147,14 @@ def test_hf_different_topics(hf_client):
         ("The car needs maintenance", "The book is on the shelf")
     ]
     
-    for text1, text2 in different_topics:
-        emb1 = hf_client.embed(text1)
-        emb2 = hf_client.embed(text2)
-        
-        # Calculate cosine similarity
-        similarity = torch.nn.functional.cosine_similarity(emb1, emb2)
-        
-        # Different topics should have lower similarity
+    # Extract all texts into a single list
+    all_texts = [text for pair in different_topics for text in pair]
+    embeddings = hf_client.embed(all_texts)
+    
+    # Calculate similarities for each pair
+    for i in range(0, len(embeddings), 2):
+        similarity = torch.nn.functional.cosine_similarity(
+            embeddings[i].unsqueeze(0), 
+            embeddings[i+1].unsqueeze(0)
+        )
         assert similarity < 0.7, f"Different topics should have lower similarity, got {similarity}"
