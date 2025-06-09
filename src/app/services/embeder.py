@@ -15,8 +15,6 @@ from src.app.settings import Settings
 settings = Settings()
 from src.app.utils import Retriever
 retriever = Retriever()
-from src.app.clients.clip import Clip
-clip = Clip()
 
 class Embeder():
     """
@@ -34,6 +32,7 @@ class Embeder():
         self.job_offers = settings.JOB_OFFERS
         self.job_seekers = settings.JOB_SEEKERS
         self.today = datetime.today().strftime("%Y-%m-%d")
+        self.embedder = settings.get_embedder()
     
     def users(self):
         """
@@ -69,8 +68,8 @@ class Embeder():
                 list_dict_roles_embeds = [
                     {
                         **roles,
-                        'skills_embeds':torch.stack(list(clip.embed(roles['skills']))).cpu(),
-                        'roles_embeds':torch.stack(list(clip.embed(roles['job_titles']))).cpu()
+                        'skills_embeds':torch.stack(list(self.embedder.embed(roles['skills']))).cpu(),
+                        'roles_embeds':torch.stack(list(self.embedder.embed(roles['job_titles']))).cpu()
                     } for roles in list_dict_roles_users
                 ]
                 list_dict_role_avg_embeds = [
@@ -130,14 +129,14 @@ class Embeder():
                 ][:5000].copy() # filtering by the maximum rows to embed in a 8GBRAM machine
                 logger.info(f'Missing jobs to embed: {len(df_missing_embeds)}')
                 # role embedding
-                df_missing_embeds['role_embeds'] = torch.stack(list(clip.embed(df_missing_embeds['vacancy_name'].to_list()))).cpu().numpy().tolist()
+                df_missing_embeds['role_embeds'] = torch.stack(list(self.embedder.embed(df_missing_embeds['vacancy_name'].to_list()))).cpu().numpy().tolist()
                 df_missing_embeds = df_missing_embeds[['job_id','skills','role_embeds']].copy()
                 list_dict_missing_jobs = df_missing_embeds.to_dict(orient='records')
                 # skills embedding
                 list_dict_roles_embeds = [
                     {
                         **roles,
-                        'skills_embeds':torch.stack(list(clip.embed(roles['skills']))).cpu()
+                        'skills_embeds':torch.stack(list(self.embedder.embed(roles['skills']))).cpu()
                     } for roles in list_dict_missing_jobs
                 ]
                 list_dict_missing_avg_embeds = [

@@ -82,22 +82,28 @@ def get_file_paths(directory):
 
 def cosine_similarity_numpy(vec1, vec2):
     """
-    Calculate the cosine similarity between two vectors.
+    Calculate the cosine similarity between two vectors using NumPy.
 
     Args:
-        vec1 (list or numpy.ndarray): The first vector.
-        vec2 (list or numpy.ndarray): The second vector.
+        vec1: First vector (list or NumPy array)
+        vec2: Second vector (list or NumPy array)
 
     Returns:
-        The cosine similarity between the two vectors, or 0 if an error occurred.
+        The cosine similarity between the two vectors, or NaN if either vector is a zero vector.
     """
     try:
         # Convert inputs to NumPy arrays if they are lists
         vec1 = np.array(vec1) if isinstance(vec1, list) else vec1
         vec2 = np.array(vec2) if isinstance(vec2, list) else vec2
-        dot_product = np.dot(vec1, vec2)
+        
+        # Check if either vector is a zero vector
         norm_vec1 = np.linalg.norm(vec1)
         norm_vec2 = np.linalg.norm(vec2)
+        
+        if norm_vec1 == 0 or norm_vec2 == 0:
+            return np.nan  # Return NaN for zero vectors
+            
+        dot_product = np.dot(vec1, vec2)
         similarity = round(dot_product / (norm_vec1 * norm_vec2), 4)
         return similarity
     except Exception as e:
@@ -301,8 +307,8 @@ class Retriever:
             df_jobs = pd.DataFrame(dict_jobs)
             dict_matches = open_json(self.matches)
             df_matches = pd.DataFrame(dict_matches)
-            df_matches['user_id'] = df_matches['match_id'].apply(lambda x: str(x)[:33])
-            df_matches['job_id'] = df_matches['match_id'].apply(lambda x: str(x)[33:])
+            df_matches['user_id'] = df_matches['match_id'].apply(lambda x: str(x).split('|')[0])
+            df_matches['job_id'] = df_matches['match_id'].apply(lambda x: str(x).split('|')[1])
             df_matches_user = df_matches[df_matches['user_id'] == user_id].copy()
             df_matches_user.index = df_matches_user.job_id
             dict_matches_user = df_matches_user['score'].to_dict()
