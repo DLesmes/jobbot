@@ -4,6 +4,7 @@ import json
 from datetime import datetime
 import numpy as np
 import pandas as pd
+import torch
 import logging
 logging.basicConfig(
     level=logging.INFO,
@@ -93,19 +94,109 @@ def test_get_file_paths(temp_test_files):
 
 # Test cosine_similarity_numpy function
 def test_cosine_similarity_numpy():
+    # Test cases with different scenarios
+    test_cases = [
+        # Normal case
+        ([1, 2, 3], [4, 5, 6]),
+        # Identical vectors
+        ([1, 2, 3], [1, 2, 3]),
+        # Zero vectors
+        ([0, 0, 0], [1, 1, 1]),
+        # Negative values
+        ([-1, -2, -3], [1, 2, 3]),
+        # Small values
+        ([0.1, 0.2, 0.3], [0.4, 0.5, 0.6]),
+        # Large values
+        ([1000, 2000, 3000], [4000, 5000, 6000])
+    ]
+    
+    for vec1, vec2 in test_cases:
+        # Convert to numpy arrays for numpy implementation
+        np_vec1 = np.array(vec1)
+        np_vec2 = np.array(vec2)
+        
+        # Calculate similarities using both methods
+        numpy_sim = cosine_similarity_numpy(np_vec1, np_vec2)
+        torch_sim = torch.nn.functional.cosine_similarity(
+            torch.tensor(vec1, dtype=torch.float32).unsqueeze(0), 
+            torch.tensor(vec2, dtype=torch.float32).unsqueeze(0)
+        ).item()
+        
+        # For zero vectors, numpy returns nan while torch returns 0
+        if np.isnan(numpy_sim):
+            assert torch_sim == 0, f"Zero vector case mismatch: torch={torch_sim}, numpy=nan"
+        else:
+            # For other cases, values should be very close
+            assert abs(numpy_sim - torch_sim) < 1e-4, \
+                f"Similarity mismatch for vectors {vec1} and {vec2}: " \
+                f"numpy={numpy_sim}, torch={torch_sim}"
+    
+    # Test with CLIP and HuggingFace embeddings
+    from src.app.clients.clip import Clip
+    from src.app.clients.huggingface import HuggingFace
+    
+    # Initialize models
+    clip_client = Clip()
+    hf_client = HuggingFace()
+    
+    # Test cases for semantic similarity
+    semantic_pairs = [
+        ("A cat sitting on a mat", "A feline resting on a carpet"),
+        ("I love programming", "I enjoy coding"),
+        ("The weather is nice today", "It's a beautiful day")
+    ]
+    
+    for text1, text2 in semantic_pairs:
+        # Get embeddings from both models
+        clip_emb1 = clip_client.embed(text1).squeeze()  # Remove batch dimension
+        clip_emb2 = clip_client.embed(text2).squeeze()
+        hf_emb1 = hf_client.embed(text1).squeeze()
+        hf_emb2 = hf_client.embed(text2).squeeze()
+        
+        # Convert to numpy arrays
+        clip_emb1 = clip_emb1.numpy()
+        clip_emb2 = clip_emb2.numpy()
+        hf_emb1 = hf_emb1.numpy()
+        hf_emb2 = hf_emb2.numpy()
+        
+        # Calculate similarities using numpy implementation
+        clip_sim = cosine_similarity_numpy(clip_emb1, clip_emb2)
+        hf_sim = cosine_similarity_numpy(hf_emb1, hf_emb2)
+        
+        # Calculate similarities using torch implementation
+        clip_torch_sim = torch.nn.functional.cosine_similarity(
+            torch.tensor(clip_emb1, dtype=torch.float32).unsqueeze(0),
+            torch.tensor(clip_emb2, dtype=torch.float32).unsqueeze(0)
+        ).item()
+        
+        hf_torch_sim = torch.nn.functional.cosine_similarity(
+            torch.tensor(hf_emb1, dtype=torch.float32).unsqueeze(0),
+            torch.tensor(hf_emb2, dtype=torch.float32).unsqueeze(0)
+        ).item()
+        
+        # Verify that both implementations give similar results
+        assert abs(clip_sim - clip_torch_sim) < 1e-3, \
+            f"CLIP similarity mismatch for texts '{text1}' and '{text2}': " \
+            f"numpy={clip_sim}, torch={clip_torch_sim}"
+        
+        assert abs(hf_sim - hf_torch_sim) < 1e-3, \
+            f"HuggingFace similarity mismatch for texts '{text1}' and '{text2}': " \
+            f"numpy={hf_sim}, torch={hf_torch_sim}"
+        
+        # Verify that both models capture semantic similarity
+        assert clip_sim > 0.65, f"CLIP similarity too low for similar texts: {clip_sim}"
+        assert hf_sim > 0.65, f"HuggingFace similarity too low for similar texts: {hf_sim}"
+    
+    # Test for vectors of different lengths
     vec1 = [1, 2, 3]
-    vec2 = [4, 5, 6]
-    similarity = cosine_similarity_numpy(vec1, vec2)
-    assert isinstance(similarity, float)
-    assert 0 <= similarity <= 1
-
-    vec3 = [0, 0, 0]
-    vec4 = [1, 1, 1]
-    similarity_zero = cosine_similarity_numpy(vec3, vec4)
-    assert np.isnan(similarity_zero) # Expect nan when one vector is zero
-
-    # test for edge cases
-    assert cosine_similarity_numpy([1, 2, 3], [1, 2, 3]) == 1.0
+    vec2 = [1, 2, 3, 4]
+    with pytest.raises(ValueError, match="Vectors must have the same length"):
+        cosine_similarity_numpy(vec1, vec2)
+    
+    # Test for empty vectors
+    empty_vec = []
+    with pytest.raises(ValueError, match="Vectors cannot be empty"):
+        cosine_similarity_numpy(empty_vec, empty_vec)
 
 
 

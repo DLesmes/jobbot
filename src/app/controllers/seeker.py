@@ -81,22 +81,22 @@ class Seeker():
         try:
             logger.info("Starting Seeker pipeline execution")
             
-            #logger.info("Starting preprocessing step")
-            #preprocesor.run()
-            #logger.info("Preprocessing completed")
-            #
-            #logger.info("Starting expiring outdated jobs")
-            #expirer.update()
-            #logger.info("Jobs expiration completed")
-            #
-            #logger.info("Starting user embedding")
-            #embeder.users()
-            #logger.info("User embedding completed")
+            logger.info("Starting preprocessing step")
+            preprocesor.run()
+            logger.info("Preprocessing completed")
             
-            #logger.info("Starting job embedding")
-            #embeder.jobs()
-            #logger.info("Job embedding completed")
-            #
+            logger.info("Starting expiring outdated jobs")
+            expirer.update()
+            logger.info("Jobs expiration completed")
+            
+            logger.info("Starting user embedding")
+            embeder.users()
+            logger.info("User embedding completed")
+                        
+            logger.info("Starting job embedding")
+            embeder.jobs()
+            logger.info("Job embedding completed")
+            
             logger.info("Starting the mentor service")
             mentor.run()
             

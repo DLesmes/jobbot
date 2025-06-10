@@ -90,11 +90,22 @@ def cosine_similarity_numpy(vec1, vec2):
 
     Returns:
         The cosine similarity between the two vectors, or NaN if either vector is a zero vector.
+        
+    Raises:
+        ValueError: If vectors have different lengths or are empty
     """
     try:
         # Convert inputs to NumPy arrays if they are lists
         vec1 = np.array(vec1) if isinstance(vec1, list) else vec1
         vec2 = np.array(vec2) if isinstance(vec2, list) else vec2
+        
+        # Validate vector lengths
+        if len(vec1) != len(vec2):
+            raise ValueError(f"Vectors must have the same length. Got lengths {len(vec1)} and {len(vec2)}")
+        
+        # Check if either vector is empty
+        if len(vec1) == 0 or len(vec2) == 0:
+            raise ValueError("Vectors cannot be empty")
         
         # Check if either vector is a zero vector
         norm_vec1 = np.linalg.norm(vec1)
@@ -108,7 +119,7 @@ def cosine_similarity_numpy(vec1, vec2):
         return similarity
     except Exception as e:
         logger.error(f'Error calculating cosine similarity: {e}')
-        return -1
+        raise  # Re-raise the exception to be handled by the caller
 
 def create_job_markdown_table(job_list):
     """
