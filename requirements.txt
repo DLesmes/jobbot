@@ -1,7 +1,7 @@
 linkedin-jobs-scraper==1.8.4
 wcwidth==0.2.5
 websocket-client==1.2.1
-requests==2.32.2  # Updated to a newer compatible version
+requests==2.32.4  # Updated to a newer compatible version
 pytest==7.4.4     # Updated pytest
 pandas==2.2.0
 python-dotenv==0.19.1
