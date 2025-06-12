@@ -3,7 +3,7 @@
 import ast
 import logging
 logger = logging.getLogger('Jobbot')
-from datetime import datetime
+from datetime import datetime, timedelta
 import pandas as pd
 # repo imports
 from src.app.utils import (
@@ -72,7 +72,7 @@ class Mentor():
                 (df_jobs["location"].isin(location_criteria)) &    # Filter by location
                 (df_jobs["work_modality_english"].isin(work_modality_criteria)) &  # Filter by work modality
                 (df_jobs["remote"].isin(remote_criteria)) &  # Filter by remote_criteria
-                (~df_jobs["company"].isin(excluded_companies))     # Exclude specified companies
+                (~df_jobs["company"].isin(excluded_companies))   # Exclude specified companies
             ].copy()
             
             if not english:
