@@ -1,6 +1,15 @@
 # 🚀 Latest Job Offers Recommendations!
 | 🗃️ **Job offer** | 🌡️**Score** | 🗓️ **publication_date** |
 |---|---|---|
+| [AI Engineer](https://co.linkedin.com/jobs/view/ai-engineer-at-launchpad-technologies-inc-4234755072) | 90.32% | 2025-06-12 |
+| [Ingeniero de Inteligencia Artificial](https://co.linkedin.com/jobs/view/ingeniero-de-inteligencia-artificial-at-adecco-4248186548) | 87.11% | 2025-06-12 |
+| [Ingeniero/a de Preventa de Datos e Inteligencia Artificial](https://co.linkedin.com/jobs/view/ingeniero-a-de-preventa-de-datos-e-inteligencia-artificial-at-periferia-it-group-4247795321) | 87.04% | 2025-06-12 |
+| [Arquitecto de Soluciones de Inteligencia Artificial](https://co.linkedin.com/jobs/view/arquitecto-de-soluciones-de-inteligencia-artificial-at-keyrus-4234710651) | 83.31% | 2025-06-12 |
+| [Lead Data Scientist Generative AI](https://co.linkedin.com/jobs/view/lead-data-scientist-generative-ai-at-softserve-4231930232) | 80.94% | 2025-06-12 |
+| [Senior AI Technical Lead](https://co.linkedin.com/jobs/view/senior-ai-technical-lead-at-ciberc-latam-4248134411) | 79.34% | 2025-06-12 |
+| [Data Engineer](https://co.linkedin.com/jobs/view/data-engineer-at-launchpad-technologies-inc-4234471032) | 79.09% | 2025-06-12 |
+| [Ingeniero de Datos](https://co.linkedin.com/jobs/view/ingeniero-de-datos-at-gft-technologies-4250047263) | 78.40% | 2025-06-12 |
+| [AI Application Developer](https://co.linkedin.com/jobs/view/ai-application-developer-at-booth-partners-4250047229) | 75.73% | 2025-06-12 |
 | [Data Engineer](https://co.linkedin.com/jobs/view/data-engineer-at-neostella-4231880909) | 79.18% | 2025-06-11 |
 | [Data Engineer](https://co.linkedin.com/jobs/view/data-engineer-at-kpler-4232207110) | 78.80% | 2025-06-11 |
 | [Senior Data Engineer](https://co.linkedin.com/jobs/view/senior-data-engineer-at-lean-tech-4246345972) | 77.20% | 2025-06-11 |
