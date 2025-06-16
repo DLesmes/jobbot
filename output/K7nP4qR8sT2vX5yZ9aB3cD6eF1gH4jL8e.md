@@ -1,40 +1,33 @@
 # 🚀 Latest Job Offers Recommendations!
 | 🗃️ **Job offer** | 🌡️**Score** | 🗓️ **publication_date** |
 |---|---|---|
-| [Data Engineer](https://co.linkedin.com/jobs/view/data-engineer-at-launchpad-technologies-inc-4247288927) | 95.49% | 2025-06-09 |
-| [Business Intelligence Developer](https://co.linkedin.com/jobs/view/business-intelligence-developer-at-launchpad-technologies-inc-4247290708) | 93.83% | 2025-06-09 |
-| [Lead Data Analyst](https://co.linkedin.com/jobs/view/lead-data-analyst-at-practia-global-4245351385) | 92.35% | 2025-06-09 |
-| [Data Operations Analyst](https://co.linkedin.com/jobs/view/data-operations-analyst-at-iron-mountain-4242585223) | 92.15% | 2025-06-09 |
-| [Data Quality Assurance Analyst](https://co.linkedin.com/jobs/view/data-quality-assurance-analyst-at-first-line-software-4245313710) | 91.80% | 2025-06-09 |
-| [Applications Analyst](https://co.linkedin.com/jobs/view/applications-analyst-at-evertec-4245354174) | 91.31% | 2025-06-09 |
-| [Front End Developers - AI Training Remote](https://co.linkedin.com/jobs/view/front-end-developers-ai-training-remote-at-braintrust-4220213173) | 90.92% | 2025-06-09 |
-| [Frontend Developer](https://co.linkedin.com/jobs/view/frontend-developer-at-capgemini-engineering-4245114363) | 90.71% | 2025-06-09 |
-| [Web Developer](https://co.linkedin.com/jobs/view/web-developer-at-launchpad-technologies-inc-4247294165) | 90.47% | 2025-06-09 |
-| [Devops Engineer](https://co.linkedin.com/jobs/view/devops-engineer-at-launchpad-technologies-inc-4247289852) | 90.33% | 2025-06-09 |
-| [Infrastructure Architect](https://co.linkedin.com/jobs/view/infrastructure-architect-at-launchpad-technologies-inc-4247295097) | 90.02% | 2025-06-09 |
-| [Database Administrator](https://co.linkedin.com/jobs/view/database-administrator-at-launchpad-technologies-inc-4247288940) | 89.66% | 2025-06-09 |
-| [Data Center Implementation Engineer Remote](https://co.linkedin.com/jobs/view/data-center-implementation-engineer-remote-at-by-turing-group-4247484285) | 89.29% | 2025-06-09 |
-| [Ingeniero de datos](https://co.linkedin.com/jobs/view/ingeniero-de-datos-at-gft-technologies-4245104579) | 89.06% | 2025-06-09 |
-| [Senior Analyst– Strategic Consulting Research](https://co.linkedin.com/jobs/view/senior-analyst%E2%80%93-strategic-consulting-research-at-evalueserve-4226514308) | 89.05% | 2025-06-09 |
-| [Científico De Datos](https://co.linkedin.com/jobs/view/cient%C3%ADfico-de-datos-at-compensar-4247290309) | 89.02% | 2025-06-09 |
-| [Coders - AI Training Remote](https://co.linkedin.com/jobs/view/coders-ai-training-remote-at-braintrust-4201819753) | 88.77% | 2025-06-09 |
-| [Accounting Analyst](https://co.linkedin.com/jobs/view/accounting-analyst-at-jalasoft-4245364252) | 88.61% | 2025-06-09 |
-| [Remote Sales Closer - SaaS Startup](https://co.linkedin.com/jobs/view/remote-sales-closer-saas-startup-at-scale-up-recruiting-partners-4245314831) | 88.44% | 2025-06-09 |
-| [Content Coordinator](https://co.linkedin.com/jobs/view/content-coordinator-at-adipa-4247482143) | 88.27% | 2025-06-09 |
-| [Senior Data Engineer - Azure Data Factory](https://co.linkedin.com/jobs/view/senior-data-engineer-azure-data-factory-at-devsu-4245105062) | 88.22% | 2025-06-09 |
-| [Analista de soporte de aplicaciones](https://co.linkedin.com/jobs/view/analista-de-soporte-de-aplicaciones-at-novopayment-4247479640) | 87.90% | 2025-06-09 |
-| [AI Content Analyst, IgniteTech Remote - $30,000/year USD](https://co.linkedin.com/jobs/view/ai-content-analyst-ignitetech-remote-%2430-000-year-usd-at-trilogy-4244022481) | 87.83% | 2025-06-09 |
-| [Operations Specialist](https://co.linkedin.com/jobs/view/operations-specialist-at-mural-pay-4247475546) | 87.50% | 2025-06-09 |
-| [Sales Coordinator](https://co.linkedin.com/jobs/view/sales-coordinator-at-doxa-talent-4247479431) | 87.26% | 2025-06-09 |
-| [Paid Media Manager](https://co.linkedin.com/jobs/view/paid-media-manager-at-agencia-los-navegantes-4247481975) | 87.16% | 2025-06-09 |
-| [Regional Manager](https://co.linkedin.com/jobs/view/regional-manager-at-rappi-4230548744) | 87.06% | 2025-06-09 |
-| [Ingeniero de automatización de aseguramiento de la calidad](https://co.linkedin.com/jobs/view/ingeniero-de-automatizaci%C3%B3n-de-aseguramiento-de-la-calidad-at-doxa-talent-4234411954) | 86.86% | 2025-06-09 |
-| [Analista CloudOps](https://co.linkedin.com/jobs/view/analista-cloudops-at-pragma-4243907718) | 86.62% | 2025-06-09 |
-| [Client Success Coordinator](https://co.linkedin.com/jobs/view/client-success-coordinator-at-doxa-talent-4247475833) | 86.58% | 2025-06-09 |
-| [Desarrollador de back-end Senior](https://co.linkedin.com/jobs/view/desarrollador-de-back-end-senior-at-consultor%C3%ADa-4245364466) | 86.42% | 2025-06-09 |
-| [Desarrollador Full Stack](https://co.linkedin.com/jobs/view/desarrollador-full-stack-at-sincosoft-sas-4247482113) | 86.30% | 2025-06-09 |
-| [Associate Business Operations Analyst - Delivery Support](https://co.linkedin.com/jobs/view/associate-business-operations-analyst-delivery-support-at-publicis-sapient-4245359983) | 86.23% | 2025-06-09 |
-| [Asistente Virtual Work From Home](https://co.linkedin.com/jobs/view/asistente-virtual-work-from-home-at-persona-4245324374) | 85.51% | 2025-06-09 |
-| [AI Content Reviewer, IgniteTech Remote - $30,000/year USD](https://co.linkedin.com/jobs/view/ai-content-reviewer-ignitetech-remote-%2430-000-year-usd-at-trilogy-4244023219) | 85.42% | 2025-06-09 |
-| [AI Content Reviewer, IgniteTech Remote - $30,000/year USD](https://co.linkedin.com/jobs/view/ai-content-reviewer-ignitetech-remote-%2430-000-year-usd-at-trilogy-4244019607) | 85.42% | 2025-06-09 |
-| [Senior Salesforce Developer, Trilogy Remote - $100,000/year USD](https://co.linkedin.com/jobs/view/senior-salesforce-developer-trilogy-remote-%24100-000-year-usd-at-trilogy-4244022376) | 85.15% | 2025-06-09 |
+| [AI Engineer](https://co.linkedin.com/jobs/view/ai-engineer-at-launchpad-technologies-inc-4234755072) | 90.32% | 2025-06-12 |
+| [Ingeniero de Inteligencia Artificial](https://co.linkedin.com/jobs/view/ingeniero-de-inteligencia-artificial-at-adecco-4248186548) | 87.11% | 2025-06-12 |
+| [Ingeniero/a de Preventa de Datos e Inteligencia Artificial](https://co.linkedin.com/jobs/view/ingeniero-a-de-preventa-de-datos-e-inteligencia-artificial-at-periferia-it-group-4247795321) | 87.04% | 2025-06-12 |
+| [Arquitecto de Soluciones de Inteligencia Artificial](https://co.linkedin.com/jobs/view/arquitecto-de-soluciones-de-inteligencia-artificial-at-keyrus-4234710651) | 83.31% | 2025-06-12 |
+| [Lead Data Scientist Generative AI](https://co.linkedin.com/jobs/view/lead-data-scientist-generative-ai-at-softserve-4231930232) | 80.94% | 2025-06-12 |
+| [Senior AI Technical Lead](https://co.linkedin.com/jobs/view/senior-ai-technical-lead-at-ciberc-latam-4248134411) | 79.34% | 2025-06-12 |
+| [Data Engineer](https://co.linkedin.com/jobs/view/data-engineer-at-launchpad-technologies-inc-4234471032) | 79.09% | 2025-06-12 |
+| [Ingeniero de Datos](https://co.linkedin.com/jobs/view/ingeniero-de-datos-at-gft-technologies-4250047263) | 78.40% | 2025-06-12 |
+| [AI Application Developer](https://co.linkedin.com/jobs/view/ai-application-developer-at-booth-partners-4250047229) | 75.73% | 2025-06-12 |
+| [Data Engineer](https://co.linkedin.com/jobs/view/data-engineer-at-neostella-4231880909) | 79.18% | 2025-06-11 |
+| [Data Engineer](https://co.linkedin.com/jobs/view/data-engineer-at-kpler-4232207110) | 78.80% | 2025-06-11 |
+| [Senior Data Engineer](https://co.linkedin.com/jobs/view/senior-data-engineer-at-lean-tech-4246345972) | 77.20% | 2025-06-11 |
+| [Senior Data Engineer](https://co.linkedin.com/jobs/view/senior-data-engineer-at-xebia-4249081446) | 77.03% | 2025-06-11 |
+| [Expert Data Engineer - LA](https://co.linkedin.com/jobs/view/expert-data-engineer-la-at-gorilla-logic-4233862590) | 76.07% | 2025-06-11 |
+| [Data Engineering Associate](https://co.linkedin.com/jobs/view/data-engineering-associate-at-scotiabank-4231607156) | 75.19% | 2025-06-11 |
+| [Software Engineer with AI](https://co.linkedin.com/jobs/view/software-engineer-with-ai-at-tech-first-4246273209) | 87.03% | 2025-06-10 |
+| [Lead AI Engineer / Expert AI Solutions Architect](https://co.linkedin.com/jobs/view/lead-ai-engineer-expert-ai-solutions-architect-at-gorilla-logic-4233166940) | 83.67% | 2025-06-10 |
+| [Ingeniero de datos](https://co.linkedin.com/jobs/view/ingeniero-de-datos-at-pragma-4246267966) | 79.56% | 2025-06-10 |
+| [Data Engineer](https://co.linkedin.com/jobs/view/data-engineer-at-ipg-mediabrands-4248330319) | 79.29% | 2025-06-10 |
+| [Data Engineer](https://co.linkedin.com/jobs/view/data-engineer-at-vortech-pci-group-4248070223) | 78.44% | 2025-06-10 |
+| [Data Engineer Associate](https://co.linkedin.com/jobs/view/data-engineer-associate-at-scotiabank-4231284339) | 77.49% | 2025-06-10 |
+| [Data Engineering Associate](https://co.linkedin.com/jobs/view/data-engineering-associate-at-scotiabank-4217550878) | 75.28% | 2025-06-10 |
+| [Senior Data Engineer AI/ML](https://co.linkedin.com/jobs/view/senior-data-engineer-ai-ml-at-intellias-4247550702) | 89.30% | 2025-06-09 |
+| [Profesional de Inteligencia Artificial IA](https://co.linkedin.com/jobs/view/profesional-de-inteligencia-artificial-ia-at-scala-learning-latam-4247536908) | 82.08% | 2025-06-09 |
+| [Ingeniero de datos](https://co.linkedin.com/jobs/view/ingeniero-de-datos-at-gft-technologies-4245104579) | 79.27% | 2025-06-09 |
+| [Data Engineer](https://co.linkedin.com/jobs/view/data-engineer-at-launchpad-technologies-inc-4247288927) | 79.15% | 2025-06-09 |
+| [Senior Data Engineer](https://co.linkedin.com/jobs/view/senior-data-engineer-at-source-meridian-4245145629) | 77.18% | 2025-06-09 |
+| [Senior AI/ML Engineer with vast experience in AI automations and Ai integrations](https://co.linkedin.com/jobs/view/senior-ai-ml-engineer-with-vast-experience-in-ai-automations-and-ai-integrations-at-the-grand-lion-capital-4246684363) | 80.32% | 2025-06-08 |
+| [Data Engineer](https://co.linkedin.com/jobs/view/data-engineer-at-%E2%9A%A1-goodunited-%E2%9A%A1-4246960726) | 79.14% | 2025-06-08 |
+| [Analytics Engineer](https://co.linkedin.com/jobs/view/analytics-engineer-at-addi-4199611915) | 77.36% | 2025-06-08 |

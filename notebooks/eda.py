@@ -2,6 +2,8 @@
 # # requirements
 import math
 import itertools
+import time
+from datetime import timedelta, datetime
 import numpy as np
 import pandas as pd
 #Graph
@@ -103,9 +105,9 @@ plt.grid(True)
 plt.title("'publication_date'")
 #%%[markdown]
 # # custom filters
-df_ui = df[df['query_keyword'] == 'UI'].copy()
-df_ui[['description', 'vacancy_name', 'seniority']].shape
-df_ui.to_json('../data/vacancy_name_description.json')
+#df_ui = df[df['query_keyword'] == 'UI'].copy()
+#df_ui[['description', 'vacancy_name', 'seniority']].shape
+#df_ui.to_json('../data/vacancy_name_description.json')
 #%%[markdown]
 # # knowledge based filters
 # %%
@@ -165,6 +167,16 @@ x = np.array(list(a['count']))
 sns.barplot(x=x, y=y, palette="rocket", hue=y, legend=False)
 plt.grid(True)
 plt.title("'publication_date'")
+#%%
+plt.figure(figsize=(5,7))
+df = df_filtered[df_filtered['publication_date'] > (datetime.now() - timedelta(days=3)).strftime('%Y-%m-%d')]
+a = pd.DataFrame(df['vacancy_name'].value_counts()[:25])
+y = np.array(list(a.index))
+x = np.array(list(a['count']))
+sns.barplot(x=x, y=y, palette="rocket", hue=y, legend=False)
+plt.grid(True)
+plt.title("'vacancy_name'")
+
 #%% [markdown]
 # # skills
 df_skills = pd.read_json('../data/general_skills.json')
