@@ -1,6 +1,13 @@
 # 🚀 Latest Job Offers Recommendations!
 | 🗃️ **Job offer** | 🌡️**Score** | 🗓️ **publication_date** |
 |---|---|---|
+| [AI/ML Engineer](https://co.linkedin.com/jobs/view/ai-ml-engineer-at-velero-4252036516) | 89.76% | 2025-06-16 |
+| [Senior Machine Learning Engineer](https://co.linkedin.com/jobs/view/senior-machine-learning-engineer-at-loka-4251618164) | 82.04% | 2025-06-16 |
+| [AI Automation Developer](https://co.linkedin.com/jobs/view/ai-automation-developer-at-emapta-global-4250138615) | 81.82% | 2025-06-16 |
+| [AI System Developer](https://co.linkedin.com/jobs/view/ai-system-developer-at-mok-4249702807) | 80.74% | 2025-06-16 |
+| [AI Solutions Developer](https://co.linkedin.com/jobs/view/ai-solutions-developer-at-emapta-global-4243296002) | 79.45% | 2025-06-16 |
+| [Ingeniero de datos](https://co.linkedin.com/jobs/view/ingeniero-de-datos-at-management-and-quality-4252036615) | 79.32% | 2025-06-16 |
+| [Senior Data Engineer](https://co.linkedin.com/jobs/view/senior-data-engineer-at-scotiabank-4251666072) | 77.10% | 2025-06-16 |
 | [AI Engineer](https://co.linkedin.com/jobs/view/ai-engineer-at-launchpad-technologies-inc-4234755072) | 90.32% | 2025-06-12 |
 | [Ingeniero de Inteligencia Artificial](https://co.linkedin.com/jobs/view/ingeniero-de-inteligencia-artificial-at-adecco-4248186548) | 87.11% | 2025-06-12 |
 | [Ingeniero/a de Preventa de Datos e Inteligencia Artificial](https://co.linkedin.com/jobs/view/ingeniero-a-de-preventa-de-datos-e-inteligencia-artificial-at-periferia-it-group-4247795321) | 87.04% | 2025-06-12 |
@@ -23,11 +30,3 @@
 | [Data Engineer](https://co.linkedin.com/jobs/view/data-engineer-at-vortech-pci-group-4248070223) | 78.44% | 2025-06-10 |
 | [Data Engineer Associate](https://co.linkedin.com/jobs/view/data-engineer-associate-at-scotiabank-4231284339) | 77.49% | 2025-06-10 |
 | [Data Engineering Associate](https://co.linkedin.com/jobs/view/data-engineering-associate-at-scotiabank-4217550878) | 75.28% | 2025-06-10 |
-| [Senior Data Engineer AI/ML](https://co.linkedin.com/jobs/view/senior-data-engineer-ai-ml-at-intellias-4247550702) | 89.30% | 2025-06-09 |
-| [Profesional de Inteligencia Artificial IA](https://co.linkedin.com/jobs/view/profesional-de-inteligencia-artificial-ia-at-scala-learning-latam-4247536908) | 82.08% | 2025-06-09 |
-| [Ingeniero de datos](https://co.linkedin.com/jobs/view/ingeniero-de-datos-at-gft-technologies-4245104579) | 79.27% | 2025-06-09 |
-| [Data Engineer](https://co.linkedin.com/jobs/view/data-engineer-at-launchpad-technologies-inc-4247288927) | 79.15% | 2025-06-09 |
-| [Senior Data Engineer](https://co.linkedin.com/jobs/view/senior-data-engineer-at-source-meridian-4245145629) | 77.18% | 2025-06-09 |
-| [Senior AI/ML Engineer with vast experience in AI automations and Ai integrations](https://co.linkedin.com/jobs/view/senior-ai-ml-engineer-with-vast-experience-in-ai-automations-and-ai-integrations-at-the-grand-lion-capital-4246684363) | 80.32% | 2025-06-08 |
-| [Data Engineer](https://co.linkedin.com/jobs/view/data-engineer-at-%E2%9A%A1-goodunited-%E2%9A%A1-4246960726) | 79.14% | 2025-06-08 |
-| [Analytics Engineer](https://co.linkedin.com/jobs/view/analytics-engineer-at-addi-4199611915) | 77.36% | 2025-06-08 |
