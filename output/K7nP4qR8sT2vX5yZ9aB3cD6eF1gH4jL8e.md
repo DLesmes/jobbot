@@ -1,11 +1,12 @@
 # 🚀 Latest Job Offers Recommendations!
 | 🗃️ **Job offer** | 🌡️**Score** | 🗓️ **publication_date** |
 |---|---|---|
+| [Senior Machine Learning Engineer](https://co.linkedin.com/jobs/view/senior-machine-learning-engineer-at-loka-4251618164) | 82.04% | 2025-06-23 |
+| [Data Engineer](https://co.linkedin.com/jobs/view/data-engineer-at-8base-4255007132) | 78.96% | 2025-06-23 |
 | [Senior AI Engineer Databricks](https://co.linkedin.com/jobs/view/senior-ai-engineer-databricks-at-wizeline-4253875039) | 89.60% | 2025-06-20 |
 | [Especialista en Soluciones IA](https://co.linkedin.com/jobs/view/especialista-en-soluciones-ia-at-ttg-talent-solutions-4253730394) | 85.30% | 2025-06-20 |
 | [AI Architect](https://co.linkedin.com/jobs/view/ai-architect-at-vrize-4253831777) | 79.86% | 2025-06-20 |
 | [Ingeniero de datos](https://co.linkedin.com/jobs/view/ingeniero-de-datos-at-gco-4253430389) | 79.67% | 2025-06-20 |
-| [Ingeniero de datos](https://co.linkedin.com/jobs/view/ingeniero-de-datos-at-brm-s-a-s-4253828830) | 78.93% | 2025-06-20 |
 | [AI & Transformation Architect](https://co.linkedin.com/jobs/view/ai-transformation-architect-at-tp-4238051576) | 78.78% | 2025-06-20 |
 | [Executive AI Advisor](https://co.linkedin.com/jobs/view/executive-ai-advisor-at-oracle-4223874519) | 77.75% | 2025-06-20 |
 | [Senior Data Engineer](https://co.linkedin.com/jobs/view/senior-data-engineer-at-softtek-4253868534) | 75.71% | 2025-06-20 |
@@ -25,7 +26,3 @@
 | [Data Engineer Associate](https://co.linkedin.com/jobs/view/data-engineer-associate-at-scotiabank-4235457161) | 77.63% | 2025-06-17 |
 | [Senior Data Engineer](https://co.linkedin.com/jobs/view/senior-data-engineer-at-nmq-digital-4249901749) | 77.46% | 2025-06-17 |
 | [Senior Data Engineer](https://co.linkedin.com/jobs/view/senior-data-engineer-at-scotiatech-4252561837) | 77.28% | 2025-06-17 |
-| [Senior Machine Learning Engineer](https://co.linkedin.com/jobs/view/senior-machine-learning-engineer-at-loka-4251618164) | 82.04% | 2025-06-16 |
-| [AI Automation Developer](https://co.linkedin.com/jobs/view/ai-automation-developer-at-emapta-global-4250138615) | 81.82% | 2025-06-16 |
-| [Ingeniero de datos](https://co.linkedin.com/jobs/view/ingeniero-de-datos-at-management-and-quality-4252036615) | 79.32% | 2025-06-16 |
-| [Senior Data Engineer](https://co.linkedin.com/jobs/view/senior-data-engineer-at-scotiabank-4251666072) | 77.10% | 2025-06-16 |
