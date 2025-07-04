@@ -1,9 +1,15 @@
 # 🚀 Latest Job Offers Recommendations!
 | 🗃️ **Job offer** | 🌡️**Score** | 🗓️ **publication_date** |
 |---|---|---|
+| [Ingeniero de datos](https://co.linkedin.com/jobs/view/ingeniero-de-datos-at-softtek-4262009535) | 78.32% | 2025-07-04 |
+| [AI Engineer](https://co.linkedin.com/jobs/view/ai-engineer-at-launchpad-technologies-inc-4234755072) | 90.32% | 2025-07-03 |
+| [Senior AI Engineer](https://co.linkedin.com/jobs/view/senior-ai-engineer-at-wizeline-4261735054) | 88.68% | 2025-07-03 |
+| [Principal AI Engineer](https://co.linkedin.com/jobs/view/principal-ai-engineer-at-sparq-4249292307) | 83.65% | 2025-07-03 |
 | [Ingeniero / Ingeniera de Machine Learning](https://co.linkedin.com/jobs/view/ingeniero-ingeniera-de-machine-learning-at-mercado-libre-4257648051) | 83.06% | 2025-07-03 |
 | [Data Engineer](https://co.linkedin.com/jobs/view/data-engineer-at-10pearls-llc-4261043825) | 79.18% | 2025-07-03 |
+| [Data Engineer](https://co.linkedin.com/jobs/view/data-engineer-at-neostella-4231880909) | 79.18% | 2025-07-03 |
 | [Data Engineer](https://co.linkedin.com/jobs/view/data-engineer-at-beiza-consulting-4261090322) | 78.70% | 2025-07-03 |
+| [Senior Data Engineer](https://co.linkedin.com/jobs/view/senior-data-engineer-at-holcim-adc-4260614912) | 76.50% | 2025-07-03 |
 | [Ingeniero de datos](https://co.linkedin.com/jobs/view/ingeniero-de-datos-at-bpt-software-4261067082) | 79.64% | 2025-07-02 |
 | [Ingeniero de Datos ODI](https://co.linkedin.com/jobs/view/ingeniero-de-datos-odi-at-ntt-data-europe-latam-4259581521) | 75.66% | 2025-07-02 |
 | [Signal-Processing/Machine Learning Engineer](https://co.linkedin.com/jobs/view/signal-processing-machine-learning-engineer-at-dogsolutions-4259132630) | 75.08% | 2025-07-02 |
