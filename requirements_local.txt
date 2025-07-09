@@ -18,7 +18,7 @@ nltk==3.9.1
 #torchvision == 0.19.0
 open-clip-torch==2.23.0
 timm==0.9.12
-transformers==4.50.0
+transformers==4.52.1
 # hf
 langchain-huggingface==0.2.0
 sentence-transformers==2.6.0
