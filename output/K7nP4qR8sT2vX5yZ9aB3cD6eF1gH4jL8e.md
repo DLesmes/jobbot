@@ -1,11 +1,20 @@
 # 🚀 Latest Job Offers Recommendations!
 | 🗃️ **Job offer** | 🌡️**Score** | 🗓️ **publication_date** |
 |---|---|---|
+| [Ingeniero de IA](https://co.linkedin.com/jobs/view/ingeniero-de-ia-at-wompi-4265391635) | 88.54% | 2025-07-11 |
+| [JR Generative AI Engineer](https://co.linkedin.com/jobs/view/jr-generative-ai-engineer-at-draiver-4263070692) | 83.70% | 2025-07-11 |
+| [Junior AI Engineer](https://co.linkedin.com/jobs/view/junior-ai-engineer-at-itelcx-4265216057) | 81.44% | 2025-07-11 |
+| [Ingeniero de datos](https://co.linkedin.com/jobs/view/ingeniero-de-datos-at-brm-s-a-s-4263508014) | 78.93% | 2025-07-11 |
+| [AI & Transformation Architect](https://co.linkedin.com/jobs/view/ai-transformation-architect-at-tp-4238051576) | 78.78% | 2025-07-11 |
+| [Ingenieroa de Datos](https://co.linkedin.com/jobs/view/ingeniero-a-de-datos-at-inetum-4265236754) | 78.69% | 2025-07-11 |
+| [Ingeniero de Datos](https://co.linkedin.com/jobs/view/ingeniero-de-datos-at-tuya-s-a-4265241954) | 78.03% | 2025-07-11 |
+| [Senior Data Engineer](https://co.linkedin.com/jobs/view/senior-data-engineer-at-endava-4263500483) | 76.95% | 2025-07-11 |
+| [Senior Data Engineer](https://co.linkedin.com/jobs/view/senior-data-engineer-at-wizeline-4265393666) | 76.83% | 2025-07-11 |
 | [Analyst, Data Automation](https://co.linkedin.com/jobs/view/analyst-data-automation-at-cable-wireless-communications-4265042878) | 76.42% | 2025-07-11 |
+| [Sr AI/ML Engineer - Colombia/Remote](https://co.linkedin.com/jobs/view/sr-ai-ml-engineer-colombia-remote-at-truelogic-software-4265228683) | 75.20% | 2025-07-11 |
 | [AI Engineer](https://co.linkedin.com/jobs/view/ai-engineer-at-product-pulse-4264364555) | 90.22% | 2025-07-10 |
 | [Artificial Intelligence Full Stack Engineer](https://co.linkedin.com/jobs/view/artificial-intelligence-full-stack-engineer-at-resilu-4261689863) | 84.70% | 2025-07-10 |
 | [Especialista IA y Tecnologías Emergentes](https://co.linkedin.com/jobs/view/especialista-ia-y-tecnolog%C3%ADas-emergentes-at-protecci%C3%B3n-s-a-4261615112) | 82.89% | 2025-07-10 |
-| [Ingeniero de datos](https://co.linkedin.com/jobs/view/ingeniero-de-datos-at-brm-s-a-s-4262574737) | 78.93% | 2025-07-10 |
 | [Cientifico de datos - Especialista en AI Generativa Semi-Senior](https://co.linkedin.com/jobs/view/cientifico-de-datos-especialista-en-ai-generativa-semi-senior-at-finaipro-technologies-s-a-s-4264622117) | 78.70% | 2025-07-10 |
 | [Senior Data Engineer](https://co.linkedin.com/jobs/view/senior-data-engineer-at-datup-4265014233) | 77.28% | 2025-07-10 |
 | [Ingeniero de Datos Senior](https://co.linkedin.com/jobs/view/ingeniero-de-datos-senior-at-apiux-tech-4260438236) | 76.12% | 2025-07-10 |
@@ -27,4 +36,3 @@
 | [Senior Data Engineer](https://co.linkedin.com/jobs/view/senior-data-engineer-at-loka-4257889999) | 77.53% | 2025-07-07 |
 | [Senior Data Engineer](https://co.linkedin.com/jobs/view/senior-data-engineer-at-bia-energy-4259885437) | 77.10% | 2025-07-07 |
 | [Senior Data Engineer](https://co.linkedin.com/jobs/view/senior-data-engineer-at-superintendencia-financiera-de-colombia-4263474799) | 76.71% | 2025-07-07 |
-| [Ingeniero de datos](https://co.linkedin.com/jobs/view/ingeniero-de-datos-at-softtek-4262009535) | 78.32% | 2025-07-04 |
