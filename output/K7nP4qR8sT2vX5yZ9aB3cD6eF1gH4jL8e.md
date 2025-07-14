@@ -4,7 +4,6 @@
 | [Ingeniero de IA](https://co.linkedin.com/jobs/view/ingeniero-de-ia-at-wompi-4265391635) | 88.54% | 2025-07-11 |
 | [JR Generative AI Engineer](https://co.linkedin.com/jobs/view/jr-generative-ai-engineer-at-draiver-4263070692) | 83.70% | 2025-07-11 |
 | [Junior AI Engineer](https://co.linkedin.com/jobs/view/junior-ai-engineer-at-itelcx-4265216057) | 81.44% | 2025-07-11 |
-| [Ingeniero de datos](https://co.linkedin.com/jobs/view/ingeniero-de-datos-at-brm-s-a-s-4263508014) | 78.93% | 2025-07-11 |
 | [AI & Transformation Architect](https://co.linkedin.com/jobs/view/ai-transformation-architect-at-tp-4238051576) | 78.78% | 2025-07-11 |
 | [Ingenieroa de Datos](https://co.linkedin.com/jobs/view/ingeniero-a-de-datos-at-inetum-4265236754) | 78.69% | 2025-07-11 |
 | [Ingeniero de Datos](https://co.linkedin.com/jobs/view/ingeniero-de-datos-at-tuya-s-a-4265241954) | 78.03% | 2025-07-11 |
@@ -29,10 +28,3 @@
 | [Data Engineer](https://co.linkedin.com/jobs/view/data-engineer-at-scotiabank-4235457162) | 79.15% | 2025-07-08 |
 | [Senior Machine Learning Engineer - Simulations](https://co.linkedin.com/jobs/view/senior-machine-learning-engineer-simulations-at-veho-4250862642) | 79.14% | 2025-07-08 |
 | [Data Engineer Associate](https://co.linkedin.com/jobs/view/data-engineer-associate-at-scotiabank-4235457161) | 77.63% | 2025-07-08 |
-| [AI Technical Manager](https://co.linkedin.com/jobs/view/ai-technical-manager-at-agentic-dream-4263436545) | 83.12% | 2025-07-07 |
-| [Machine Learning Engineer](https://co.linkedin.com/jobs/view/machine-learning-engineer-at-devsu-4259876692) | 82.66% | 2025-07-07 |
-| [Senior Machine Learning Engineer](https://co.linkedin.com/jobs/view/senior-machine-learning-engineer-at-loka-4251618164) | 82.04% | 2025-07-07 |
-| [Artificial Intelligence / Machine Learning specialist](https://co.linkedin.com/jobs/view/artificial-intelligence-machine-learning-specialist-at-launchpad-technologies-inc-4263216346) | 77.94% | 2025-07-07 |
-| [Senior Data Engineer](https://co.linkedin.com/jobs/view/senior-data-engineer-at-loka-4257889999) | 77.53% | 2025-07-07 |
-| [Senior Data Engineer](https://co.linkedin.com/jobs/view/senior-data-engineer-at-bia-energy-4259885437) | 77.10% | 2025-07-07 |
-| [Senior Data Engineer](https://co.linkedin.com/jobs/view/senior-data-engineer-at-superintendencia-financiera-de-colombia-4263474799) | 76.71% | 2025-07-07 |
