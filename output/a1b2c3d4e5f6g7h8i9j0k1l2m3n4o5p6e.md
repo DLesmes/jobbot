@@ -1,9 +1,7 @@
 # 🚀 Latest Job Offers Recommendations!
 | 🗃️ **Job offer** | 🌡️**Score** | 🗓️ **publication_date** |
 |---|---|---|
+| [Tecnico Electricista](https://co.linkedin.com/jobs/view/tecnico-electricista-at-saufer-soluciones-sas-4267594663) | 60.87% | 2025-07-17 |
+| [Asistente Técnica – Seguros](https://co.linkedin.com/jobs/view/asistente-t%C3%A9cnica-%E2%80%93-seguros-at-multiseguros-latinos-ltda-4262618951) | 60.70% | 2025-07-17 |
+| [Ingeniero Preventa Aeronautico](https://co.linkedin.com/jobs/view/ingeniero-preventa-aeronautico-at-helios-technology-innovation-s-a-s-4267518457) | 60.09% | 2025-07-17 |
 | [Ingeniero de Implementaciones](https://co.linkedin.com/jobs/view/ingeniero-de-implementaciones-at-emma-of-torre-ai-4266322660) | 63.37% | 2025-07-14 |
-| [Ingeniero de Vulnerabilidades](https://co.linkedin.com/jobs/view/ingeniero-de-vulnerabilidades-at-tcm-tecnolog%C3%ADas-con-clase-mundial-4264759404) | 65.03% | 2025-07-10 |
-| [Ingeniero de plataforma](https://co.linkedin.com/jobs/view/ingeniero-de-plataforma-at-lite-thinking-4261184763) | 64.94% | 2025-07-10 |
-| [Ingeniero de diseño hvac](https://co.linkedin.com/jobs/view/ingeniero-de-dise%C3%B1o-hvac-at-jellyfish-power-4264345807) | 60.79% | 2025-07-10 |
-| [COORDINADOR MEDICO](https://co.linkedin.com/jobs/view/coordinador-medico-at-keralty-4264207080) | 69.98% | 2025-07-08 |
-| [Comercial técnico](https://co.linkedin.com/jobs/view/comercial-t%C3%A9cnico-at-edil-andina-4264187252) | 62.23% | 2025-07-08 |
