@@ -1,4 +1,4 @@
-## %% [markdown]
+# %% [markdown]
 # # requirements
 import math
 import itertools
@@ -105,6 +105,15 @@ x = np.array(list(a['count']))
 sns.barplot(x=x, y=y, palette="rocket", hue=y, legend=False)
 plt.grid(True)
 plt.title("'publication_date'")
+#%%
+plt.figure(figsize=(5,7))
+df = df[df['publication_date'] > (datetime.now() - timedelta(days=3)).strftime('%Y-%m-%d')]
+a = pd.DataFrame(df['vacancy_name'].value_counts()[:25])
+y = np.array(list(a.index))
+x = np.array(list(a['count']))
+sns.barplot(x=x, y=y, palette="rocket", hue=y, legend=False)
+plt.grid(True)
+plt.title("'vacancy_name'")
 # %%
 print(f'job offers in the last 3 days: {df[df["publication_date"] > (datetime.now() - timedelta(days=3)).strftime("%Y-%m-%d")].shape[0]}')
 df[df['publication_date'] > (datetime.now() - timedelta(days=3)).strftime('%Y-%m-%d')][['skills']].head(60)
