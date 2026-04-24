@@ -1,8 +1,30 @@
 # 🚀 Latest Job Offers Recommendations!
 | 🗃️ **Job offer** | 🌡️**Score** | 🗓️ **publication_date** |
 |---|---|---|
+| [Principal Full Stack Engineer AI & Platform](https://co.linkedin.com/jobs/view/principal-full-stack-engineer-ai-platform-at-emapta-global-4406127246) | 75.11% | 2026-04-24 |
+| [Data Analyst](https://co.linkedin.com/jobs/view/data-analyst-at-emma-of-torre-ai-4406115470) | 69.47% | 2026-04-24 |
+| [INGENIERO IA](https://co.linkedin.com/jobs/view/ingeniero-ia-at-perceptio-s-a-s-4405058737) | 66.95% | 2026-04-24 |
+| [Senior AI Engineer](https://co.linkedin.com/jobs/view/senior-ai-engineer-at-blanc-labs-4404792294) | 88.88% | 2026-04-23 |
+| [Ingeniero de IA Generativa](https://co.linkedin.com/jobs/view/ingeniero-de-ia-generativa-at-seti-s-a-s-4405067033) | 86.49% | 2026-04-23 |
+| [Machine Learning Engineer](https://co.linkedin.com/jobs/view/machine-learning-engineer-at-inetum-4316393979) | 83.26% | 2026-04-23 |
+| [Fullstack Engineer Agentic AI](https://co.linkedin.com/jobs/view/fullstack-engineer-agentic-ai-at-gft-technologies-4403255399) | 82.08% | 2026-04-23 |
+| [Senior Data Scientist – AI & Agentic](https://co.linkedin.com/jobs/view/senior-data-scientist-%E2%80%93-ai-agentic-at-blanc-labs-4388971234) | 81.41% | 2026-04-23 |
+| [Director, AI Transformation - Consultant](https://co.linkedin.com/jobs/view/director-ai-transformation-consultant-at-tp-4405043494) | 80.30% | 2026-04-23 |
+| [Data Engineer](https://co.linkedin.com/jobs/view/data-engineer-at-pyramid-consulting-inc-4405858853) | 78.97% | 2026-04-23 |
+| [Data Engineer](https://co.linkedin.com/jobs/view/data-engineer-at-perform-4403237970) | 78.94% | 2026-04-23 |
 | [Ingeniero de Datos Senior](https://co.linkedin.com/jobs/view/ingeniero-de-datos-senior-at-minsait-4402838350) | 75.98% | 2026-04-23 |
-| [Software Engineer](https://co.linkedin.com/jobs/view/software-engineer-at-joveo-ai-4405637077) | 69.60% | 2026-04-23 |
+| [Senior Data Engineer Credit](https://co.linkedin.com/jobs/view/senior-data-engineer-credit-at-f%C3%A9lix-4405024658) | 74.93% | 2026-04-23 |
+| [Architect, AI Transformation](https://co.linkedin.com/jobs/view/architect-ai-transformation-at-tp-4405048406) | 72.78% | 2026-04-23 |
+| [Arquitecto de Datos Sr](https://co.linkedin.com/jobs/view/arquitecto-de-datos-sr-at-minsait-4403250219) | 72.18% | 2026-04-23 |
+| [Ingeniero de software](https://co.linkedin.com/jobs/view/ingeniero-de-software-at-net2source-n2s-4405869634) | 71.43% | 2026-04-23 |
+| [Analista Funcional TI](https://co.linkedin.com/jobs/view/analista-funcional-ti-at-empresa-confidencial-4401955731) | 71.03% | 2026-04-23 |
+| [AI Creative Director](https://co.linkedin.com/jobs/view/ai-creative-director-at-superside-4392147222) | 70.45% | 2026-04-23 |
+| [Platform Engineer CI](https://co.linkedin.com/jobs/view/platform-engineer-ci-at-aha%21-4405671238) | 68.21% | 2026-04-23 |
+| [AI Lead Creative](https://co.linkedin.com/jobs/view/ai-lead-creative-at-superside-4381089357) | 67.70% | 2026-04-23 |
+| [Analista de Calidad de Software Automatizador](https://co.linkedin.com/jobs/view/analista-de-calidad-de-software-automatizador-at-pragma-4405019633) | 67.06% | 2026-04-23 |
+| [Data Scientist](https://co.linkedin.com/jobs/view/data-scientist-at-endava-4404794501) | 65.85% | 2026-04-23 |
+| [Senior Data Scientist](https://co.linkedin.com/jobs/view/senior-data-scientist-at-blanc-labs-4404792295) | 65.74% | 2026-04-23 |
+| [Principal Engineer - Data Infrastructure](https://co.linkedin.com/jobs/view/principal-engineer-data-infrastructure-at-sezzle-4383818859) | 65.13% | 2026-04-23 |
 | [AI Engineer](https://co.linkedin.com/jobs/view/ai-engineer-at-whirlpool-corporation-4390287740) | 90.76% | 2026-04-22 |
 | [AI Engineer](https://co.linkedin.com/jobs/view/ai-engineer-at-xpertgroup-4405223356) | 90.20% | 2026-04-22 |
 | [AI Product Engineer](https://co.linkedin.com/jobs/view/ai-product-engineer-at-forte-group-4405275777) | 86.10% | 2026-04-22 |
@@ -13,7 +35,6 @@
 | [Senior Data Engineer](https://co.linkedin.com/jobs/view/senior-data-engineer-at-inetum-4373867656) | 77.09% | 2026-04-22 |
 | [AI Training Specialist](https://co.linkedin.com/jobs/view/ai-training-specialist-at-pencil-4404421006) | 76.61% | 2026-04-22 |
 | [Software Engineer – Python / AI](https://co.linkedin.com/jobs/view/software-engineer-%E2%80%93-python-ai-at-agileengine-4404471260) | 74.48% | 2026-04-22 |
-| [Ingeniero en Gobierno de Datos](https://co.linkedin.com/jobs/view/ingeniero-en-gobierno-de-datos-at-ntt-data-europe-latam-4404449347) | 73.89% | 2026-04-22 |
 | [Senior IT Automation Engineer](https://co.linkedin.com/jobs/view/senior-it-automation-engineer-at-moneygram-4402810322) | 70.63% | 2026-04-22 |
 | [Software Engineer Specialist](https://co.linkedin.com/jobs/view/software-engineer-specialist-at-scotiabank-4319421894) | 70.54% | 2026-04-22 |
 | [AI Graphic Designer](https://co.linkedin.com/jobs/view/ai-graphic-designer-at-superside-4404469836) | 70.31% | 2026-04-22 |
@@ -33,12 +54,10 @@
 | [Ingeniero de IA](https://co.linkedin.com/jobs/view/ingeniero-de-ia-at-xpertgroup-4404218880) | 88.41% | 2026-04-21 |
 | [Artificial Intelligence Engineer](https://co.linkedin.com/jobs/view/artificial-intelligence-engineer-at-caseware-4404522763) | 88.34% | 2026-04-21 |
 | [Sr. AI/ML Engineer](https://co.linkedin.com/jobs/view/sr-ai-ml-engineer-at-perform-4401974407) | 85.22% | 2026-04-21 |
-| [Machine Learning Engineer](https://co.linkedin.com/jobs/view/machine-learning-engineer-at-inetum-4393244048) | 83.26% | 2026-04-21 |
 | [AI Full Stack Engineer](https://co.linkedin.com/jobs/view/ai-full-stack-engineer-at-gigabrands-4404210668) | 80.67% | 2026-04-21 |
 | [AI Engineer II - Marketing](https://co.linkedin.com/jobs/view/ai-engineer-ii-marketing-at-sezzle-4404879561) | 79.08% | 2026-04-21 |
 | [Sr. AI Engineer - Marketing](https://co.linkedin.com/jobs/view/sr-ai-engineer-marketing-at-sezzle-4404880546) | 78.96% | 2026-04-21 |
 | [AI Engineer - Remote - Colombia](https://co.linkedin.com/jobs/view/ai-engineer-remote-colombia-at-kake-4401990481) | 74.53% | 2026-04-21 |
-| [Platform Engineer CI](https://co.linkedin.com/jobs/view/platform-engineer-ci-at-aha%21-4404869528) | 68.21% | 2026-04-21 |
 | [AI Engineer Remote](https://co.linkedin.com/jobs/view/ai-engineer-remote-at-lumenalta-4404019556) | 86.31% | 2026-04-20 |
 | [Senior AI Engineer – LLM and Agent Systems](https://co.linkedin.com/jobs/view/senior-ai-engineer-%E2%80%93-llm-and-agent-systems-at-source-meridian-4402103718) | 82.76% | 2026-04-20 |
 | [Ingeniero de datos](https://co.linkedin.com/jobs/view/ingeniero-de-datos-at-sii-group-colombia-4404384252) | 79.01% | 2026-04-20 |
@@ -52,6 +71,3 @@
 | [Senior Data Engineer](https://co.linkedin.com/jobs/view/senior-data-engineer-at-blend-4403568858) | 77.25% | 2026-04-18 |
 | [Senior Data Engineer AWS - REMOTO](https://co.linkedin.com/jobs/view/senior-data-engineer-aws-remoto-at-stefanini-group-4402791493) | 70.38% | 2026-04-18 |
 | [Infrastructure Engineer Data](https://co.linkedin.com/jobs/view/infrastructure-engineer-data-at-telnyx-4381984167) | 66.62% | 2026-04-18 |
-| [Senior Machine Learning Engineer](https://co.linkedin.com/jobs/view/senior-machine-learning-engineer-at-encora-inc-4403468971) | 82.42% | 2026-04-17 |
-| [Data Engineer](https://co.linkedin.com/jobs/view/data-engineer-at-softtek-4403481332) | 78.33% | 2026-04-17 |
-| [Data Engineer Lead](https://co.linkedin.com/jobs/view/data-engineer-lead-at-scotiabank-4255590780) | 72.64% | 2026-04-17 |
