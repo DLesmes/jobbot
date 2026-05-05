@@ -1,11 +1,19 @@
 # 🚀 Latest Job Offers Recommendations!
 | 🗃️ **Job offer** | 🌡️**Score** | 🗓️ **publication_date** |
 |---|---|---|
+| [Sr. Software Engineer](https://co.linkedin.com/jobs/view/sr-software-engineer-at-backblaze-4407238479) | 68.33% | 2026-05-02 |
+| [Sr. Software Engineer](https://co.linkedin.com/jobs/view/sr-software-engineer-at-backblaze-4407250353) | 68.16% | 2026-05-02 |
+| [Sr. Software Engineer](https://co.linkedin.com/jobs/view/sr-software-engineer-at-backblaze-4407246378) | 68.01% | 2026-05-02 |
+| [Sr. Software Engineer](https://co.linkedin.com/jobs/view/sr-software-engineer-at-backblaze-4407240432) | 66.89% | 2026-05-02 |
+| [Sr. QA Automation Engineer](https://co.linkedin.com/jobs/view/sr-qa-automation-engineer-at-backblaze-4406752879) | 66.35% | 2026-05-02 |
+| [Senior Data Engineer](https://co.linkedin.com/jobs/view/senior-data-engineer-at-kommit-4409474195) | 76.73% | 2026-05-01 |
+| [Senior Quality Automation Engineer Selenium + Java + Python + AI](https://co.linkedin.com/jobs/view/senior-quality-automation-engineer-selenium-%2B-java-%2B-python-%2B-ai-at-mps-group-llc-4409423383) | 70.08% | 2026-05-01 |
 | [Sr. Data Infrastructure Engineer](https://co.linkedin.com/jobs/view/sr-data-infrastructure-engineer-at-backblaze-4406754897) | 69.75% | 2026-05-01 |
 | [Sr. Software Engineer](https://co.linkedin.com/jobs/view/sr-software-engineer-at-backblaze-4406759866) | 67.77% | 2026-05-01 |
-| [Sr. QA Automation Engineer](https://co.linkedin.com/jobs/view/sr-qa-automation-engineer-at-backblaze-4406752879) | 66.35% | 2026-05-01 |
 | [Sr. QA Automation Engineer](https://co.linkedin.com/jobs/view/sr-qa-automation-engineer-at-backblaze-4406442158) | 66.35% | 2026-05-01 |
+| [Information Technology Specialist](https://co.linkedin.com/jobs/view/information-technology-specialist-at-valoroo-4407936574) | 66.13% | 2026-05-01 |
 | [Sr. Platform Engineer](https://co.linkedin.com/jobs/view/sr-platform-engineer-at-aha%21-4409110779) | 65.80% | 2026-05-01 |
+| [QA Automation Engineer](https://co.linkedin.com/jobs/view/qa-automation-engineer-at-fortra-4397626794) | 65.76% | 2026-05-01 |
 | [Automation & AI Systems Specialist](https://co.linkedin.com/jobs/view/automation-ai-systems-specialist-at-softgic-4407383869) | 83.47% | 2026-04-30 |
 | [Senior Backend Engineer, AI Agents](https://co.linkedin.com/jobs/view/senior-backend-engineer-ai-agents-at-toptal-4399406793) | 82.30% | 2026-04-30 |
 | [Senior Machine Learning Engineer](https://co.linkedin.com/jobs/view/senior-machine-learning-engineer-at-loka-4406481933) | 81.96% | 2026-04-30 |
@@ -13,8 +21,6 @@
 | [Senior AI Engineer GenAI & Agentic Systems](https://co.linkedin.com/jobs/view/senior-ai-engineer-genai-agentic-systems-at-neoris-4387679849) | 80.39% | 2026-04-30 |
 | [Software Engineer - Machine Learning Platform](https://co.linkedin.com/jobs/view/software-engineer-machine-learning-platform-at-frontera-4345998415) | 77.96% | 2026-04-30 |
 | [Ingeniero de Datos Consultoría](https://co.linkedin.com/jobs/view/ingeniero-de-datos-consultor%C3%ADa-at-minsait-4409036227) | 77.92% | 2026-04-30 |
-| [Senior AI Engineer AIOps & Automation- Remoto Colombia](https://co.linkedin.com/jobs/view/senior-ai-engineer-aiops-automation-remoto-colombia-at-la-oferta-4409008049) | 76.10% | 2026-04-30 |
-| [Ingeniero de Datos Senior](https://co.linkedin.com/jobs/view/ingeniero-de-datos-senior-at-quind-4409011138) | 76.06% | 2026-04-30 |
 | [AI Full Stack Engineer - KS001](https://co.linkedin.com/jobs/view/ai-full-stack-engineer-ks001-at-gigabrands-4407328237) | 74.16% | 2026-04-30 |
 | [Líder Funcional con enfoque en IA](https://co.linkedin.com/jobs/view/l%C3%ADder-funcional-con-enfoque-en-ia-at-sysman-4406710355) | 71.54% | 2026-04-30 |
 | [Data Analyst](https://co.linkedin.com/jobs/view/data-analyst-at-learning-technologies-group-4409019145) | 69.63% | 2026-04-30 |
@@ -62,5 +68,3 @@
 | [Senior Software Engineer, LearnWith.AI Remote - $100,000/year USD](https://co.linkedin.com/jobs/view/senior-software-engineer-learnwith-ai-remote-%24100-000-year-usd-at-crossover-4389852436) | 66.99% | 2026-04-27 |
 | [Senior Backend Engineer](https://co.linkedin.com/jobs/view/senior-backend-engineer-at-xebia-4407457118) | 66.47% | 2026-04-27 |
 | [Ingeniero de Datos Bilingüe](https://co.linkedin.com/jobs/view/ingeniero-de-datos-biling%C3%BCe-at-emma-of-torre-ai-4407481369) | 65.16% | 2026-04-27 |
-| [Senior Software Engineer](https://co.linkedin.com/jobs/view/senior-software-engineer-at-antenna-4406822271) | 69.45% | 2026-04-25 |
-| [Application Engineer](https://co.linkedin.com/jobs/view/application-engineer-at-skf-group-4404132669) | 67.22% | 2026-04-25 |
