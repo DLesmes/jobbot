@@ -1,6 +1,19 @@
 # 🚀 Latest Job Offers Recommendations!
 | 🗃️ **Job offer** | 🌡️**Score** | 🗓️ **publication_date** |
 |---|---|---|
+| [AI Deployment Engineer](https://co.linkedin.com/jobs/view/ai-deployment-engineer-at-remotivated-4431617722) | 85.36% | 2026-06-22 |
+| [AI Engineer Remote](https://co.linkedin.com/jobs/view/ai-engineer-remote-at-lumenalta-4431602885) | 86.31% | 2026-06-21 |
+| [Machine Learning Engineer](https://co.linkedin.com/jobs/view/machine-learning-engineer-at-lumenalta-4431600873) | 82.79% | 2026-06-21 |
+| [Mid Data Science AI](https://co.linkedin.com/jobs/view/mid-data-science-ai-at-nielseniq-4379677461) | 76.25% | 2026-06-21 |
+| [Ingeniero de datos - Standard](https://co.linkedin.com/jobs/view/ingeniero-de-datos-standard-at-inetum-4431607471) | 75.03% | 2026-06-21 |
+| [DataOps Engineer](https://co.linkedin.com/jobs/view/dataops-engineer-at-scotiabank-4390795817) | 74.14% | 2026-06-21 |
+| [Senior Data Engineer Lead](https://co.linkedin.com/jobs/view/senior-data-engineer-lead-at-scotiabank-4390490596) | 71.36% | 2026-06-21 |
+| [Software Engineer Specialist](https://co.linkedin.com/jobs/view/software-engineer-specialist-at-scotiabank-4288108189) | 70.69% | 2026-06-21 |
+| [Software Engineer Specialist](https://co.linkedin.com/jobs/view/software-engineer-specialist-at-scotiabank-4319421894) | 70.54% | 2026-06-21 |
+| [Analista Desarrollador de Plataformas](https://co.linkedin.com/jobs/view/analista-desarrollador-de-plataformas-at-altipal-s-a-s-4431385163) | 69.46% | 2026-06-21 |
+| [Senior Database Engineer](https://co.linkedin.com/jobs/view/senior-database-engineer-at-scotiabank-4412170873) | 68.71% | 2026-06-21 |
+| [Data Validation Engineer](https://co.linkedin.com/jobs/view/data-validation-engineer-at-lumenalta-4431398867) | 67.71% | 2026-06-21 |
+| [Data Governance Engineer](https://co.linkedin.com/jobs/view/data-governance-engineer-at-lumenalta-4431611019) | 67.46% | 2026-06-21 |
 | [Software Engineer](https://co.linkedin.com/jobs/view/software-engineer-at-emapta-global-4429605841) | 70.00% | 2026-06-19 |
 | [Ingeniero de datos Bilingüe  Databricks- AWS](https://co.linkedin.com/jobs/view/ingeniero-de-datos-biling%C3%BCe-databricks-aws-at-sofka-technologies-4429601305) | 66.07% | 2026-06-19 |
 | [Senior AI Engineer](https://co.linkedin.com/jobs/view/senior-ai-engineer-at-wizeline-4430151294) | 88.81% | 2026-06-18 |
@@ -12,12 +25,10 @@
 | [Arquitectoa de Automatización Expertoa](https://co.linkedin.com/jobs/view/arquitecto-a-de-automatizaci%C3%B3n-experto-a-at-hitss-colombia-4427854872) | 75.46% | 2026-06-18 |
 | [100% Remoto Agentic AI Developer Semi Senior](https://co.linkedin.com/jobs/view/100%25-remoto-agentic-ai-developer-semi-senior-at-sebastian-moreno-a-4430734285) | 75.23% | 2026-06-18 |
 | [AI Computer Vision Engineer - Remote - Colombia](https://co.linkedin.com/jobs/view/ai-computer-vision-engineer-remote-colombia-at-fullstack-4370881319) | 71.03% | 2026-06-18 |
-| [Software Engineer Specialist](https://co.linkedin.com/jobs/view/software-engineer-specialist-at-scotiabank-4288108189) | 70.69% | 2026-06-18 |
 | [Software Engineer](https://co.linkedin.com/jobs/view/software-engineer-at-emapta-global-4429382604) | 69.93% | 2026-06-18 |
 | [Ingeniero Senior de Automatización de Aseguramiento de Calidad](https://co.linkedin.com/jobs/view/ingeniero-senior-de-automatizaci%C3%B3n-de-aseguramiento-de-calidad-at-greensqa-4430740515) | 68.96% | 2026-06-18 |
 | [Ingeniero de Soporte de Aplicaciones](https://co.linkedin.com/jobs/view/ingeniero-de-soporte-de-aplicaciones-at-empresa-confidencial-4430470924) | 68.68% | 2026-06-18 |
 | [Senior Data Engineer, Data Integration and ETL Development](https://co.linkedin.com/jobs/view/senior-data-engineer-data-integration-and-etl-development-at-emma-of-torre-ai-4430710904) | 66.22% | 2026-06-18 |
-| [Information Technology Specialist](https://co.linkedin.com/jobs/view/information-technology-specialist-at-valoroo-4429363513) | 66.13% | 2026-06-18 |
 | [Data Scientist](https://co.linkedin.com/jobs/view/data-scientist-at-agileengine-4429388242) | 65.15% | 2026-06-18 |
 | [Arquitecto de Inteligencia Artificial](https://co.linkedin.com/jobs/view/arquitecto-de-inteligencia-artificial-at-empresa-confidencial-4429967417) | 83.05% | 2026-06-17 |
 | [Ingeniero de datos](https://co.linkedin.com/jobs/view/ingeniero-de-datos-at-tata-consultancy-services-4429982298) | 79.20% | 2026-06-17 |
