@@ -1,6 +1,23 @@
 # 🚀 Latest Job Offers Recommendations!
 | 🗃️ **Job offer** | 🌡️**Score** | 🗓️ **publication_date** |
 |---|---|---|
+| [AI/ML Engineer](https://co.linkedin.com/jobs/view/ai-ml-engineer-at-perform-4415696357) | 89.27% | 2026-06-30 |
+| [Senior Software Developer, AI Data Engineer](https://co.linkedin.com/jobs/view/senior-software-developer-ai-data-engineer-at-caseware-4415053988) | 84.90% | 2026-06-30 |
+| [Senior Full-Stack AI Agentic Engineer](https://co.linkedin.com/jobs/view/senior-full-stack-ai-agentic-engineer-at-neoris-4425663510) | 82.70% | 2026-06-30 |
+| [Data Engineer](https://co.linkedin.com/jobs/view/data-engineer-at-perform-4415705281) | 78.94% | 2026-06-30 |
+| [Data Engineer](https://co.linkedin.com/jobs/view/data-engineer-at-nuaav-4434365069) | 78.88% | 2026-06-30 |
+| [Senior Data Engineer](https://co.linkedin.com/jobs/view/senior-data-engineer-at-sgs-4431572331) | 76.95% | 2026-06-30 |
+| [Ingeniero de Datos Senior - Remoto](https://co.linkedin.com/jobs/view/ingeniero-de-datos-senior-remoto-at-linkstaria-4434423493) | 76.25% | 2026-06-30 |
+| [Ingeniero de pronóstico](https://co.linkedin.com/jobs/view/ingeniero-de-pron%C3%B3stico-at-darnel-colombia-4435138045) | 70.53% | 2026-06-30 |
+| [Senior Software Architect C# / AI First - GovTech SaaS company](https://co.linkedin.com/jobs/view/senior-software-architect-c%23-ai-first-govtech-saas-company-at-truelogic-software-4435302743) | 70.10% | 2026-06-30 |
+| [Software Engineer](https://co.linkedin.com/jobs/view/software-engineer-at-puzzlehr-4434323123) | 69.70% | 2026-06-30 |
+| [Especialista de Datos](https://co.linkedin.com/jobs/view/especialista-de-datos-at-postobon-s-a-4431941153) | 69.08% | 2026-06-30 |
+| [Automation Analyst Entry Level](https://co.linkedin.com/jobs/view/automation-analyst-entry-level-at-capgemini-4435173504) | 67.15% | 2026-06-30 |
+| [AI Creative Designer](https://co.linkedin.com/jobs/view/ai-creative-designer-at-superside-4406599783) | 71.09% | 2026-06-29 |
+| [Data Analyst](https://co.linkedin.com/jobs/view/data-analyst-at-stanley-black-decker-inc-4434724076) | 70.09% | 2026-06-29 |
+| [Senior Software Engineer - MAAS](https://co.linkedin.com/jobs/view/senior-software-engineer-maas-at-canonical-4434721415) | 67.51% | 2026-06-29 |
+| [Manager - Data Science](https://co.linkedin.com/jobs/view/manager-data-science-at-nielseniq-4351614123) | 67.12% | 2026-06-29 |
+| [Engineer](https://co.linkedin.com/jobs/view/engineer-at-nielseniq-4344050316) | 65.46% | 2026-06-29 |
 | [Arquitecto de Datos e IA](https://co.linkedin.com/jobs/view/arquitecto-de-datos-e-ia-at-axa-colpatria-4432953741) | 86.41% | 2026-06-26 |
 | [Senior AI Engineer – LLM and Agent Systems](https://co.linkedin.com/jobs/view/senior-ai-engineer-%E2%80%93-llm-and-agent-systems-at-source-meridian-4433293553) | 82.76% | 2026-06-26 |
 | [Data Engineer](https://co.linkedin.com/jobs/view/data-engineer-at-sii-group-colombia-4434035892) | 78.66% | 2026-06-26 |
@@ -47,6 +64,5 @@
 | [Analista de sistemas](https://co.linkedin.com/jobs/view/analista-de-sistemas-at-azzorti-4432574114) | 67.22% | 2026-06-24 |
 | [Analista de Emision](https://co.linkedin.com/jobs/view/analista-de-emision-at-zurich-insurance-4432106263) | 66.37% | 2026-06-24 |
 | [Collaboration Engineer](https://co.linkedin.com/jobs/view/collaboration-engineer-at-capgemini-engineering-4431882019) | 66.30% | 2026-06-24 |
-| [Product Manager - CPS AI Focused Team](https://co.linkedin.com/jobs/view/product-manager-cps-ai-focused-team-at-nielseniq-4403630230) | 65.95% | 2026-06-24 |
 | [Analista III – Ingenieroa de Desarrollo Senior](https://co.linkedin.com/jobs/view/analista-iii-%E2%80%93-ingeniero-a-de-desarrollo-senior-at-aportes-en-l%C3%ADnea-4432124284) | 65.66% | 2026-06-24 |
 | [Data Engineer - Remote Work](https://co.linkedin.com/jobs/view/data-engineer-remote-work-at-indi-staffing-services-4432578825) | 65.41% | 2026-06-24 |
