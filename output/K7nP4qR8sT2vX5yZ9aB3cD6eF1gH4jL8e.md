@@ -1,6 +1,14 @@
 # 🚀 Latest Job Offers Recommendations!
 | 🗃️ **Job offer** | 🌡️**Score** | 🗓️ **publication_date** |
 |---|---|---|
+| [AI Workflow & Automation Specialist](https://co.linkedin.com/jobs/view/ai-workflow-automation-specialist-at-emapta-global-4437138286) | 81.58% | 2026-07-06 |
+| [SENIOR AI ENGINEER](https://co.linkedin.com/jobs/view/senior-ai-engineer-at-grupo-asd-4437418603) | 78.42% | 2026-07-06 |
+| [Data & FinOps Engineer](https://co.linkedin.com/jobs/view/data-finops-engineer-at-lumenalta-4437406680) | 71.73% | 2026-07-06 |
+| [Software Engineer Associate](https://co.linkedin.com/jobs/view/software-engineer-associate-at-scotiabank-4368080490) | 69.78% | 2026-07-06 |
+| [Software Engineer Associate](https://co.linkedin.com/jobs/view/software-engineer-associate-at-scotiabank-4387739357) | 69.10% | 2026-07-06 |
+| [Senior Platform Engineer](https://co.linkedin.com/jobs/view/senior-platform-engineer-at-n-ix-4436226392) | 68.39% | 2026-07-06 |
+| [Integration Engineer](https://co.linkedin.com/jobs/view/integration-engineer-at-accenture-colombia-4427479065) | 66.86% | 2026-07-06 |
+| [Ingeniero de ciberseguridad e IAM](https://co.linkedin.com/jobs/view/ingeniero-de-ciberseguridad-e-iam-at-quala-4437183800) | 66.72% | 2026-07-06 |
 | [Data Engineer](https://co.linkedin.com/jobs/view/data-engineer-at-scotiabank-4435261375) | 79.03% | 2026-07-02 |
 | [Senior Data Engineer](https://co.linkedin.com/jobs/view/senior-data-engineer-at-blankfactor-4433109681) | 77.37% | 2026-07-02 |
 | [Senior Data Engineer](https://co.linkedin.com/jobs/view/senior-data-engineer-at-kommit-4436359812) | 77.13% | 2026-07-02 |
@@ -50,7 +58,6 @@
 | [Senior Full-Stack AI Agentic Engineer](https://co.linkedin.com/jobs/view/senior-full-stack-ai-agentic-engineer-at-neoris-4425663510) | 82.70% | 2026-06-30 |
 | [Data Engineer](https://co.linkedin.com/jobs/view/data-engineer-at-perform-4415705281) | 78.94% | 2026-06-30 |
 | [Data Engineer](https://co.linkedin.com/jobs/view/data-engineer-at-nuaav-4434365069) | 78.88% | 2026-06-30 |
-| [Ingeniero Sr. de IA](https://co.linkedin.com/jobs/view/ingeniero-sr-de-ia-at-axa-colpatria-4434380052) | 70.32% | 2026-06-30 |
 | [Senior Software Architect C# / AI First - GovTech SaaS company](https://co.linkedin.com/jobs/view/senior-software-architect-c%23-ai-first-govtech-saas-company-at-truelogic-software-4435302743) | 70.10% | 2026-06-30 |
 | [Software Engineer](https://co.linkedin.com/jobs/view/software-engineer-at-puzzlehr-4434323123) | 69.70% | 2026-06-30 |
 | [Ingeniero de Sistemas](https://co.linkedin.com/jobs/view/ingeniero-de-sistemas-at-constructora-ossalopez-4435352316) | 69.24% | 2026-06-30 |
