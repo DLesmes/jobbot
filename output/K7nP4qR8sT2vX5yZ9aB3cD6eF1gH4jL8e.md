@@ -1,7 +1,30 @@
 # 🚀 Latest Job Offers Recommendations!
 | 🗃️ **Job offer** | 🌡️**Score** | 🗓️ **publication_date** |
 |---|---|---|
+| [Artificial Intelligence Engineer](https://co.linkedin.com/jobs/view/artificial-intelligence-engineer-at-caseware-4438862505) | 88.18% | 2026-07-10 |
+| [Profesor/a Auxiliar – Analítica de Datos e Inteligencia Artificial](https://co.linkedin.com/jobs/view/profesor-a-auxiliar-%E2%80%93-anal%C3%ADtica-de-datos-e-inteligencia-artificial-at-universidad-ean-4437932177) | 75.99% | 2026-07-10 |
+| [Systems Engineer](https://co.linkedin.com/jobs/view/systems-engineer-at-emapta-global-4438875689) | 67.66% | 2026-07-10 |
+| [Information Technology Specialist](https://co.linkedin.com/jobs/view/information-technology-specialist-at-within-4435923287) | 66.04% | 2026-07-10 |
+| [Senior Artificial Intelligence Data Engineer](https://co.linkedin.com/jobs/view/senior-artificial-intelligence-data-engineer-at-caseware-4438808036) | 88.95% | 2026-07-09 |
 | [Arquitecto de Soluciones - IA](https://co.linkedin.com/jobs/view/arquitecto-de-soluciones-ia-at-sofka-technologies-4437321968) | 80.93% | 2026-07-09 |
+| [Data Engineer](https://co.linkedin.com/jobs/view/data-engineer-at-goodway-group-4438696872) | 79.23% | 2026-07-09 |
+| [Ingeniero de datos](https://co.linkedin.com/jobs/view/ingeniero-de-datos-at-tp-4438818225) | 79.09% | 2026-07-09 |
+| [Middleware Engineer and AI Automation](https://co.linkedin.com/jobs/view/middleware-engineer-and-ai-automation-at-innovecs-4438620505) | 78.80% | 2026-07-09 |
+| [Ingeniero de Plataforma de Datos](https://co.linkedin.com/jobs/view/ingeniero-de-plataforma-de-datos-at-nequi-4437916405) | 78.06% | 2026-07-09 |
+| [Ingeniero de Datos](https://co.linkedin.com/jobs/view/ingeniero-de-datos-at-cinte-colombia-4438834758) | 77.44% | 2026-07-09 |
+| [Especialista Tecnico Base de Datos](https://co.linkedin.com/jobs/view/especialista-tecnico-base-de-datos-at-avos-tech-chile-4438659400) | 75.47% | 2026-07-09 |
+| [Data Expert](https://co.linkedin.com/jobs/view/data-expert-at-tp-4438850324) | 71.96% | 2026-07-09 |
+| [Ingeniero de software](https://co.linkedin.com/jobs/view/ingeniero-de-software-at-net2source-n2s-4438823779) | 71.43% | 2026-07-09 |
+| [Data Integration Engineer](https://co.linkedin.com/jobs/view/data-integration-engineer-at-solvo-global-4435685712) | 71.09% | 2026-07-09 |
+| [Arquitecto de datos](https://co.linkedin.com/jobs/view/arquitecto-de-datos-at-axity-4438648857) | 71.03% | 2026-07-09 |
+| [Software Engineer Specialist](https://co.linkedin.com/jobs/view/software-engineer-specialist-at-scotiabank-4288108189) | 70.69% | 2026-07-09 |
+| [Data Analyst](https://co.linkedin.com/jobs/view/data-analyst-at-solvo-global-careers-4434596588) | 69.69% | 2026-07-09 |
+| [Engineering / Estimating Manager](https://co.linkedin.com/jobs/view/engineering-estimating-manager-at-trident-mechanical-services-llc-4437904007) | 69.64% | 2026-07-09 |
+| [Ingeniero de datos Junior](https://co.linkedin.com/jobs/view/ingeniero-de-datos-junior-at-tp-4438822694) | 68.55% | 2026-07-09 |
+| [Ingeniero de Soporte Aplicativos Web](https://co.linkedin.com/jobs/view/ingeniero-de-soporte-aplicativos-web-at-emma-of-torre-ai-4435691671) | 68.48% | 2026-07-09 |
+| [Associate Data Scientist](https://co.linkedin.com/jobs/view/associate-data-scientist-at-omnicom-global-solutions-colombia-4438664594) | 66.62% | 2026-07-09 |
+| [Ingeniero de Apoyo](https://co.linkedin.com/jobs/view/ingeniero-de-apoyo-at-hmv-ingenieros-4438627645) | 65.78% | 2026-07-09 |
+| [Civil Engineer - AutoCAD Drafter](https://co.linkedin.com/jobs/view/civil-engineer-autocad-drafter-at-the-a-career-4438846663) | 65.07% | 2026-07-09 |
 | [AI Engineer](https://co.linkedin.com/jobs/view/ai-engineer-at-boi-board-of-innovation-4438204908) | 88.87% | 2026-07-08 |
 | [AI Operations Engineer](https://co.linkedin.com/jobs/view/ai-operations-engineer-at-kushki-4438192909) | 86.95% | 2026-07-08 |
 | [Ingeniero de datos](https://co.linkedin.com/jobs/view/ingeniero-de-datos-at-tata-consultancy-services-4438236730) | 79.45% | 2026-07-08 |
@@ -12,7 +35,6 @@
 | [Middle Data Engineer](https://co.linkedin.com/jobs/view/middle-data-engineer-at-blossom-4438521106) | 73.04% | 2026-07-08 |
 | [IA Solution Engineer](https://co.linkedin.com/jobs/view/ia-solution-engineer-at-confidential-careers-4438525669) | 71.65% | 2026-07-08 |
 | [Software Engineer Specialist](https://co.linkedin.com/jobs/view/software-engineer-specialist-at-scotiabank-4418221082) | 70.71% | 2026-07-08 |
-| [Software Engineer Specialist](https://co.linkedin.com/jobs/view/software-engineer-specialist-at-scotiabank-4288108189) | 70.69% | 2026-07-08 |
 | [Consultor de Automatización de Procesos Robóticos](https://co.linkedin.com/jobs/view/consultor-de-automatizaci%C3%B3n-de-procesos-rob%C3%B3ticos-at-amaris-consulting-4434856887) | 70.52% | 2026-07-08 |
 | [Junior Data Engineer Databricks](https://co.linkedin.com/jobs/view/junior-data-engineer-databricks-at-scotiatech-4437304582) | 70.24% | 2026-07-08 |
 | [Software Engineer Specialist](https://co.linkedin.com/jobs/view/software-engineer-specialist-at-scotiabank-4408942663) | 70.17% | 2026-07-08 |
